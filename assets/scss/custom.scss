@@ -1,0 +1,31 @@
+.container {
+    max-width: 90%;
+}
+
+// Smaller font for section headings on homepage and research
+.section-heading h1 {
+  font-size: 1.5rem;
+}
+
+// Smaller font for paper titles
+.article-container h1 {
+  font-size: 1.7rem;
+}
+
+// h3 headings not bold (how to combine these?)
+.article-style h3 {
+    font-weight: normal;
+}
+.col-12 h3 {  // bootstrap classes
+    font-weight: normal;
+}
+.col-lg-8 h3 {
+    font-weight: normal;
+}
+
+.pub-list-item a {
+    font-weight: bold;
+}
+
+// where can I see the defaults?
+// homepage, my name: .portrait-title h2
