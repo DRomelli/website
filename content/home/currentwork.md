@@ -16,32 +16,32 @@ design:
 ---
 
 
-**[The Effect of U.S. Climate Policy on Financial Markets: An Event Study of the Inflation Reduction Act](publication/ira)**  
-with Eric Offner and Glenn Rudebusch, Brookings Working Paper, September 2023.
+**[Unravelling household financial assets and demographic characteristics: a novel data perspective](publication/_hfcs_shs)**  
+with Simone Arrigoni, Agustin Bénétrix and Tara McIndoe-Calder,Bank for International Settlements, IFC Bulletin No 62, 2024.
 
-**[Climate Policy Curves: Linking Policy Choices to Climate Outcomes](publication/cpc)**  
-with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch, CEPR
-Discussion Paper, November 2022.
+**[Trends in Central Bank Independence: A De-jure Perspective](publication/_cbi_trends)**  
+BAFFI CAREFIN Centre Research Paper No. 217, 2024.
 
-**Changing Perceptions and Post-Pandemic Monetary Policy**  
-with Carolin Pflueger and Adi Sunderam
+**[Fiscal Dominance, Monetary Policy and Exchange Rates: Lessons from Early-Modern Venice](publication/_venice)**
+with Donato Masciandaro and Stefano Ugolini  
+BAFFI CAREFIN Centre Research Paper No. 202, 2023.
 
-**Corporate Green Pledges**  
-with Daniel Huber, Eric Offner, Marlene Renkel, and Ole Wilms
+**[Women and Governance: Central Bank Boards and Monetary Policy](publication/_aler)**  
+with Donato Masciandaro and Paola Profeta, Trinity Economic Papers (TEP) Working Paper No. 1123, 2023.
 
-**Green Stocks and Monetary Policy Shocks**  
-with Eric Offner and Glenn Rudebusch
+**[Monetary policy and financial markets: evidence from Twitter traffic](publication/_twitter_monpol)**  
+with Donato Masciandaro and Gaia Rubera, Trinity Economic Papers (TEP) Working Paper No. 1023, 2023.
 
-**Risk Appetite and the Monetary Transmission**   
-with Maik Schmeling and Andreas Schrimpf
+**Central Bank Independence and Fiscal Space**
+with Angelos Athanasopoulos, Nicolò Fraccaroli and Andreas Kern.
 
-**The Response of Prices to Monetary Policy: Firm-Level Evidence from Sweden**  
-with Alexander Czarnota and Mathias Klein
+**Does central bank independence lead to monetary discipline?** with Etienne Farvaque and Alexander Jung.
 
-**Effects of Carbon Policies on Inflation Expectations**  
-with Diego Känzig and Glenn Rudebusch
+**Inflation: persistence and central bank independence**
+with Angelos Athanasopoulos and Donato Masciandaro.
 
-**Cross-Sectional Skewness in Interest Rate Surveys**    
-with Mikhail Chernov
+**Mandate-related Central Bank Speeches and Forecast Dispersion**
+with Thomas Lustenberger and Enzo Rossi.
 
-
+**Warning words in a warming world: Central bank communication and climate change**
+with Emanuele Campiglio, Jérôme Deyris and Ginevra Scalisi.
