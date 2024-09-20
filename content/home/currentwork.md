@@ -16,8 +16,8 @@ design:
 ---
 
 
-**[Unravelling household financial assets and demographic characteristics: a novel data perspective](publication/_hfcs_shs)**  
-with Simone Arrigoni, Agustin Bénétrix and Tara McIndoe-Calder,Bank for International Settlements, IFC Bulletin No 62, 2024.
+**[The Effect of U.S. Climate Policy on Financial Markets: An Event Study of the Inflation Reduction Act](publication/ira)**  
+with Eric Offner and Glenn Rudebusch, Brookings Working Paper, September 2023.
 
 **[Trends in Central Bank Independence: A De-jure Perspective](publication/_cbi_trends)**  
 BAFFI CAREFIN Centre Research Paper No. 217, 2024.
@@ -32,8 +32,8 @@ with Donato Masciandaro and Paola Profeta, Trinity Economic Papers (TEP) Working
 **[Monetary policy and financial markets: evidence from Twitter traffic](publication/_twitter_monpol)**  
 with Donato Masciandaro and Gaia Rubera, Trinity Economic Papers (TEP) Working Paper No. 1023, 2023.
 
-**Central Bank Independence and Fiscal Space**
-with Angelos Athanasopoulos, Nicolò Fraccaroli and Andreas Kern.
+**Risk Appetite and the Monetary Transmission**   
+with Maik Schmeling and Andreas Schrimpf
 
 **Does central bank independence lead to monetary discipline?** with Etienne Farvaque and Alexander Jung.
 
@@ -43,5 +43,4 @@ with Angelos Athanasopoulos and Donato Masciandaro.
 **Mandate-related Central Bank Speeches and Forecast Dispersion**
 with Thomas Lustenberger and Enzo Rossi.
 
-**Warning words in a warming world: Central bank communication and climate change**
-with Emanuele Campiglio, Jérôme Deyris and Ginevra Scalisi.
+

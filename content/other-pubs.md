@@ -27,4 +27,4 @@ Banking, Oxford University Press, 2019
 
 [ECB communication and its post-pandemic challenges](publications/euparl2022), with Manuela Moschella, Monetary Dialogue Papers, European Parliament, February 2022.
 
-[Central Bank Reforms and Institutions](publications/ifo2019)with Oana Peia, ifo DICE Report, ifo Institute, I/2019, Vol. 17, 30?35, 2019.
+[What Moves the Interest Rate Term Structure?](https://www.frbsf.org/economic-research/publications/economic-letter/2011/november/interest-rate-structure/), November 7, 2011.
