@@ -1,87 +1,30 @@
 ---
 title: 'Other Publications'
-author: Michael Bauer
-date: '2021-12-31'
+author: Davide Romelli
+date: '2024-09-20'
 ---
 
-### Articles (not peer-reviewed)
+### Books
 
-[US benefit-cost analysis requires revision](https://www.science.org/doi/10.1126/science.adi5943), with Howard, Sarinsky, Cecot, Cropper, Drupp, Freeman, Gillingham, Gollier, Groom, Li, Livermore, Newell, Pizer, Prest, Rudebusch, Sterner and Wagner, *Science*, Letter, Vol. 380, No. 6647, May 25, 2023.
+[Currency Unions](publications/cu2020), with Patrick Honohan and Fadi Hassan, Edward Elgar Publishing, 2020.
 
-### Blog Posts
+### Book chapters
 
-[Did the Yield Curve Flip? Will the Economy
-Dip?](https://www.frbsf.org/our-district/about/sf-fed-blog/did-yield-curve-flip-will-economy-dip/),
-with Thomas Mertens, SF Fed Blog, February 27, 2019.
+[Twin Peaks and Central Banks](publications/cup2021), with Donato Masciandaro, in Andrew Godwin and Andrew Schmulow (eds), The Cambridge Handbook of Twin Peaks Financial Regulation, Cambridge University Press, 2021.
 
-[The spanning hypothesis and risk premia in long-term
-bonds](https://voxeu.org/article/spanning-hypothesis-and-risk-premia-long-term-bonds),
-with James Hamilton, VoxEU, July 7, 2017.
+[Economics of European Monetary Integration](publications/oup2020), with Donato Masciandaro, in Fabian Amtenbrink and Christoph, Herrmann (eds), EU Law of Economic & Monetary Union, Oxford University Press, 2020.
 
-### SF Fed Economic Letters
+[Peaks and Troughs: Economics and Political Economy of Central Bank Independence Cycles](publications/oup2019), with D. Masciandaro, in David G. Mayes, Pierre L. Siklos and Jan-Egbert Sturm (eds), The Oxford Handbook of the Economics of Central
+Banking, Oxford University Press, 2019
 
-[Monetary Policy and Financial Conditions](https://www.frbsf.org/research-and-insights/publications/economic-letter/2024/03/monetary-policy-and-financial-conditions/), with Zoë Arnaut, March 4, 2024.
+### Book chapters (not peer-reviewed)
 
-[Current Recession Risk According to the Yield Curve](https://www.frbsf.org/economic-research/publications/economic-letter/2022/may/current-recession-risk-according-to-yield-curve/),
-with Thomas Mertens, May 9, 2022.
+[From Silence to Voice: Monetary Policy, Central Bank Governance and Communication](publications/suerf2016), with Donato Masciandaro, in Ernest Gnan and Donato Masciandaro (eds), Central Banking and Monetary Policy: Which Will Be the Post-Crisis New Normal?, SUERF Studies, SUERF - The European Money and Finance Forum, Lancier, 2016.
 
-[Climate Change Costs Rise as Interest Rates
-Fall](https://www.frbsf.org/economic-research/publications/economic-letter/2021/october/climate-change-costs-rise-as-interest-rates-fall/),
-with Glenn Rudebusch, October 20, 2021.
+### Other publications
 
-[Information in the Yield Curve about Future
-Recessions](https://www.frbsf.org/economic-research/publications/economic-letter/2018/august/information-in-yield-curve-about-future-recessions/),
-with Thomas Mertens, August 27, 2018.
+[Inflation dynamics and monetary policy in the Euro area and the US](publications/euparl2023), with Manuela Moschella, Monetary Dialogue Papers, European Parliament, November 2023.
 
-[Economic Forecasts with the Yield
-Curve](https://www.frbsf.org/economic-research/publications/economic-letter/2018/march/economic-forecasts-with-yield-curve/),
-with Thomas Mertens, March 5, 2018.
+[ECB communication and its post-pandemic challenges](publications/euparl2022), with Manuela Moschella, Monetary Dialogue Papers, European Parliament, February 2022.
 
-[A New Conundrum in the Bond
-Market](https://www.frbsf.org/economic-research/publications/economic-letter/2017/november/new-conundrum-in-bond-market/),
-November 20, 2017.
-
-[Bridging the Gap: Forecasting Interest Rates with Macro
-Trends](https://www.frbsf.org/economic-research/publications/economic-letter/2017/july/bridging-gap-forecasting-interest-rates-with-macroeconomic-trends/),
-July 31, 2017.
-
-[Why Are Long-Term Interest Rates So
-Low?](https://www.frbsf.org/economic-research/publications/economic-letter/2016/december/why-are-long-term-interest-rates-so-low/),
-with Glenn Rudebusch, December 5, 2016.
-
-[Do Macro Variables Help Forecast Interest
-Rates?](https://www.frbsf.org/economic-research/publications/economic-letter/2016/june/do-macroeconomic-variables-help-forecast-interest-rates/),
-with James Hamilton, June 27, 2016.
-
-[Can We Rely on Market-Based Inflation
-Forecasts?](https://www.frbsf.org/economic-research/publications/economic-letter/2015/september/market-based-inflation-forecasting-and-alternative-methods/),
-with Erin McCarthy, September 21, 2015. ([Addendum](https://www.frbsf.org/economic-research/files/el2015-30addendum.pdf)
-with technical details)
-
-[Optimal Policy and Market-Based
-Expectations](https://www.frbsf.org/economic-research/publications/economic-letter/2015/april/monetary-policy-market-based-expectations/),
-with Glenn Rudebusch, April 13, 2015.
-
-[Options-Based Expectations of Future Policy
-Rates](https://www.frbsf.org/economic-research/publications/economic-letter/2014/september/options-based-expectations-short-term-interest-rates-monetary-policy-rates/),
-September 29, 2014.
-
-[Financial Market Outlook for
-Inflation](https://www.frbsf.org/economic-research/publications/economic-letter/2014/may/financial-market-outlook-inflation-derivatives/),
-with Jens Christensen, May 12, 2014. 
-
-[Expectations of Monetary Policy
-Liftoff](https://www.frbsf.org/economic-research/publications/economic-letter/2013/november/federal-funds-rate-liftoff-increase-monetary-policy/),
-with Glenn Rudebusch, November 18, 2013.
-
-[What Caused the Decline in Long-term
-Yields?](https://www.frbsf.org/economic-research/publications/economic-letter/2013/july/cause-decline-long-term-us-government-bond-yields/),
-with Glenn Rudebusch, July 8, 2013.
-
-[Monetary Policy and Interest Rate Uncertainty](https://www.frbsf.org/economic-research/publications/economic-letter/2012/december/monetary-policy-interest-rate-uncertainty/), December 24, 2012.
-
-[Fed Asset Buying and Private Borrowing Rates](https://www.frbsf.org/economic-research/publications/economic-letter/2012/may/fed-asset-buying-private-borrowing-rates/), May 21, 2012.
-
-[Signals from Unconventional Monetary Policy](https://www.frbsf.org/economic-research/publications/economic-letter/2011/november/unconventional-monetary-policy/), with Glenn Rudebusch, November 21, 2011.
-
-[What Moves the Interest Rate Term Structure?](https://www.frbsf.org/economic-research/publications/economic-letter/2011/november/interest-rate-structure/), November 7, 2011.
+[Central Bank Reforms and Institutions](publications/ifo2019)with Oana Peia, ifo DICE Report, ifo Institute, I/2019, Vol. 17, 30?35, 2019.
