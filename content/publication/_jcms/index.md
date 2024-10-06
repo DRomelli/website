@@ -16,7 +16,7 @@ date: '2024-06-21'
 highlight: false
 
 image:
-  caption: '🇪🇺 What Do Politicians Think of Technocratic Institutions? 🏛️'
+  caption: 'What Do Politicians Think of Technocratic Institutions?'
   focal_point: ""
   preview_only: false
 
