@@ -1,9 +1,12 @@
 ---
-abstract: We investigate the role of financial frictions in R&D spending in a large sample of European firms. Our identification strategy exploits the contraction in credit supply that followed the 2008–09 global financial crisis and 2012 Euro area sovereign debt crisis, together with differences in financial frictions across firms and industries to identify a causal effect of financial constraints on investment in innovation. We show that firms that are more likely financially constrained, in industries more dependent on external finance, invest disproportionally less in R&D during periods of tight credit supply. Smaller, private firms with weaker balance sheets also have a lower share of R&D in total investment, suggesting R&D drops more than total investment during these crisis episodes. These results are robust to different proxies of financial constraints and fixed-effects identification strategies.
-abstract_short: This study examines the impact of financial frictions on R&D spending in European firms, exploiting credit supply contractions following the 2008-09 global financial crisis and 2012 Euro area sovereign debt crisis. Results show that financially constrained firms in industries more dependent on external finance invest disproportionately less in R&D during tight credit periods, with smaller, private firms with weaker balance sheets experiencing a greater drop in R&D relative to total investment.
+abstract: "We investigate the role of financial frictions in R&D spending in a large sample of European firms. Our identification strategy exploits the contraction in credit supply that followed the 2008–09 global financial crisis and 2012 Euro area sovereign debt crisis, together with differences in financial frictions across firms and industries to identify a causal effect of financial constraints on investment in innovation. We show that firms that are more likely financially constrained, in industries more dependent on external finance, invest disproportionally less in R&D during periods of tight credit supply. Smaller, private firms with weaker balance sheets also have a lower share of R&D in total investment, suggesting R&D drops more than total investment during these crisis episodes. These results are robust to different proxies of financial constraints and fixed-effects identification strategies."
+
+abstract_short: "This study examines the impact of financial frictions on R&D spending in European firms, exploiting credit supply contractions following the 2008-09 global financial crisis and 2012 Euro area sovereign debt crisis. Results show that financially constrained firms in industries more dependent on external finance invest disproportionately less in R&D during tight credit periods, with smaller, private firms with weaker balance sheets experiencing a greater drop in R&D relative to total investment."
+
 authors:
-- [Oana Peia](https://oanapeiablog.wordpress.com/)
-- Davide Romelli
+  - name: Oana Peia
+    URL: https://oanapeiablog.wordpress.com/
+  - name: Davide Romelli
 date: '2021-12-04'
 
 highlight: false
@@ -24,11 +27,10 @@ publication_short: JIMF
 publication_types: ["2"]
 selected: true
 title: 'Did financial frictions stifle R&D investment in Europe during the great recession?'
-url_code: 
+url_code: ''
 links:
   - name: Article - Open Access
     url: https://www.sciencedirect.com/science/article/pii/S0261560620302199?via%3Dihub#s0070
-links:
   - name: Online Appendix
     url: pdf/jimf2022_OnlineAppendix.pdf
 url_dataset: ''
@@ -36,8 +38,7 @@ url_pdf: ''
 url_poster: ''
 url_preprint: ''
 url_project: ''
-url_slides: 
+url_slides: ''
 url_source: ''
 url_video: ''
 ---
-

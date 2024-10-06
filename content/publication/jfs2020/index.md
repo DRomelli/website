@@ -1,10 +1,14 @@
 ---
-abstract: This paper investigates the role of external auditors in banking sector supervision from a theoretical, institutional and empirical perspective. We first present a simple principal-agent framework that highlights the importance of several institutional characteristics in determining the optimal involvement of external auditors in supervision. We then construct a new index that captures the degree of involvement of external auditors in the oversight of the banking sector in 115 countries. Consistent with our theoretical arguments, we find that countries that increase the role of central banks in supervision are also more likely to involve auditors, suggesting that the added complexity of a supervisory function is likely to benefit from the expertise of an external auditor. Having experienced a financial crisis is also associated with a higher use of auditors, particularly among central banks with an increasing role in supervision, which suggests some reputational concerns of the supervisor. Finally, we show that higher audit quality is associated with an increased involvement of auditors in supervision.
-abstract_short: This paper explores the role of external auditors in banking supervision through theoretical, institutional, and empirical analyses, introducing a new index measuring auditor involvement in banking oversight across 115 countries. Findings suggest that increased central bank involvement in supervision, past financial crises, and higher audit quality are associated with greater auditor involvement in banking sector supervision.
+abstract: "This paper investigates the role of external auditors in banking sector supervision from a theoretical, institutional, and empirical perspective. We first present a simple principal-agent framework that highlights the importance of several institutional characteristics in determining the optimal involvement of external auditors in supervision. We then construct a new index that captures the degree of involvement of external auditors in the oversight of the banking sector in 115 countries. Consistent with our theoretical arguments, we find that countries that increase the role of central banks in supervision are also more likely to involve auditors, suggesting that the added complexity of a supervisory function is likely to benefit from the expertise of an external auditor. Having experienced a financial crisis is also associated with a higher use of auditors, particularly among central banks with an increasing role in supervision, which suggests some reputational concerns of the supervisor. Finally, we show that higher audit quality is associated with an increased involvement of auditors in supervision."
+
+abstract_short: "This paper explores the role of external auditors in banking supervision through theoretical, institutional, and empirical analyses, introducing a new index measuring auditor involvement in banking oversight across 115 countries. Findings suggest that increased central bank involvement in supervision, past financial crises, and higher audit quality are associated with greater auditor involvement in banking sector supervision."
+
 authors:
-- [Donato Masciandaro](https://faculty.unibocconi.it/donatomasciandaro/)
-- [Oana Peia](https://oanapeiablog.wordpress.com/)
-- Davide Romelli
+  - name: Donato Masciandaro
+    url: https://faculty.unibocconi.it/donatomasciandaro/
+  - name: Oana Peia
+    url: https://oanapeiablog.wordpress.com/
+  - name: Davide Romelli
 date: '2020-01-31'
 
 highlight: false
