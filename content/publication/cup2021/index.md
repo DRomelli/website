@@ -4,8 +4,9 @@ abstract: 'One of the fundamental issues in implementing the Twin Peaks regime i
 abstract_short: This chapter systematically reviews the economics and politics of central bank involvement in the Twin Peaks regime, focusing on the placement of the prudential supervisor. It also examines the central bank’s role in countries that have adopted the model, applying theoretical and empirical insights to understand central bank involvement in supervision within these regimes.
 
 authors:
-- [Donato Masciandaro](https://faculty.unibocconi.it/donatomasciandaro/)
-- Davide Romelli
+- name: Donato Masciandaro
+  URL https://faculty.unibocconi.it/donatomasciandaro/
+- name: Davide Romelli
 date: '2021-06-01'
 
 highlight: false
