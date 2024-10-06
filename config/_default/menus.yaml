@@ -32,7 +32,7 @@ main:
     url: '/teaching/'
     weight: 50
   - name: CV
-    url: files/cv_mbauer.pdf
+    url: files/Romelli_CV.pdf
     weight: 60
   - name: Contact
     url: '/contact/'
