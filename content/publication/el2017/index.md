@@ -1,10 +1,14 @@
 ---
-abstract: We build a novel dataset that allows us to track appointments to central banks boards from 2003 to 2015 in 26 OECD countries. We find that female board members tend to replace each other, suggesting a systematic bias against women.
-abstract_short: We build a novel dataset that allows us to track appointments to central banks boards from 2003 to 2015 in 26 OECD countries. We find that female board members tend to replace each other, suggesting a systematic bias against women.
+abstract: "We build a novel dataset that allows us to track appointments to central banks boards from 2003 to 2015 in 26 OECD countries. We find that female board members tend to replace each other, suggesting a systematic bias against women."
+
+abstract_short: "We build a novel dataset that allows us to track appointments to central banks boards from 2003 to 2015 in 26 OECD countries. We find that female board members tend to replace each other, suggesting a systematic bias against women."
+
 authors:
-- [Patricia Charléty](https://faculty.essec.edu/en/cv/charlety-lepers-patricia/)
-- [Estefania Santacreu-Vasut](https://faculty.essec.edu/en/cv/santacreu-vasut-estefania/)
-- Davide Romelli
+- name: Patricia Charléty
+  URL: https://faculty.essec.edu/en/cv/charlety-lepers-patricia/
+- name: Estefania Santacreu-Vasut
+  URL: https://faculty.essec.edu/en/cv/santacreu-vasut-estefania/
+- name: Davide Romelli
 date: '2017-03-23'
 
 highlight: false
