@@ -18,4 +18,4 @@ The [cbidata.org](https://cbidata.org/) website provides the data on indices of 
 
 ### Data on Central Bank Involvement in Supervision
 
-Data on the index of Central Bank Involvement in Supervision can be downloaded here: {{< icon name="link" pack="fas" >}} [Central Bank Involvement in Supervision Index](pdf/ejpe2018_slides.pdf)
+Data on the index of Central Bank Involvement in Supervision can be downloaded here: [Central Bank Involvement in Supervision Index](pdf/ejpe2018_slides.pdf)
