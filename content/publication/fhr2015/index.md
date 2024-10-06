@@ -4,8 +4,8 @@ abstract: "This article analyses the pillar of modern central bank governance, i
 abstract_short: "This article examines central bank independence from economic, political, and historical perspectives, using a principal-agent model to explain how politicians shape central bank governance. It provides empirical evidence on the evolution of central bank independence from the 1970s to 2014, highlighting the impact of macroeconomic shocks on this evolution, especially after the global financial crisis."
 
 authors:
-  - name: Donato Masciandaro
-  - name: Davide Romelli
+  - Donato Masciandaro
+  - Davide Romelli
 date: '2015-12-17'
 
 highlight: false

@@ -4,10 +4,10 @@ abstract: "Previous scholarship on central bank accountability has generally foc
 abstract_short: "This paper examines central bank accountability from the perspective of politicians' voice on monetary policy, using structural topic models on Monetary Dialogues between MEPs and the ECB President from 1999 to 2019. Findings reveal that MEPs hold the ECB accountable for issues beyond its primary price stability objective, with domestic unemployment rates significantly influencing MEPs' focus in accountability settings, suggesting a 'political' Phillips curve reaction function."
 
 authors:
-  - name: Federico Maria Ferrara
-  - name: Donato Masciandaro
-  - name: Manuela Moschella
-  - name: Davide Romelli
+  - Federico Maria Ferrara
+  - Donato Masciandaro
+  - Manuela Moschella
+  - Davide Romelli
 date: '2022-09-15'
 
 highlight: false

@@ -4,8 +4,8 @@ abstract: "It has been argued that economies with more independent central banks
 abstract_short: "This paper examines the relationship between central bank independence and inflation, using dynamic indices and structural break analysis. The study confirms a negative correlation between central bank independence and inflation in 10 OECD countries, emphasizing the impact of legislative reforms on inflation dynamics."
 
 authors:
-  - name: Marco Arnone
-  - name: Davide Romelli
+  - Marco Arnone
+  - Davide Romelli
 date: '2013-03-16'
 
 highlight: false

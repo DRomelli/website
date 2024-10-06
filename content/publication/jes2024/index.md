@@ -4,9 +4,9 @@ abstract: "This paper discusses the evolution of central bank communication, foc
 abstract_short: "This paper examines the evolution of central bank communication, particularly their use of social media to reach wider audiences. It analyzes Twitter content related to monetary policy to assess how central bank communication impacts expectations and financial market behavior."
 
 authors:
-  - name: Donato Masciandaro
-  - name: Oana Peia
-  - name: Davide Romelli
+  - Donato Masciandaro
+  - Oana Peia
+  - Davide Romelli
 date: '2024-04-01'
 
 highlight: false

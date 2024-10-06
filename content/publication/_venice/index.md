@@ -4,7 +4,7 @@ abstract: "This paper focuses on an early unique experiment of freely floating S
 abstract_short: "This paper examines the impact of government deficit monetization on the external value of Venetian ducats during crises in the 17th century. Despite Venice's reputation for fiscal prudence, the ducat's value declined due to monetary policies during the plague of 1630 and the Cretan War."
 
 authors:
-  - name: Donato Masciandaro
+  - Donato Masciandaro
   - Davide Romelli
   - name: Stefano Ugolini
 date: '2024-02-15'

@@ -3,8 +3,8 @@ abstract: "Following the 2007–09 Global Financial Crisis many countries have c
 
 abstract_short: "This study tests the hypothesis that financial crises drive changes in central banks' supervisory roles, using a new database of supervisory reforms from 1996-2013. While findings support this view, the research also reveals an equally significant peer effect, where countries tend to reform their financial supervisory architecture in response to reforms in other countries."
 authors:
-- name: Donato Masciandaro
-- name: Davide Romelli
+- Donato Masciandaro
+- Davide Romelli
 date: '2018-02-28'
 
 highlight: false

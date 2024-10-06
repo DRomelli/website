@@ -4,8 +4,8 @@ abstract: ""
 abstract_short: ""
 
 authors:
-- name: Oana Peia
-- name: Davide Romelli
+- Oana Peia
+- Davide Romelli
 date: '2019-04-01'
 
 highlight: false

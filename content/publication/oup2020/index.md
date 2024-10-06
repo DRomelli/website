@@ -4,8 +4,8 @@ abstract: "This chapter discusses the implications of the Economic and Monetary 
 abstract_short: "This chapter analyzes the pros and cons of EMU membership, highlighting the economic benefits of monetary integration and the associated risks of national sovereignty loss and policy challenges."
 
 authors:
-  - name: Donato Masciandaro
-  - name: Davide Romelli
+  - Donato Masciandaro
+  - Davide Romelli
 date: '2020-05-21'
 
 highlight: false

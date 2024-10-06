@@ -4,12 +4,12 @@ abstract: "This paper provides new evidence on the effects of entry on incumbent
 abstract_short: "This study examines how FinTech competition impacts innovation by incumbent financial firms from 2000-2016. Increased competition from non-financial innovators leads to more FinTech patent applications by incumbents, especially for high-impact innovations."
 
 authors:
-  - name: Doina Caragea
-  - name: Theodor Cojoianu
-  - name: Mihai Dobri
-  - name: Andreas Hoepner
-  - name: Oana Peia
-  - name: Davide Romelli
+  - Doina Caragea
+  - Theodor Cojoianu
+  - Mihai Dobri
+  - Andreas Hoepner
+  - Oana Peia
+  - Davide Romelli
 date: '2023-08-10'
 
 highlight: false

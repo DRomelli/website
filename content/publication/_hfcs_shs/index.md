@@ -4,10 +4,10 @@ abstract: 'This paper presents a novel dataset that combines granular informatio
 abstract_short: This paper introduces a new dataset combining financial asset data from the Security Holdings Statistics with household characteristics from the Household Finance and Consumption Survey. Using Ireland as a case study, it finds a strong link between higher education and portfolio returns, with more educated households taking on greater risk. This relationship is confirmed across a broader panel of countries, remaining robust when accounting for unobserved factors and macro-financial controls.
 
 authors:
-  - name: Simone Arrigoni
-  - name: Agustín Bénétrix
-  - name: Tara McIndoe-Calder
-  - name: Davide Romelli
+  - Simone Arrigoni
+  - Agustín Bénétrix
+  - Tara McIndoe-Calder
+  - Davide Romelli
 date: '2024-08-29'
 
 highlight: false

@@ -3,7 +3,7 @@ abstract: 'What explains the worldwide changes in central bank design over the p
 
 abstract_short: This study examines global changes in central bank design from 1972-2017, using a new dynamic index of central bank independence. Factors influencing reforms include past independence levels, regional convergence, external pressures, political events, and inflation rates, with notable differences based on development levels and reform types.
 authors:
-- name: Davide Romelli
+- Davide Romelli
 date: '2022-01-27'
 
 highlight: false

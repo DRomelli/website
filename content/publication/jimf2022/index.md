@@ -4,8 +4,8 @@ abstract: "We investigate the role of financial frictions in R&D spending in a l
 abstract_short: "This study examines the impact of financial frictions on R&D spending in European firms, exploiting credit supply contractions following the 2008-09 global financial crisis and 2012 Euro area sovereign debt crisis. Results show that financially constrained firms in industries more dependent on external finance invest disproportionately less in R&D during tight credit periods, with smaller, private firms with weaker balance sheets experiencing a greater drop in R&D relative to total investment."
 
 authors:
-  - name: Oana Peia
-  - name: Davide Romelli
+  - Oana Peia
+  - Davide Romelli
 date: '2021-12-04'
 
 highlight: false

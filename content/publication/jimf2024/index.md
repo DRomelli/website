@@ -4,8 +4,8 @@ abstract: "This paper examines the informativeness and drivers of the tone used 
 abstract_short: "Tone analysis offers deeper insights into FOMC decision-making, beyond dissenting votes. Differences in tone are primarily driven by individual inflation projections of FOMC members."
 
 authors:
-  - name: Hamza Bennani
-  - name: Davide Romelli
+  - Hamza Bennani
+  - Davide Romelli
 date: '2024-08-20'
 
 highlight: false

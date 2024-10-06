@@ -4,8 +4,8 @@ abstract: "The ECB considers communication a critical instrument in its policy t
 abstract_short: "This paper evaluates whether the ECB's current communication practices remain sufficient to ensure the effectiveness and accountability of its monetary policy in response to recent and future challenges. It was prepared for the ECON committee ahead of the Monetary Dialogue with the ECB President on 7 February 2022."
 
 authors:
-- name: Manuela Moschella
-- name: Davide Romelli
+- Manuela Moschella
+- Davide Romelli
 date: '2022-02-15'
 
 highlight: false

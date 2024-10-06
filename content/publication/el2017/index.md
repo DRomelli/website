@@ -4,9 +4,9 @@ abstract: "We build a novel dataset that allows us to track appointments to cent
 abstract_short: "We build a novel dataset that allows us to track appointments to central banks boards from 2003 to 2015 in 26 OECD countries. We find that female board members tend to replace each other, suggesting a systematic bias against women."
 
 authors:
-- name: Patricia Charléty
-- name: Estefania Santacreu-Vasut
-- name: Davide Romelli
+- Patricia Charléty
+- Estefania Santacreu-Vasut
+- Davide Romelli
 date: '2017-03-23'
 
 highlight: false

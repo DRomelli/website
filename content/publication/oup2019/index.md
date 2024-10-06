@@ -4,8 +4,8 @@ abstract: "This chapter investigates the endogenous evolution of central bank in
 abstract_short: "This chapter explores the evolution of central bank independence over the past four decades, using a political economy model to identify key determinants like macroeconomic shocks and political characteristics. Analyzing data from 65 countries, it shows that the trend of increasing central bank independence from 1972–2007 reversed after the 2008 financial crisis, driven by changes in central banks' roles in banking supervision."
 
 authors:
-  - name: Donato Masciandaro
-  - name: Davide Romelli
+  - Donato Masciandaro
+  - Davide Romelli
 date: '2019-03-14'
 
 highlight: false

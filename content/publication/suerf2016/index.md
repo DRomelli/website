@@ -4,8 +4,8 @@ abstract: "In the Concluding Remarks that Paolo Baffi - Governor of Bank of Ital
 abstract_short: "In his Concluding Remarks on 31 May 1979, Paolo Baffi - Governor of Bank of Italy - highlighted the shift from silence to transparency in central banking, emphasizing the growing importance of communication and governance in enhancing monetary policy effectiveness."
 
 authors:
-  - name: Donato Masciandaro
-  - name: Davide Romelli
+  - Donato Masciandaro
+  - Davide Romelli
 date: '2016-07-01'
 
 highlight: false

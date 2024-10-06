@@ -4,10 +4,10 @@ abstract: "Technocracy has come to be increasingly regarded as a threat to repre
 abstract_short: "This study examines European Parliament members' attitudes towards the European Central Bank's mandate and policies, finding that political ideology largely influences these views. Experimental results show that politicians' opinions on the ECB are not fixed and can be significantly influenced by the information they receive, particularly regarding the bank's mandate and policy conduct."
 
 authors:
-  - name: Federico Maria Ferrara
-  - name: Donato Masciandaro
-  - name: Manuela Moschella
-  - name: Davide Romelli
+  - Federico Maria Ferrara
+  - Donato Masciandaro
+  - Manuela Moschella
+  - Davide Romelli
 date: '2024-06-21'
 
 highlight: false

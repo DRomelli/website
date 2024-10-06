@@ -4,9 +4,9 @@ abstract: "This paper investigates the role of external auditors in banking sect
 abstract_short: "This paper explores the role of external auditors in banking supervision through theoretical, institutional, and empirical analyses, introducing a new index measuring auditor involvement in banking oversight across 115 countries. Findings suggest that increased central bank involvement in supervision, past financial crises, and higher audit quality are associated with greater auditor involvement in banking sector supervision."
 
 authors:
-  - name: Donato Masciandaro
-  - name: Oana Peia
-  - name: Davide Romelli
+  - Donato Masciandaro
+  - Oana Peia
+  - Davide Romelli
 date: '2020-01-31'
 
 highlight: false
