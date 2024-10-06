@@ -10,7 +10,7 @@ authors:
     url: https://faculty.unibocconi.it/donatomasciandaro/
   - name: Manuela Moschella
     url: https://www.unibo.it/sitoweb/manuela.moschella
-- Davide Romelli
+  - name: Davide Romelli
 date: '2024-06-21'
 
 highlight: false
@@ -24,24 +24,17 @@ math: false
 projects: []
 publication: Journal of Common Market Studies
 publication_short: JCMS
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 selected: true
 title: 'What Do Politicians Think of Technocratic Institutions? Attitudes in the European Parliament Towards the European Central Bank'
-url_code: 
+url_code: ''
 links:
   - name: Article
     url: https://doi.org/10.1111/jcms.13626
-links:
   - name: BAFFI CAREFIN Centre - Working paper
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4483879
-links:
   - name: Code and Data
     url: files/jcms_replication.zip
-links:
   - name: VoxEU
     url: https://cepr.org/voxeu/columns/what-european-politicians-think-ecb-experimental-evidence
 url_dataset: ''
@@ -49,8 +42,7 @@ url_pdf: ''
 url_poster: ''
 url_preprint: ''
 url_project: ''
-url_slides: 
+url_slides: ''
 url_source: ''
 url_video: ''
 ---
-
