@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "Davide Romelli" # Website name
-baseurl: "https://davideromelli.com/" # Website URL
-copyright: "&copy; 2024 Davide Romelli" # Footer text, e.g. '© {year} Me'
+title: Davide Romelli # Website name
+baseurl: 'https://davideromelli.com/' # Website URL
+copyright: '&copy; 2024 Davide Romelli' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
