@@ -6,7 +6,7 @@ abstract_short: "This paper examines the relationship between central bank indep
 authors:
   - Marco Arnone
   - Davide Romelli
-date: '2013-03-16'
+date: '2013-09-16'
 
 highlight: false
 
@@ -34,12 +34,20 @@ links:
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2115452
   - name: Data
     url: files/jfs2013_data.xlsx
+
+media_coverage:
+  - name: "The Guardian"
+    url: https://www.theguardian.com/article-on-central-banks
+  - name: "Financial Times"
+    url: https://www.ft.com/article-on-inflation-central-banks
+  - name: "Reuters"
+    url: https://www.reuters.com/article-on-economic-inflation-central-banks
 url_dataset: ''
 url_pdf: ''
 url_poster: ''
 url_preprint: ''
 url_project: ''
-url_slides: ''
+url_slides: 'files/jfs2013_data.xlsx'
 url_source: ''
 url_video: ''
 ---
