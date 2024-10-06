@@ -26,7 +26,7 @@ publication: IFC Bulletin No 62, Bank for International Settlements
 publication_short: BIS
 publication_types: ["3"]
 selected: true
-title: 'The Economics of European Monetary Integration: The Pros and Cons of EMU Membership'
+title: 'Unravelling household financial assets and demographic characteristics: a novel data perspective'
 url_code: ''
 links:
   - name: Working paper
