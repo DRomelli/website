@@ -4,9 +4,11 @@ abstract: "When are women appointed to the board of central banks? While progres
 abstract_short: "Women are more likely to be appointed to central bank boards during sovereign debt crises, with a 21.1% increase in likelihood. This trend suggests that appointing women to leadership roles in central banks may be seen as a strategy to restore monetary policy credibility during financial distress."
 
 authors:
-  - [Andreas Kern](https://atkern.com/)
-  - [Bernhard Reinsberg](https://www.gla.ac.uk/schools/socialpolitical/staff/bernhardreinsberg/)
-  - Davide Romelli
+  - name: Andreas Kern
+    url: https://atkern.com/
+  - name: Bernhard Reinsberg
+    url: https://www.gla.ac.uk/schools/socialpolitical/staff/bernhardreinsberg/
+  - name: Davide Romelli
 date: '2024-08-02'
 
 highlight: false
