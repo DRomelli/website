@@ -6,7 +6,7 @@ abstract_short: "This study examines the impact of financial frictions on R&D sp
 authors:
   - Oana Peia
   - Davide Romelli
-date: '2021-12-04'
+date: '2022-02-04'
 
 highlight: false
 
@@ -29,7 +29,7 @@ title: 'Did financial frictions stifle R&D investment in Europe during the great
 url_code: ''
 links:
   - name: Article - Open Access
-    url: https://www.sciencedirect.com/science/article/pii/S0261560620302199?via%3Dihub#s0070
+    url: https://www.sciencedirect.com/science/article/pii/S0261560620302199
   - name: Online Appendix
     url: pdf/jimf2022_OnlineAppendix.pdf
 url_dataset: ''

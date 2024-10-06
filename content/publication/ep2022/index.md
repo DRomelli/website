@@ -39,7 +39,7 @@ links:
   - name: Slides
     url: pdf/ep2022_slides.pdf
   - name: SUERF Policy Brief
-    url: https://www.suerf.org/suer-policy-brief/42249/the-political-economy-of-reforms-in-central-bank-design
+    url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/the-political-economy-of-reforms-in-central-bank-design/
   - name: Faculti interview
     url: https://faculti.net/the-political-economy-of-reforms-in-central-bank-design/
 url_dataset: ''

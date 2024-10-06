@@ -31,9 +31,8 @@ url_code:
 links:
   - name: Article
     url: https://www.sciencedirect.com/science/article/abs/pii/S1572308919306734
-links:
   - name: PDF
-    url: files/jfs2020_wp.pdf
+    url: pdf/jfs2020_wp.pdf
 url_dataset: ''
 url_pdf: ''
 url_poster: ''
