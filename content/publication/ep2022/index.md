@@ -24,7 +24,7 @@ publication_short: ""
 publication_types: ["2"]
 selected: true
 title: 'The political economy of reforms in Central Bank design: evidence from a new dataset'
-url_code: 
+url_code: ''
 links:
   - name: Article - Open Access
     url: https://doi.org/10.1093/epolic/eiac011

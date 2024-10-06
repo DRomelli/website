@@ -39,7 +39,7 @@ links:
   - name: Slides
     url: pdf/ejpe2022_slides.pdf
   - name: SUERF Policy Brief
-    url: https://www.suerf.org/suer-policy-brief/40843/the-political-phillips-curve-in-the-euro-area-parliamentary-voice-on-ecb-monetary-policy
+    url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/the-political-phillips-curve-in-the-euro-area-parliamentary-voice-on-ecb-monetary-policy/
   - name: VoxEU
     url: https://voxeu.org/article/parliamentary-voice-ecb-monetary-policy
 url_dataset: ''

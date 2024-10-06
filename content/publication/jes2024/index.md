@@ -32,7 +32,7 @@ links:
   - name: Article - Open Access
     url: https://doi.org/10.1111/joes.12550
   - name: SUERF Policy Brief
-    url: https://www.suerf.org/suer-policy-brief/58899/new-frontiers-in-monetary-policy-communication-discovering-central-bank-tweeting
+    url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/new-frontiers-in-monetary-policy-communication-discovering-central-bank-tweeting/
   - name: VoxEU
     url: https://cepr.org/voxeu/columns/monetary-policy-communication-uncovering-central-bank-tweeting
 url_dataset: ''
