@@ -1,6 +1,6 @@
 ---
 title: 'Teaching'
-author: Michael Bauer
+author: Davide Romelli
 date: '2021-02-14'
 slug: teaching
 design:
