@@ -5,7 +5,7 @@
 
 title: Davide Romelli # Website name
 baseurl: 'https://davideromelli.com/' # Website URL
-copyright: '&copy; 2024 Davide Romelli' # Footer text, e.g. '© {year} Me'
+copyright: '&copy; 2024 Davide Romelli'  # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
