@@ -1,11 +1,12 @@
 ---
-abstract: 'The ECB considers communication a critical instrument in its policy toolkit. Since its creation, the ECB has devoted significant attention to the mechanisms through which it conveys to the public information relevant to its decision-making and ensures its accountability. This paper assesses whether existing ECB communication practises are adequate to continue ensuring the effectiveness and accountability of monetary policy in light of the recent and upcoming challenges that the ECB confronts. This paper was provided by the Policy Department for Economic, Scientific and Quality of Life Policies at the request of the committee on Economic and Monetary Affairs (ECON) ahead of the Monetary Dialogue with the ECB President on 7 February 2022.'
+abstract: "The ECB considers communication a critical instrument in its policy toolkit. Since its creation, the ECB has devoted significant attention to the mechanisms through which it conveys to the public information relevant to its decision-making and ensures its accountability. This paper assesses whether existing ECB communication practises are adequate to continue ensuring the effectiveness and accountability of monetary policy in light of the recent and upcoming challenges that the ECB confronts. This paper was provided by the Policy Department for Economic, Scientific and Quality of Life Policies at the request of the committee on Economic and Monetary Affairs (ECON) ahead of the Monetary Dialogue with the ECB President on 7 February 2022."
 
-abstract_short: This paper evaluates whether the ECB's current communication practices remain sufficient to ensure the effectiveness and accountability of its monetary policy in response to recent and future challenges. It was prepared for the ECON committee ahead of the Monetary Dialogue with the ECB President on 7 February 2022.
+abstract_short: "This paper evaluates whether the ECB's current communication practices remain sufficient to ensure the effectiveness and accountability of its monetary policy in response to recent and future challenges. It was prepared for the ECON committee ahead of the Monetary Dialogue with the ECB President on 7 February 2022."
 
 authors:
-- [Manuela Moschella](https://www.unibo.it/sitoweb/manuela.moschella)
-- Davide Romelli
+- name: Manuela Moschella
+  URL: https://www.unibo.it/sitoweb/manuela.moschella
+- name: Davide Romelli
 date: '2022-02-15'
 
 highlight: false
