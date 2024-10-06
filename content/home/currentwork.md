@@ -17,7 +17,7 @@ design:
 
 
 **[Unravelling household financial assets and demographic characteristics: a novel data perspective](publication/_hfcs_shs)**  
-with Simone Arrigoni, Agustin Bénétrix and Tara McIndoe-Calder,Bank for International Settlements, IFC Bulletin No 62, 2024.
+with Simone Arrigoni, Agustin Bénétrix and Tara McIndoe-Calder, Bank for International Settlements, IFC Bulletin No 62, 2024.
 
 **[Trends in Central Bank Independence: A De-jure Perspective](publication/_cbi_trends)**  
 BAFFI CAREFIN Centre Research Paper No. 217, 2024.
