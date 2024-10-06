@@ -1,11 +1,12 @@
 ---
-abstract: 'This paper compares the inflation dynamics and the monetary policy stance in the euro area and the United States. The paper also discusses the challenges that monetary authorities confront on the two sides of the Atlantic, also considering the uncertainties brought about by the ongoing crisis in the Middle East. This document was provided by the Economic Governance and EMU Scrutiny Unit at the request of the Committee on Economic and Monetary Affairs (ECON) ahead of the Monetary Dialogue with the ECB President on 27 November 2023.'
+abstract: "This paper compares the inflation dynamics and the monetary policy stance in the euro area and the United States. The paper also discusses the challenges that monetary authorities confront on the two sides of the Atlantic, also considering the uncertainties brought about by the ongoing crisis in the Middle East. This document was provided by the Economic Governance and EMU Scrutiny Unit at the request of the Committee on Economic and Monetary Affairs (ECON) ahead of the Monetary Dialogue with the ECB President on 27 November 2023."
 
-abstract_short: This paper compares the inflation dynamics and the monetary policy stance in the euro area and the United States. The paper also discusses the challenges that monetary authorities confront on the two sides of the Atlantic, also considering the uncertainties brought about by the ongoing crisis in the Middle East. This document was provided by the Economic Governance and EMU Scrutiny Unit at the request of the Committee on Economic and Monetary Affairs (ECON) ahead of the Monetary Dialogue with the ECB President on 27 November 2023.
+abstract_short: "This paper compares the inflation dynamics and the monetary policy stance in the euro area and the United States. The paper also discusses the challenges that monetary authorities confront on the two sides of the Atlantic, also considering the uncertainties brought about by the ongoing crisis in the Middle East. This document was provided by the Economic Governance and EMU Scrutiny Unit at the request of the Committee on Economic and Monetary Affairs (ECON) ahead of the Monetary Dialogue with the ECB President on 27 November 2023."
 
 authors:
-- [Manuela Moschella](https://www.unibo.it/sitoweb/manuela.moschella)
-- Davide Romelli
+- name: Manuela Moschella
+  URL: https://www.unibo.it/sitoweb/manuela.moschella
+- name: Davide Romelli
 date: '2023-11-30'
 
 highlight: false

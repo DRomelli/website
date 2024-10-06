@@ -1,9 +1,11 @@
 ---
-abstract: Following the 2007–09 Global Financial Crisis many countries have changed their financial supervisory architecture by increasing the involvement of central banks in supervision. This has led many scholars to argue that financial crises are an important driver in explaining the evolution of the role of central banks as supervisors. We formally test this hypothesis employing a new database that captures the full set of supervisory reforms implemented during the period 1996-2013 in a large sample of countries. Our findings support the view that systemic banking crises are important drivers of reforms in supervisory structure. However, we also highlight an equally important peer effect, namely a tendency of countries to reform their financial supervisory architecture when others do so as well. We construct several measures of spatial spillover effects and show that they can explain institutional similarities among countries and impact the probability of reforming the role of the central bank in financial sector supervision.
-abstract_short: This study tests the hypothesis that financial crises drive changes in central banks' supervisory roles, using a new database of supervisory reforms from 1996-2013. While findings support this view, the research also reveals an equally significant peer effect, where countries tend to reform their financial supervisory architecture in response to reforms in other countries.
+abstract: "Following the 2007–09 Global Financial Crisis many countries have changed their financial supervisory architecture by increasing the involvement of central banks in supervision. This has led many scholars to argue that financial crises are an important driver in explaining the evolution of the role of central banks as supervisors. We formally test this hypothesis employing a new database that captures the full set of supervisory reforms implemented during the period 1996-2013 in a large sample of countries. Our findings support the view that systemic banking crises are important drivers of reforms in supervisory structure. However, we also highlight an equally important peer effect, namely a tendency of countries to reform their financial supervisory architecture when others do so as well. We construct several measures of spatial spillover effects and show that they can explain institutional similarities among countries and impact the probability of reforming the role of the central bank in financial sector supervision."
+
+abstract_short: "This study tests the hypothesis that financial crises drive changes in central banks' supervisory roles, using a new database of supervisory reforms from 1996-2013. While findings support this view, the research also reveals an equally significant peer effect, where countries tend to reform their financial supervisory architecture in response to reforms in other countries."
 authors:
-- [Donato Masciandaro](https://faculty.unibocconi.it/donatomasciandaro/)
-- Davide Romelli
+- name: Donato Masciandaro
+  URL: https://faculty.unibocconi.it/donatomasciandaro/
+- name: Davide Romelli
 date: '2018-02-28'
 
 highlight: false

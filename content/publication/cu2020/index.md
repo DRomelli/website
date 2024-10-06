@@ -1,10 +1,13 @@
 ---
-abstract: This paper investigates the impact of trade openness on the relationship between current account and the real exchange rate, by focusing on event windows of significant balance of payments distress. We identify episodes of sudden stops in capital flows and of abrupt currency depreciations for a large sample of developed and emerging economies over the period 1970–2011, and we find that, during these episodes, currency depreciations are associated with larger improvements in the current account in countries that are more open to trade. Our results suggest that the magnitude of exchange rate depreciations over the adjustment process of current accounts is related to the degree of openness to trade.
-abstract_short: This study examines how trade openness affects the relationship between current account and real exchange rate during significant balance of payments crises. Analyzing sudden stops in capital flows and abrupt currency depreciations across various economies from 1970-2011, it finds that more open economies experience larger current account improvements during currency depreciations.
+abstract: "This paper investigates the impact of trade openness on the relationship between current account and the real exchange rate, by focusing on event windows of significant balance of payments distress. We identify episodes of sudden stops in capital flows and of abrupt currency depreciations for a large sample of developed and emerging economies over the period 1970–2011, and we find that, during these episodes, currency depreciations are associated with larger improvements in the current account in countries that are more open to trade. Our results suggest that the magnitude of exchange rate depreciations over the adjustment process of current accounts is related to the degree of openness to trade."
+
+abstract_short: "This study examines how trade openness affects the relationship between current account and real exchange rate during significant balance of payments crises. Analyzing sudden stops in capital flows and abrupt currency depreciations across various economies from 1970-2011, it finds that more open economies experience larger current account improvements during currency depreciations."
+
 authors:
-- Enrico Vasconcelos
-- [Cristina Terra](https://sites.google.com/site/cristterra/Home?authuser=0)
-- Davide Romelli
+- name: Enrico Vasconcelos
+- name: Cristina Terra
+  URL: https://sites.google.com/site/cristterra/Home?authuser=0
+- name: Davide Romelli
 date: '2018-04-17'
 
 highlight: false
