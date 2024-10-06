@@ -16,7 +16,7 @@ image:
   preview_only: false
 math: false
 projects: []
-publication: "Trinity Economic Papers"
+publication: "*Trinity Economic Papers*"
 publication_short: ""
 publication_types: ["3"]
 selected: true
@@ -28,7 +28,7 @@ links:
   - name: SUERF Policy Note
     url: https://www.suerf.org/policynotes/11243/does-it-fit-tweeting-on-monetary-policy-and-central-bank-communication
   - name: Slides 
-    URL: pdf/_twitter_monpol_slides.pdf
+    URL: pdf/twitter_monpol_slides.pdf
 url_dataset: ''
 url_pdf: ''
 url_poster: ''
