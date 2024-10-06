@@ -29,9 +29,6 @@ links:
   - name: Article - Open Access
     url: https://doi.org/10.1093/epolic/eiac011
 links:
-  - name: Online Appendix
-    url: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/economicpolicy/37/112/10.1093_epolic_eiac011/1/eiac011_supplementary_data.pdf?Expires=1727760086&Signature=en-8R4hwwrKA2~4HH6RJtsLRdmeXjvtgnrL2-J47vd5koLa6Ma357IJdUtRciA5XwaY~GlB5ibd3ZFDdvV8EtX9L7RMxg2DOVroNKjK5a1y0KLSjcrYqCM8rRVG4A6zv6o8FOWH7bmPQ75XLKwIpr8gAPtnam7fWxQYO9R-dmmCSY0rcgkwSi-8HYEWcmu7UgDf2xuYILGUFBM15kyMySj7ufQO5HyuXzH~itIGLB~~lly3lbQ7KqPwiyFqqKmV9L1ANtD~T87OCk~hALtmypq5Sx0csbCn~O95X4trGiqHIUXepJT0b9DuSFVwx6-eVl3i-DEjZxRFniTJQ7Zz0lw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-links:
   - name: Data
     url: https://www.cbidata.org/
 links:
