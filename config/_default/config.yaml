@@ -5,7 +5,7 @@
 
 title: "Davide Romelli" # Website name
 baseurl: "https://davideromelli.com/" # Website URL
-copyright: "&copy; 2024 Davide Romelli" # Footer text, e.g. '© {year} Me'
+copyright: "© 2024 Davide Romelli" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -40,8 +40,8 @@ footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   event: "/talk/:slug/"
-  tags: "/tag/:slug/"
-  categories: "/category/:slug/'
+  tags: '/tag/:slug/"
+  categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
@@ -69,8 +69,7 @@ related:
     - name: categories
       weight: 70
 security:
-  _merge: deep
-sitemap:
-  _merge: deep
-minify:
-  _merge: deep
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
