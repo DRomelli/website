@@ -1,11 +1,12 @@
 ---
-abstract: ''
+abstract: ""
 
-abstract_short: ''
+abstract_short: ""
 
 authors:
-- [Oana Peia](https://oanapeiablog.wordpress.com/)
-- Davide Romelli
+- name: Oana Peia
+  URL: https://oanapeiablog.wordpress.com/
+- name: Davide Romelli
 date: '2019-04-01'
 
 highlight: false
