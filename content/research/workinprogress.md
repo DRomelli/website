@@ -15,24 +15,16 @@ design:
   
 ---
 
-**Changing Perceptions and Post-Pandemic Monetary Policy**  
-with Carolin Pflueger and Adi Sunderam
+**Central Bank Independence and Fiscal Space**
+with Angelos Athanasopoulos, Nicolò Fraccaroli and Andreas Kern.
 
-**Corporate Green Pledges**  
-with Daniel Huber, Eric Offner, Marlene Renkel, and Ole Wilms
+**Does central bank independence lead to monetary discipline?** with Etienne Farvaque and Alexander Jung.
 
-**Green Stocks and Monetary Policy Shocks**  
-with Eric Offner and Glenn Rudebusch
+**Inflation: persistence and central bank independence**
+with Angelos Athanasopoulos and Donato Masciandaro.
 
-**Risk Appetite and the Monetary Transmission**   
-with Maik Schmeling and Andreas Schrimpf
+**Mandate-related Central Bank Speeches and Forecast Dispersion**
+with Thomas Lustenberger and Enzo Rossi.
 
-**The Response of Prices to Monetary Policy: Firm-Level Evidence from Sweden**  
-with Alexander Czarnota and Mathias Klein
-
-**Effects of Carbon Policies on Inflation Expectations**  
-with Diego Känzig and Glenn Rudebusch
-
-**Cross-Sectional Skewness in Interest Rate Surveys**    
-with Mikhail Chernov
-
+**Warning words in a warming world: Central bank communication and climate change**
+with Emanuele Campiglio, Jérôme Deyris and Ginevra Scalisi.
