@@ -4,9 +4,9 @@ abstract: "One of the fundamental issues in implementing the Twin Peaks regime i
 abstract_short: "This chapter systematically reviews the economics and politics of central bank involvement in the Twin Peaks regime, focusing on the placement of the prudential supervisor. It also examines the central bank’s role in countries that have adopted the model, applying theoretical and empirical insights to understand central bank involvement in supervision within these regimes."
 
 authors:
-- name: Donato Masciandaro
-  URL https://faculty.unibocconi.it/donatomasciandaro/
-- name: Davide Romelli
+  - name: Donato Masciandaro
+    url: https://faculty.unibocconi.it/donatomasciandaro/
+  - name: Davide Romelli
 date: '2021-06-01'
 
 highlight: false
@@ -19,7 +19,7 @@ image:
 math: false
 projects: []
 publication: The Cambridge Handbook of Twin Peaks Financial Regulation, Cambridge University Press
-publication_short: OUP
+publication_short: CUP
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -27,11 +27,10 @@ publication_short: OUP
 publication_types: ["6"]
 selected: true
 title: 'Twin Peaks and Central Banks: Economics, Political Economy and Comparative Analysis'
-url_code: 
+url_code: ''
 links:
   - name: Book
     url: https://www.cambridge.org/core/books/cambridge-handbook-of-twin-peaks-financial-regulation/D45EBC5BB624EE50531C70F4FF666953
-links:
   - name: Working paper
     url: files/cup2021_wp.pdf
 url_dataset: ''
@@ -39,8 +38,7 @@ url_pdf: ''
 url_poster: ''
 url_preprint: ''
 url_project: ''
-url_slides: 
+url_slides: ''
 url_source: ''
 url_video: ''
 ---
-
