@@ -5,11 +5,8 @@ abstract_short: "This paper examines central bank accountability from the perspe
 
 authors:
   - name: Federico Maria Ferrara
-    url: https://www.federicomariaferrara.com/
   - name: Donato Masciandaro
-    url: https://faculty.unibocconi.it/donatomasciandaro/
   - name: Manuela Moschella
-    url: https://www.unibo.it/sitoweb/manuela.moschella
   - name: Davide Romelli
 date: '2022-09-15'
 
@@ -22,8 +19,8 @@ image:
 
 math: false
 projects: []
-publication: European Journal of Political Economy
-publication_short: EJPE
+publication: "*European Journal of Political Economy*"
+publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

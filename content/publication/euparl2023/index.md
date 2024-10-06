@@ -5,7 +5,6 @@ abstract_short: "This paper compares the inflation dynamics and the monetary pol
 
 authors:
 - name: Manuela Moschella
-  URL: https://www.unibo.it/sitoweb/manuela.moschella
 - name: Davide Romelli
 date: '2023-11-30'
 
@@ -18,8 +17,8 @@ image:
 
 math: false
 projects: []
-publication: Monetary Dialogue Papers
-publication_short: MonDialogue
+publication: "*European Parliament, Monetary Dialogue Papers*"
+publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

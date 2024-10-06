@@ -5,15 +5,10 @@ abstract_short: "This study examines how FinTech competition impacts innovation 
 
 authors:
   - name: Doina Caragea
-    URL: https://dcaragea.github.io/
   - name: Theodor Cojoianu
-    URL: https://theodorcojoianu.com/
   - name: Mihai Dobri
-    URL: https://scholar.google.com/citations?user=BUlFaIoAAAAJ&hl=en
   - name: Andreas Hoepner
-    URL: https://people.ucd.ie/andreas.hoepner
   - name: Oana Peia
-    URL: https://oanapeiablog.wordpress.com/
   - name: Davide Romelli
 date: '2023-08-10'
 
@@ -26,8 +21,8 @@ image:
 
 math: false
 projects: []
-publication: Journal of Financial Services Research
-publication_short: JFSR
+publication: "*Journal of Financial Services Research*"
+publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

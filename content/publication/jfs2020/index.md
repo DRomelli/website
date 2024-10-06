@@ -5,9 +5,7 @@ abstract_short: "This paper explores the role of external auditors in banking su
 
 authors:
   - name: Donato Masciandaro
-    url: https://faculty.unibocconi.it/donatomasciandaro/
   - name: Oana Peia
-    url: https://oanapeiablog.wordpress.com/
   - name: Davide Romelli
 date: '2020-01-31'
 
@@ -20,8 +18,8 @@ image:
 
 math: false
 projects: []
-publication: Journal of Financial Stability
-publication_short: JFS
+publication: "*Journal of Financial Stability*"
+publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

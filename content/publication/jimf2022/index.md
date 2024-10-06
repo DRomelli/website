@@ -5,21 +5,20 @@ abstract_short: "This study examines the impact of financial frictions on R&D sp
 
 authors:
   - name: Oana Peia
-    URL: https://oanapeiablog.wordpress.com/
   - name: Davide Romelli
 date: '2021-12-04'
 
 highlight: false
 
 image:
-  caption: ' R&D & Crisis 🕵'
+  caption: '🔬 R&D & Crisis 🕵'
   focal_point: ""
   preview_only: false
 
 math: false
 projects: []
-publication: Journal of International Money and Finance
-publication_short: JIMF
+publication: "*Journal of International Money and Finance*"
+publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

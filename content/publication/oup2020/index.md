@@ -5,7 +5,6 @@ abstract_short: "This chapter analyzes the pros and cons of EMU membership, high
 
 authors:
   - name: Donato Masciandaro
-    url: https://faculty.unibocconi.it/donatomasciandaro/
   - name: Davide Romelli
 date: '2020-05-21'
 
@@ -18,8 +17,8 @@ image:
 
 math: false
 projects: []
-publication: EU Law of Economic & Monetary Union, Oxford University Press
-publication_short: OUP
+publication: "*EU Law of Economic & Monetary Union, Oxford University Press*"
+publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

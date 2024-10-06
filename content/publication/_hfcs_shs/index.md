@@ -5,11 +5,8 @@ abstract_short: This paper introduces a new dataset combining financial asset da
 
 authors:
   - name: Simone Arrigoni
-    url: https://www.simone-arrigoni.com/
   - name: Agustín Bénétrix
-    url: https://agustinbenetrix.org/
   - name: Tara McIndoe-Calder
-    url: https://ideas.repec.org/f/pmc237.html
   - name: Davide Romelli
 date: '2024-08-29'
 
@@ -22,8 +19,8 @@ image:
 
 math: false
 projects: []
-publication: IFC Bulletin No 62, Bank for International Settlements 
-publication_short: BIS
+publication: "*IFC Bulletin No 62, Bank for International Settlements*"
+publication_short: ""
 publication_types: ["3"]
 selected: true
 title: 'Unravelling household financial assets and demographic characteristics: a novel data perspective'

@@ -5,9 +5,7 @@ abstract_short: "This paper examines the evolution of central bank communication
 
 authors:
   - name: Donato Masciandaro
-    url: https://faculty.unibocconi.it/donatomasciandaro/
   - name: Oana Peia
-    url: https://oanapeiablog.wordpress.com/
   - name: Davide Romelli
 date: '2024-04-01'
 
@@ -20,8 +18,8 @@ image:
 
 math: false
 projects: []
-publication: Journal of Economic Surveys
-publication_short: JES
+publication: "*Journal of Economic Surveys*"
+publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

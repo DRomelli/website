@@ -5,7 +5,6 @@ abstract_short: ""
 
 authors:
 - name: Oana Peia
-  URL: https://oanapeiablog.wordpress.com/
 - name: Davide Romelli
 date: '2019-04-01'
 
@@ -18,7 +17,7 @@ image:
 
 math: false
 projects: []
-publication: ifo DICE Report
+publication: "*ifo DICE Report*"
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

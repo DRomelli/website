@@ -5,7 +5,6 @@ abstract_short: "This chapter explores the evolution of central bank independenc
 
 authors:
   - name: Donato Masciandaro
-    url: https://faculty.unibocconi.it/donatomasciandaro/
   - name: Davide Romelli
 date: '2019-03-14'
 
@@ -18,8 +17,8 @@ image:
 
 math: false
 projects: []
-publication: The Oxford Handbook of the Economics of Central Banking, Oxford University Press
-publication_short: OUP
+publication: "*The Oxford Handbook of the Economics of Central Banking, Oxford University Press*"
+publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

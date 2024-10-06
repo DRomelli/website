@@ -5,10 +5,8 @@ abstract_short: "This paper examines the impact of government deficit monetizati
 
 authors:
   - name: Donato Masciandaro
-    URL: https://faculty.unibocconi.it/donatomasciandaro/
   - Davide Romelli
   - name: Stefano Ugolini
-    URL: https://lereps.sciencespo-toulouse.fr/ugolini-stefano-581
 date: '2024-02-15'
 
 highlight: false
@@ -20,7 +18,7 @@ image:
 
 math: false
 projects: []
-publication: BAFFI CAREFIN Centre - Working paper
+publication: "*BAFFI CAREFIN Centre - Working paper*"
 publication_types: ["3"]
 selected: true
 title: "Fiscal Dominance, Monetary Policy and Exchange Rates: Lessons from Early-Modern Venice"

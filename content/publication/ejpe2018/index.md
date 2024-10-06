@@ -4,7 +4,6 @@ abstract: "Following the 2007–09 Global Financial Crisis many countries have c
 abstract_short: "This study tests the hypothesis that financial crises drive changes in central banks' supervisory roles, using a new database of supervisory reforms from 1996-2013. While findings support this view, the research also reveals an equally significant peer effect, where countries tend to reform their financial supervisory architecture in response to reforms in other countries."
 authors:
 - name: Donato Masciandaro
-  URL: https://faculty.unibocconi.it/donatomasciandaro/
 - name: Davide Romelli
 date: '2018-02-28'
 
@@ -17,8 +16,8 @@ image:
 
 math: false
 projects: []
-publication: European Journal of Political Economy
-publication_short: EJPE
+publication: "*European Journal of Political Economy*"
+publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

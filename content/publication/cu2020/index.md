@@ -3,7 +3,6 @@ abstract: This paper investigates the impact of trade openness on the relationsh
 abstract_short: This study examines how trade openness affects the relationship between current account and real exchange rate during significant balance of payments crises. Analyzing sudden stops in capital flows and abrupt currency depreciations across various economies from 1970-2011, it finds that more open economies experience larger current account improvements during currency depreciations.
 authors:
 - Enrico Vasconcelos
-- [Cristina Terra](https://sites.google.com/site/cristterra/Home?authuser=0)
 - Davide Romelli
 date: '2018-04-17'
 
@@ -16,8 +15,8 @@ image:
 
 math: false
 projects: []
-publication: European Economic Review
-publication_short: EER
+publication: "*European Economic Review*"
+publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

@@ -5,9 +5,7 @@ abstract_short: "Women are more likely to be appointed to central bank boards du
 
 authors:
   - name: Andreas Kern
-    url: https://atkern.com/
   - name: Bernhard Reinsberg
-    url: https://www.gla.ac.uk/schools/socialpolitical/staff/bernhardreinsberg/
   - name: Davide Romelli
 date: '2024-08-02'
 
@@ -20,8 +18,8 @@ image:
 
 math: false
 projects: []
-publication: Journal of European Public Policy 
-publication_short: JEPP
+publication: "*Journal of European Public Policy*"
+publication_short: ""
 publication_types: ["2"]
 selected: true
 title: "Empowering women in central banking"

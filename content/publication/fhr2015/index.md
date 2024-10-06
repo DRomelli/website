@@ -5,7 +5,6 @@ abstract_short: "This article examines central bank independence from economic, 
 
 authors:
   - name: Donato Masciandaro
-    url: https://faculty.unibocconi.it/donatomasciandaro/
   - name: Davide Romelli
 date: '2015-12-17'
 
@@ -18,8 +17,8 @@ image:
 
 math: false
 projects: []
-publication: Financial History Review
-publication_short: FHR
+publication: "*Financial History Review*"
+publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

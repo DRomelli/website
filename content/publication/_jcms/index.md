@@ -5,11 +5,8 @@ abstract_short: "This study examines European Parliament members' attitudes towa
 
 authors:
   - name: Federico Maria Ferrara
-    url: https://www.federicomariaferrara.com/
   - name: Donato Masciandaro
-    url: https://faculty.unibocconi.it/donatomasciandaro/
   - name: Manuela Moschella
-    url: https://www.unibo.it/sitoweb/manuela.moschella
   - name: Davide Romelli
 date: '2024-06-21'
 
@@ -22,8 +19,8 @@ image:
 
 math: false
 projects: []
-publication: Journal of Common Market Studies
-publication_short: JCMS
+publication: "*Journal of Common Market Studies*"
+publication_short: ""
 publication_types: ["2"]
 selected: true
 title: "What Do Politicians Think of Technocratic Institutions? Attitudes in the European Parliament Towards the European Central Bank"

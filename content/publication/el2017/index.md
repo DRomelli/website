@@ -5,9 +5,7 @@ abstract_short: "We build a novel dataset that allows us to track appointments t
 
 authors:
 - name: Patricia Charléty
-  URL: https://faculty.essec.edu/en/cv/charlety-lepers-patricia/
 - name: Estefania Santacreu-Vasut
-  URL: https://faculty.essec.edu/en/cv/santacreu-vasut-estefania/
 - name: Davide Romelli
 date: '2017-03-23'
 
@@ -20,8 +18,8 @@ image:
 
 math: false
 projects: []
-publication: Economics Letters
-publication_short: EL
+publication: "*Economics Letters*"
+publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

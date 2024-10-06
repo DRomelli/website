@@ -5,7 +5,6 @@ abstract_short: "In his Concluding Remarks on 31 May 1979, Paolo Baffi - Governo
 
 authors:
   - name: Donato Masciandaro
-    url: https://faculty.unibocconi.it/donatomasciandaro/
   - name: Davide Romelli
 date: '2016-07-01'
 
@@ -18,8 +17,8 @@ image:
 
 math: false
 projects: []
-publication: SUERF - The European Money and Finance Forum, Lancier
-publication_short: SUERF
+publication: "*SUERF - The European Money and Finance Forum, Lancier*"
+publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

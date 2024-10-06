@@ -3,9 +3,7 @@ abstract: 'Monetary policy decisions taken by central banks affect the economy, 
 abstract_short: This paper examines how the presence of women on central bank monetary policy committees affects monetary decisions. It finds that central banks with more women on their boards tend to adopt a more conservative approach, especially in response to inflation.
 authors:
   - name: Donato Masciandaro
-    url: https://faculty.unibocconi.it/donatomasciandaro/
   - name: Paola Profeta
-    url: https://sites.google.com/view/paola-profeta
   - name: Davide Romelli
 date: '2023-06-26'
 highlight: false
@@ -15,8 +13,8 @@ image:
   preview_only: false
 math: false
 projects: []
-publication: American Law and Economics Review
-publication_short: ALER
+publication: "*American Law and Economics Review*"
+publication_short: ""
 publication_types: ["3"]
 selected: true
 title: 'Women and Governance: Central Bank Boards and Monetary Policy'

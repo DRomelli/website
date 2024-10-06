@@ -6,7 +6,6 @@ abstract_short: "This study examines how trade openness affects the relationship
 authors:
 - name: Enrico Vasconcelos
 - name: Cristina Terra
-  URL: https://sites.google.com/site/cristterra/Home?authuser=0
 - name: Davide Romelli
 date: '2018-04-17'
 
@@ -19,8 +18,8 @@ image:
 
 math: false
 projects: []
-publication: European Economic Review
-publication_short: EER
+publication: "*European Economic Review*"
+publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
