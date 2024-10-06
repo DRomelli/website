@@ -6,7 +6,7 @@ abstract_short: "This paper examines the impact of government deficit monetizati
 authors:
   - Donato Masciandaro
   - Davide Romelli
-  - name: Stefano Ugolini
+  - Stefano Ugolini
 date: '2024-02-15'
 
 highlight: false
