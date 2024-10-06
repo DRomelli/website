@@ -31,10 +31,8 @@ url_code:
 links:
   - name: Article
     url: https://www.sciencedirect.com/science/article/abs/pii/S0165176517301222
-links:
   - name: ESSEC Working Paper
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2858167
-links:
 url_dataset: ''
 url_pdf: ''
 url_poster: ''

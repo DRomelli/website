@@ -31,7 +31,7 @@ links:
   - name: Online Appendix
     url: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/economicpolicy/37/112/10.1093_epolic_eiac011/1/eiac011_supplementary_data.pdf?Expires=1731280140&Signature=v6ZDKCuNiIGY1Kj5fmjNRAaWcb5N3SyjiW1nx8JWG7Wx2D1lN-iixSv4qMmyYxriocGSVd2-6SioMCHlLNwBD5KX1o7yPAXMDTc0EGKwWBsgV8905TH4Fgm3BMYoOmWFs8r6kR6bNFW0yYs5Vw-uW-AAuxs7TJYcuhiqN4sGjAMqlOwv7JzA1RhMsMVrsZvDOChN~k7FmrfjJILA2t85iylkkCmFvYGSBYAXb1q5vqiX2MHxwnvZmO75MKqZoGkSRZfD~xao03H6y4VOl0mtz5Siav-oJlZJXK8aNRe-6KnDFDKtB9naug0rsEOolLx9iMy2cbmAiSHzjRpaO69RBg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
   - name: Data
-    url: https://www.cbidata.org/
+    url: https://dromelli.github.io/cbidata/index.html
   - name: Replication file
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2KMIVW
   - name: Presentation @74th Economic Policy Panel Meeting

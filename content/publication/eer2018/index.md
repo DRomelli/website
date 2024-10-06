@@ -7,7 +7,7 @@ authors:
 - Enrico Vasconcelos
 - Cristina Terra
 - Davide Romelli
-date: '2018-04-17'
+date: '2018-06-17'
 
 highlight: false
 
@@ -31,10 +31,8 @@ url_code:
 links:
   - name: Article
     url: https://www.sciencedirect.com/science/article/abs/pii/S001429211830045X
-links:
-- name: Code & Data
-  url: files/eer2018_replication.zip
-links:
+  - name: Code & Data
+    url: files/eer2018_replication.zip
   - name: ESSEC Working Paper
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2439832
 url_dataset: ''

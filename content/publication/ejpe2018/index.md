@@ -29,19 +29,14 @@ url_code:
 links:
   - name: Article
     url: https://www.sciencedirect.com/science/article/abs/pii/S0176268016301380
-links:
   - name: BAFFI CAREFIN Centre - Working paper
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2599155
-links:
   - name: Data - Excel
     url: files/ejpe2018_excel.xlsx
-links:
   - name: Data - STATA
     url: files/ejpe2018_dta.pdf
-links:
   - name: Slides
     url: pdf/ejpe2018_slides.pdf
-links:
   - name: VoxEU
     url: https://cepr.org/voxeu/columns/central-bankers-supervisors-bandwagon-effect
 url_dataset: ''
