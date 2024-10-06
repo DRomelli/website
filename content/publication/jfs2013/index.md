@@ -44,10 +44,3 @@ url_slides: ''
 url_source: ''
 url_video: ''
 ---
-
-
-## Media Coverage
-
-- [The Guardian](https://www.theguardian.com/article-on-central-banks)
-- [Financial Times](https://www.ft.com/article-on-inflation-central-banks)
-- [Reuters](https://www.reuters.com/article-on-economic-inflation-central-banks)
