@@ -38,7 +38,7 @@ title: 'Competition and Innovation in the Financial Sector: Evidence from the Ri
 url_code: ''
 links:
   - name: Article - Open Access
-    url: https://link.springer.com/article/10.1007/s10693-023-00413-7#article-info
+    url: https://link.springer.com/article/10.1007/s10693-023-00413-7
 url_dataset: ''
 url_pdf: ''
 url_poster: ''
