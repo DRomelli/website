@@ -17,7 +17,7 @@ design:
 
 
 **[Unravelling household financial assets and demographic characteristics: a novel data perspective](publication/_hfcs_shs)**  
-with Simone Arrigoni, Agustin Bénétrix and Tara McIndoe-Calder,Bank for International Settlements, IFC Bulletin No 62, 2024.
+with Simone Arrigoni, Agustin BÃ©nÃ©trix and Tara McIndoe-Calder,Bank for International Settlements, IFC Bulletin No 62, 2024.
 
 **[Trends in Central Bank Independence: A De-jure Perspective](publication/_cbi_trends)**  
 BAFFI CAREFIN Centre Research Paper No. 217, 2024.
@@ -33,7 +33,7 @@ with Donato Masciandaro and Paola Profeta, Trinity Economic Papers (TEP) Working
 with Donato Masciandaro and Gaia Rubera, Trinity Economic Papers (TEP) Working Paper No. 1023, 2023.
 
 **Central Bank Independence and Fiscal Space**
-with Angelos Athanasopoulos, Nicolò Fraccaroli and Andreas Kern.
+with Angelos Athanasopoulos, NicolÃ² Fraccaroli and Andreas Kern.
 
 **Does central bank independence lead to monetary discipline?** with Etienne Farvaque and Alexander Jung.
 
@@ -44,4 +44,4 @@ with Angelos Athanasopoulos and Donato Masciandaro.
 with Thomas Lustenberger and Enzo Rossi.
 
 **Warning words in a warming world: Central bank communication and climate change**
-with Emanuele Campiglio, Jérôme Deyris and Ginevra Scalisi.
+with Emanuele Campiglio, JÃ©rÃ´me Deyris and Ginevra Scalisi.
