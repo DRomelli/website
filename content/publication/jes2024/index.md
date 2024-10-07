@@ -44,3 +44,9 @@ url_slides: ''
 url_source: ''
 url_video: ''
 ---
+
+
+## Media Coverage
+
+- [Il Sole 24 Ore](https://www.ilsole24ore.com/art/le-banche-centrali-comunicano-piu-ma-informano-meno-AErMF2MC?refresh_ce=1)
+- [PublicPolicy.ie](https://publicpolicy.ie/papers/tweetonomics-how-do-central-bank-communicate-their-policy-decisions-and-why-does-it-matter/)

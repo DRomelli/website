@@ -43,3 +43,9 @@ url_source: ''
 url_video: ''
 ---
 
+## Media Coverage
+
+- [ESSEC Knowledge](http://knowledge.essec.edu/en/economy-finance/gender-diversity-central-banks-how-may-things-evol.html)
+- [The Conversation (French)](https://theconversation.com/christine-lagarde-un-mirage-dans-un-monde-dhommes-129416)
+- [The Council Community](https://cobsinsights.org/2017/11/03/central-banks-and-gender-not-exactly-above-board/)
+

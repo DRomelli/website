@@ -50,3 +50,8 @@ url_source: ''
 url_video: ''
 ---
 
+## Media Coverage
+
+-[White House Council of Economic Advisers](https://www.whitehouse.gov/cea/written-materials/2024/05/22/the-importance-of-central-bank-independence/#_ftn1)
+-[e-axes](https://e-axes.com/central-bank-independence-a-new-index-and-trends/)
+-[Le Monde](https://www.lemonde.fr/en/economy/article/2024/08/21/central-bankers-independence-is-under-growing-political-pressure_6719444_19.html)

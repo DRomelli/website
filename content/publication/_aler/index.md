@@ -40,4 +40,14 @@ url_video: ''
 
 ## Status
 
-Forthcoming at American Law and Economics Review (August 2024).
+Forthcoming at American Law and Economics Review (October 2024).
+
+
+## Media Coverage
+
+- [Banque de France Blog](https://www.ilsole24ore.com/art/le-banche-centrali-comunicano-piu-ma-informano-meno-AErMF2MC?refresh_ce=1)
+- [Les Echos (French)](http://www.lesechos.fr/finance-marches/marches-financiers/021502874358-banques-centrales-la-lente-feminisation-des-comites-de-politique-monetaire-1177771.php)
+- [IMF Finance & Development](http://www.imf.org/external/pubs/ft/fandd/2016/12/khan.htm)
+- [Live Mint](https://www.livemint.com/Home-Page/YExOjQO3PrJNGrdfS8hobP/How-women-can-improve-monetary-policy.html)
+- [Wall Street Journal](https://blogs.wsj.com/economics/2018/09/26/real-time-economics-how-much-higher-will-the-fed-lift-rates-u-s-ready-to-boot-canada-from-nafta-consumer-confidence-hits-18-year-high/)
+- [World Economic Forum](https://www.weforum.org/agenda/2018/09/women-matter-in-monetary-policy-making-heres-why/)
