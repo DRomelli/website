@@ -22,6 +22,3 @@ main:
   - name: CV
     url: files/Romelli_CV.pdf
     weight: 60
-  - name: Contact
-    url: '/contact/'
-    weight: 70
