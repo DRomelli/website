@@ -69,7 +69,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: files/Romelli_CV.pdf
+    link: pdf/Romelli_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "romellid@tcd.ie"
@@ -83,4 +83,4 @@ I am also Associate Editor of the [International Journal of Finance & Economics]
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/Romelli_CV.pdf" "newtab" >}}CV{{< /staticref >}}
 
-[Google Scholar](https://scholar.google.com/citations?user=XHCYQCoAAAAJ&hl=en) • [GitHub](https://github.com/DRomelli)• [IDEAS RePeC](https://ideas.repec.org/f/pro694.html)  • [ORCID](https://orcid.org/0000-0002-5405-6451) • [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55312829300) • [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1742908)• [VoxEU](https://cepr.org/about/people/davide-romelli)• [Web of Science](https://www.webofscience.com/wos/author/record/C-6837-2017)
+[Google Scholar](https://scholar.google.com/citations?user=XHCYQCoAAAAJ&hl=en) • [GitHub](https://github.com/DRomelli) • [IDEAS RePeC](https://ideas.repec.org/f/pro694.html)  • [ORCID](https://orcid.org/0000-0002-5405-6451) • [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55312829300) • [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1742908) • [VoxEU](https://cepr.org/about/people/davide-romelli) • [Web of Science](https://www.webofscience.com/wos/author/record/C-6837-2017)
