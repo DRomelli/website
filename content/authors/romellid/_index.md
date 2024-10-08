@@ -60,6 +60,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/davide-romelli-68774b9/
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-5405-6451
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
