@@ -4,7 +4,7 @@ headless: true
 
 title: Current Work
 subtitle:
-weight: 30  # section position on page
+weight: 60  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'

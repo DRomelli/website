@@ -4,7 +4,7 @@ headless: true
 
 title: Data
 subtitle: 
-weight: 100
+weight: 30  # section position on page
 design:
   columns: '2'
   spacing:
@@ -12,10 +12,10 @@ design:
     padding: ["20px", "0", "20px", "0"]    
 ---
 
-### Data on Central Bank Independence 
+### **Data on Central Bank Independence** 
 
 The [cbidata.org](https://cbidata.org) website provides the data on indices of Central Bank Independence for 155 countries between 1923 and 2023.
 
-### Data on Central Bank Involvement in Supervision
+### **Data on Central Bank Involvement in Supervision**
 
-Data on the index of Central Bank Involvement in Supervision can be downloaded here: [Central Bank Involvement in Supervision Index](files/ejpe2018_dta.dta)
+Data on the index of Central Bank Involvement in Supervision can be downloaded here: [Central Bank Involvement in Supervision Index](files/ejpe2018_dta.dta).
