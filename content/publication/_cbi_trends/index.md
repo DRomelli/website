@@ -28,16 +28,10 @@ url_code:
 links:
   - name: BAFFI CAREFIN Centre - Working paper
     url: https://dx.doi.org/10.2139/ssrn.4716704
-links:
-  - name: CEA, The White House
-    url: https://www.whitehouse.gov/cea/written-materials/2024/05/22/the-importance-of-central-bank-independence/#_ftn1
-links:
   - name: e-axes
     url: https://e-axes.com/central-bank-independence-a-new-index-and-trends/
-links:
   - name: SUERF Policy Brief
     url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/new-data-and-recent-trends-in-central-bank-independence/
-links:
   - name: VoxEU
     url: https://cepr.org/voxeu/columns/recent-trends-central-bank-independence
 url_dataset: ''
