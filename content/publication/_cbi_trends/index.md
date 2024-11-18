@@ -35,6 +35,9 @@ links:
   - name: e-axes
     url: https://e-axes.com/central-bank-independence-a-new-index-and-trends/
 links:
+  - name: Financial Times
+    url: https://on.ft.com/3Z1OIiu
+links:
   - name: SUERF Policy Brief
     url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/new-data-and-recent-trends-in-central-bank-independence/
 links:

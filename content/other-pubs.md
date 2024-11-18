@@ -14,8 +14,7 @@ date: '2024-09-20'
 
 [Economics of European Monetary Integration](https://academic.oup.com/book/41925/chapter-abstract/354844326?redirectedFrom=fulltext), with Donato Masciandaro, in Fabian Amtenbrink and Christoph, Herrmann (eds), EU Law of Economic & Monetary Union, Oxford University Press, 2020.
 
-[Peaks and Troughs: Economics and Political Economy of Central Bank Independence Cycles](https://academic.oup.com/edited-volume/34678/chapter-abstract/295565128?redirectedFrom=fulltext), with D. Masciandaro, in David G. Mayes, Pierre L. Siklos and Jan-Egbert Sturm (eds), The Oxford Handbook of the Economics of Central
-Banking, Oxford University Press, 2019
+[Peaks and Troughs: Economics and Political Economy of Central Bank Independence Cycles](https://academic.oup.com/edited-volume/34678/chapter-abstract/295565128?redirectedFrom=fulltext), with D. Masciandaro, in David G. Mayes, Pierre L. Siklos and Jan-Egbert Sturm (eds), The Oxford Handbook of the Economics of Central Banking, Oxford University Press, 2019.
 
 ### **Book chapters (not peer-reviewed)**
 
