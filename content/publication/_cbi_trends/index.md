@@ -35,9 +35,6 @@ links:
   - name: e-axes
     url: https://e-axes.com/central-bank-independence-a-new-index-and-trends/
 links:
-  - name: Financial Times
-    url: https://on.ft.com/3Z1OIiu
-links:
   - name: SUERF Policy Brief
     url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/new-data-and-recent-trends-in-central-bank-independence/
 links:
@@ -57,5 +54,6 @@ url_video: ''
 
 - [e-axes](https://e-axes.com/central-bank-independence-a-new-index-and-trends/)
 - [International Economic Association](https://www.iea-world.org/silence-is-golden-how-public-criticism-of-central-banks-can-backfire-for-leaders/)
+- [Financial Times](https://on.ft.com/3Z1OIiu)
 - [Le Monde](https://www.lemonde.fr/en/economy/article/2024/08/21/central-bankers-independence-is-under-growing-political-pressure_6719444_19.html)
 - [White House Council of Economic Advisers](https://www.whitehouse.gov/cea/written-materials/2024/05/22/the-importance-of-central-bank-independence/#_ftn1)
