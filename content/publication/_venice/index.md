@@ -7,7 +7,7 @@ authors:
   - Donato Masciandaro
   - Davide Romelli
   - Stefano Ugolini
-date: '2024-02-15'
+date: '2024-09-11'
 
 highlight: false
 
@@ -18,14 +18,14 @@ image:
 
 math: false
 projects: []
-publication: "*BAFFI CAREFIN Centre - Working paper*"
+publication: "*Trinity Economics Papers*"
 publication_types: ["3"]
 selected: true
 title: "Fiscal Dominance, Monetary Policy and Exchange Rates: Lessons from Early-Modern Venice"
 url_code: ''
 links:
-  - name: BAFFI CAREFIN Centre - Working paper
-    url: https://repec.unibocconi.it/baffic/baf/papers/cbafwp23205.pdf
+  - name: Trinity Economics Papers
+    url: https://www.tcd.ie/Economics/TEP/2024/TEP1124.pdf
   - name: VoxEU
     url: https://cepr.org/voxeu/columns/when-credibility-not-enough-fiscal-dominance-monetary-policy-and-exchange-rates-early
 url_dataset: ''
