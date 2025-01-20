@@ -13,12 +13,15 @@ main:
   - name: CBI Data
     url: https://cbidata.org
     weight: 30
+  - name: CBS Dataset
+    url: https://cbspeeches.com/
+    weight: 40
   - name: Other Publications
     url: '/other-pubs/'
-    weight: 40
+    weight: 50
   - name: Teaching
     url: '/teaching/'
-    weight: 50
+    weight: 60
   - name: CV
     url: pdf/Romelli_CV.pdf
-    weight: 60
+    weight: 70
