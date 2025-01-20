@@ -15,6 +15,9 @@ design:
   
 ---
 
+**[Warning words in a warming world: Central bank communication and climate change](publication/_cbspeeches)**  
+with Emanuele Campiglio, Jérôme Deyris and Ginevra Scalisi, LSE Grantham Research Institute on Climate Change and the Environment Working Paper No. 418, 2025.
+
 **[New Wine in Old Bottles: Unintended Financial Dominance and Central Banking Myopia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053363)**  
 with Donato Masciandaro and Riccardo Russo, BAFFI Centre Research Paper No. 236, 2024.
 
