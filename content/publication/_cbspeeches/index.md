@@ -42,10 +42,10 @@ url_source: ''
 url_video: ''
 ---
 
-## Media Coverage
+# ## Media Coverage
 
-#- [e-axes](https://e-axes.com/central-bank-independence-a-new-index-and-trends/)
-#- [International Economic Association](https://www.iea-world.org/silence-is-golden-how-public-criticism-of-central-banks-can-backfire-for-leaders/)
-#- [Financial Times](https://www.ft.com/content/7c2b87ba-ae72-4b89-bbe2-f9830264071f?accessToken=zwAGJzRG6cD4kc98K4e6rnJLidO74vmDAmQHHw.MEUCIQC6ZR2Myp9nq9qCiZjkNVG4XrGnbHWKueWIaUiven254gIgDAt_PaVJBbeald7ehpB7nst6D9M8bQFUjXjtBzxcf3g&sharetype=gift&token=779d1e4e-5e51-466c-8b92-de5dbcb68ff5)
-#- [Le Monde](https://www.lemonde.fr/en/economy/article/2024/08/21/central-bankers-independence-is-under-growing-political-pressure_6719444_19.html)
-#- [White House Council of Economic Advisers](https://www.whitehouse.gov/cea/written-materials/2024/05/22/the-importance-of-central-bank-independence/#_ftn1)
+# - [e-axes](https://e-axes.com/central-bank-independence-a-new-index-and-trends/)
+# - [International Economic Association](https://www.iea-world.org/silence-is-golden-how-public-criticism-of-central-banks-can-backfire-for-leaders/)
+# - [Financial Times](https://www.ft.com/content/7c2b87ba-ae72-4b89-bbe2-f9830264071f?accessToken=zwAGJzRG6cD4kc98K4e6rnJLidO74vmDAmQHHw.MEUCIQC6ZR2Myp9nq9qCiZjkNVG4XrGnbHWKueWIaUiven254gIgDAt_PaVJBbeald7ehpB7nst6D9M8bQFUjXjtBzxcf3g&sharetype=gift&token=779d1e4e-5e51-466c-8b92-de5dbcb68ff5)
+# - [Le Monde](https://www.lemonde.fr/en/economy/article/2024/08/21/central-bankers-independence-is-under-growing-political-pressure_6719444_19.html)
+# - [White House Council of Economic Advisers](https://www.whitehouse.gov/cea/written-materials/2024/05/22/the-importance-of-central-bank-independence/#_ftn1)
