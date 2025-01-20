@@ -14,7 +14,7 @@ date: '2025-01-20'
 highlight: false
 
 image:
-  caption: '🏛️ Warning words in a warming world: Central bank communication and climate change ♻'
+  caption: ''
   focal_point: ""
   preview_only: false
 
