@@ -42,7 +42,7 @@ url_source: ''
 url_video: ''
 ---
 
-### Media Coverage
+## Media Coverage
 
 #- [e-axes](https://e-axes.com/central-bank-independence-a-new-index-and-trends/)
 #- [International Economic Association](https://www.iea-world.org/silence-is-golden-how-public-criticism-of-central-banks-can-backfire-for-leaders/)
