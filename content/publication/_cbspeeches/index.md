@@ -41,7 +41,3 @@ url_slides:
 url_source: ''
 url_video: ''
 ---
-
-# ## Media Coverage
-
-# - [e-axes](https://e-axes.com/central-bank-independence-a-new-index-and-trends/)
