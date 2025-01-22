@@ -47,6 +47,3 @@ with Angelos Athanasopoulos and Donato Masciandaro.
 
 **Mandate-related Central Bank Speeches and Forecast Dispersion**
 with Thomas Lustenberger and Enzo Rossi.
-
-**Warning words in a warming world: Central bank communication and climate change**
-with Emanuele Campiglio, Jérôme Deyris and Ginevra Scalisi.
