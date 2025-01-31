@@ -15,6 +15,9 @@ design:
   
 ---
 
+**[Inflation: persistence and central bank independence**](publication/_cbi_inflation)**  
+with Angelos Athanasopoulos and Donato Masciandaro, BAFFI Centre Research Paper No. 237, 2025.
+
 **[Warning words in a warming world: Central bank communication and climate change](publication/_cbspeeches)**  
 with Emanuele Campiglio, Jérôme Deyris and Ginevra Scalisi, LSE Grantham Research Institute on Climate Change and the Environment Working Paper No. 418, 2025.
 
@@ -28,8 +31,7 @@ with Simone Arrigoni, Agustin Bénétrix and Tara McIndoe-Calder, Bank for Inter
 BAFFI CAREFIN Centre Research Paper No. 217, 2024.
 
 **[Fiscal Dominance, Monetary Policy and Exchange Rates: Lessons from Early-Modern Venice](publication/_venice)**
-with Donato Masciandaro and Stefano Ugolini  
-BAFFI CAREFIN Centre Research Paper No. 202, 2023.
+with Donato Masciandaro and Stefano Ugolini, BAFFI CAREFIN Centre Research Paper No. 202, 2023.
 
 **[Women and Governance: Central Bank Boards and Monetary Policy](publication/_aler)**  
 with Donato Masciandaro and Paola Profeta, Trinity Economic Papers (TEP) Working Paper No. 1123, 2023.
@@ -42,8 +44,7 @@ with Angelos Athanasopoulos, Nicolò Fraccaroli and Andreas Kern.
 
 **Does central bank independence lead to monetary discipline?** with Etienne Farvaque and Alexander Jung.
 
-**Inflation: persistence and central bank independence**
-with Angelos Athanasopoulos and Donato Masciandaro.
+
 
 **Mandate-related Central Bank Speeches and Forecast Dispersion**
 with Thomas Lustenberger and Enzo Rossi.
