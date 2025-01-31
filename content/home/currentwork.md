@@ -15,7 +15,7 @@ design:
   
 ---
 
-**[Inflation: persistence and central bank independence**](publication/_cbi_inflation)**  
+**[Long run ynflation: persistence and central bank independence](publication/_cbi_inflation)**  
 with Angelos Athanasopoulos and Donato Masciandaro, BAFFI Centre Research Paper No. 237, 2025.
 
 **[Warning words in a warming world: Central bank communication and climate change](publication/_cbspeeches)**  
