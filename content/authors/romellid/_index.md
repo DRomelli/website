@@ -32,7 +32,7 @@ education:
   - course: MSc in Economic Analysis
     institution: University of Cergy-Pontoise, France
     year: 2011
-  - course: MSs in Banking and Finance
+  - course: MSc in Banking and Finance
     institution: Catholic University of Milan, Italy
     year: 2009
   - course: BSc in Financial Markets and Institutions
