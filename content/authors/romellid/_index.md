@@ -88,7 +88,6 @@ I am also an Associate Editor of the [International Journal of Finance & Economi
 I am a member of the [CBDC Academic Advisory Group](https://www.bankofengland.co.uk/the-digital-pound/cbdc-academic-advisory-group), jointly run by HM Treasury and the Bank of England, and the [Monetary Policy Expert Panel](https://www.europarl.europa.eu/committees/en/econ/econ-policies/monetary-dialogue?tabCode=2025) of the ECON Committee of the European Parliament.
 
 
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/Romelli_CV.pdf" "newtab" >}}CV{{< /staticref >}}
 
 [Google Scholar](https://scholar.google.com/citations?user=XHCYQCoAAAAJ&hl=en) • [GitHub](https://github.com/DRomelli) • [IDEAS RePeC](https://ideas.repec.org/f/pro694.html)  • [ORCID](https://orcid.org/0000-0002-5405-6451) • [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55312829300) • [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1742908) • [VoxEU](https://cepr.org/about/people/davide-romelli) • [Web of Science](https://www.webofscience.com/wos/author/record/C-6837-2017)
