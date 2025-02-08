@@ -6,7 +6,7 @@ abstract_short: "Tone analysis offers deeper insights into FOMC decision-making,
 authors:
   - Hamza Bennani
   - Davide Romelli
-date: '2024-08-20'
+date: '2024-10-20'
 
 highlight: false
 
