@@ -34,7 +34,7 @@ links:
   - name: Data - Excel
     url: files/ejpe2018_excel.xlsx
   - name: Data - STATA
-    url: files/ejpe2018_dta.pdf
+    url: files/ejpe2018_dta.dta
   - name: Slides
     url: pdf/ejpe2018_slides.pdf
   - name: VoxEU
