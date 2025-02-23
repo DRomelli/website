@@ -45,3 +45,5 @@ url_video: ''
 # ## Media Coverage
 
 # - [Central Banking](https://www.centralbanking.com/central-banks/monetary-policy/communication/7963646/central-banks-words-matter-for-climate)
+# - [E-axes Forum](https://e-axes.org/research/warning-words-in-a-warming-world/)
+# - [The Conversation France](https://theconversation.com/quand-les-banques-centrales-semparent-de-la-question-du-climat-249076)

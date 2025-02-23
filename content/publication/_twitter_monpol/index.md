@@ -28,7 +28,7 @@ links:
   - name: SUERF Policy Note
     url: https://www.suerf.org/policynotes/11243/does-it-fit-tweeting-on-monetary-policy-and-central-bank-communication
   - name: Slides 
-    URL: pdf/twitter_monpol_slides.pdf
+    url: pdf/twitter_monpol_slides.pdf
 url_dataset: ''
 url_pdf: ''
 url_poster: ''

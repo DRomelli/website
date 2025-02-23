@@ -37,3 +37,7 @@ url_slides:
 url_source: ''
 url_video: ''
 ---
+
+# ## Media Coverage
+
+# - [VoxEU - CEPR](https://cepr.org/voxeu/columns/it-matters-even-more-central-bank-independence-long-run-inflation-and-persistence)
