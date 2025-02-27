@@ -28,6 +28,8 @@ url_code:
 links:
   - name: BAFFI CAREFIN Centre - Working paper
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5110065
+  - name: VoxEU
+    url: https://cepr.org/voxeu/columns/it-matters-even-more-central-bank-independence-long-run-inflation-and-persistence
 url_dataset: ''
 url_pdf: ''
 url_poster: ''
@@ -38,6 +40,3 @@ url_source: ''
 url_video: ''
 ---
 
-# ## Media Coverage
-
-# - [VoxEU - CEPR](https://cepr.org/voxeu/columns/it-matters-even-more-central-bank-independence-long-run-inflation-and-persistence)
