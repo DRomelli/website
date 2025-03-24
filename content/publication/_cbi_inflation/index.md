@@ -28,6 +28,8 @@ url_code:
 links:
   - name: BAFFI CAREFIN Centre - Working paper
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5110065
+  - name: SUERF Policy Brief
+    url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/long-run-inflation-central-bank-independence-matters/
   - name: VoxEU
     url: https://cepr.org/voxeu/columns/it-matters-even-more-central-bank-independence-long-run-inflation-and-persistence
 url_dataset: ''
