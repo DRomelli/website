@@ -18,8 +18,6 @@ design:
 **Central Bank Independence and Fiscal Space**
 with Angelos Athanasopoulos, Nicolò Fraccaroli and Andreas Kern.
 
-**Does central bank independence lead to monetary discipline?** with Etienne Farvaque and Alexander Jung.
-
 **Inflation: persistence and central bank independence**
 with Angelos Athanasopoulos and Donato Masciandaro.
 
