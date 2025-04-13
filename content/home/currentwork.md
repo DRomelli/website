@@ -15,6 +15,9 @@ design:
   
 ---
 
+**[Do central bank reforms lead to more monetary discipline?](publication/_cbi_money_growth)**  
+with Alexander Jung and Etienne Farvaque, ECB Working Paper No. 3049, 2025.
+
 **[Long run inflation: persistence and central bank independence](publication/_cbi_inflation)**  
 with Angelos Athanasopoulos and Donato Masciandaro, BAFFI Centre Research Paper No. 237, 2025.
 
@@ -41,10 +44,6 @@ with Donato Masciandaro and Gaia Rubera, Trinity Economic Papers (TEP) Working P
 
 **Central Bank Independence and Fiscal Space**
 with Angelos Athanasopoulos, Nicolò Fraccaroli and Andreas Kern.
-
-**Does central bank independence lead to monetary discipline?** with Etienne Farvaque and Alexander Jung.
-
-
 
 **Mandate-related Central Bank Speeches and Forecast Dispersion**
 with Thomas Lustenberger and Enzo Rossi.
