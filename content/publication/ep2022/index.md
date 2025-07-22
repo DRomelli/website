@@ -55,6 +55,8 @@ url_video: ''
 
 ## Media Coverage
 
+- [Der Spiegel](https://archive.is/20250720113124/https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-die-fed-wie-verletzlich-ist-die-ezb-kolumne-a-96476b82-f2b6-42c5-9747-76007789e591)
 - [Economic Policy Blog](https://www.economic-policy.org/74th-economic-policy-panel/central-banks/)
 - [Institutional Money (German)](https://www.institutional-money.com/magazin/theorie-praxis/artikel/abhaengigkeit-befeuert-inflation-60030/)
 - [LSE Business Review](https://blogs.lse.ac.uk/businessreview/2022/01/06/the-political-economy-of-central-bank-independence/)
+- [Reuters](https://www.reuters.com/markets/europe/trumps-fed-attacks-puncture-veneer-central-bank-independence-2025-07-21/)
