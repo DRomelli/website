@@ -59,4 +59,6 @@ url_video: ''
 - [Economic Policy Blog](https://www.economic-policy.org/74th-economic-policy-panel/central-banks/)
 - [Institutional Money (German)](https://www.institutional-money.com/magazin/theorie-praxis/artikel/abhaengigkeit-befeuert-inflation-60030/)
 - [LSE Business Review](https://blogs.lse.ac.uk/businessreview/2022/01/06/the-political-economy-of-central-bank-independence/)
+- [Público](https://publico.pt/s/tvUCAA)
 - [Reuters](https://www.reuters.com/markets/europe/trumps-fed-attacks-puncture-veneer-central-bank-independence-2025-07-21/)
+- [The Economic Times](https://economictimes.indiatimes.com/news/new-updates/from-urjit-patels-resignation-to-trump-powell-feud-heres-a-look-into-govt-central-bank-clashes-over-the-years/articleshow/122766075.cms)

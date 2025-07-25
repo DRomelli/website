@@ -42,7 +42,7 @@ url_source: ''
 url_video: ''
 ---
 
-# ## Media Coverage
+## Media Coverage
 
 # - [AFSE - French Economic Association Blog](https://www.blog-afse.fr/billet/quand-les-banques-centrales-semparent-de-la-question-du-climat)
 # - [Central Banking](https://www.centralbanking.com/central-banks/monetary-policy/communication/7963646/central-banks-words-matter-for-climate)
