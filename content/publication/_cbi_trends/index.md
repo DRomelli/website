@@ -44,6 +44,7 @@ url_video: ''
 
 ## Media Coverage
 
+- [Agefi](https://agefi.com/actualites/opinions/the-feds-independence-in-question?updatedprefs=true)
 - [Der Spiegel](https://archive.is/20250720113124/https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-die-fed-wie-verletzlich-ist-die-ezb-kolumne-a-96476b82-f2b6-42c5-9747-76007789e591)
 - [e-axes](https://e-axes.com/central-bank-independence-a-new-index-and-trends/)
 - [International Economic Association](https://www.iea-world.org/silence-is-golden-how-public-criticism-of-central-banks-can-backfire-for-leaders/)

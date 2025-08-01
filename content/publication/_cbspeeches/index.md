@@ -44,8 +44,8 @@ url_video: ''
 
 ## Media Coverage
 
-# - [AFSE - French Economic Association Blog](https://www.blog-afse.fr/billet/quand-les-banques-centrales-semparent-de-la-question-du-climat)
-# - [Central Banking](https://www.centralbanking.com/central-banks/monetary-policy/communication/7963646/central-banks-words-matter-for-climate)
-# - [E-axes Forum](https://e-axes.org/research/warning-words-in-a-warming-world/)
-# - [Medium](https://medium.com/@monetarypolicyinstitute/warning-words-in-a-warming-world-central-bank-communication-and-climate-change-0f0725d97a03)
-# - [The Conversation France](https://theconversation.com/quand-les-banques-centrales-semparent-de-la-question-du-climat-249076)
+- [AFSE - French Economic Association Blog](https://www.blog-afse.fr/billet/quand-les-banques-centrales-semparent-de-la-question-du-climat)
+- [Central Banking](https://www.centralbanking.com/central-banks/monetary-policy/communication/7963646/central-banks-words-matter-for-climate)
+- [E-axes Forum](https://e-axes.org/research/warning-words-in-a-warming-world/)
+- [Medium](https://medium.com/@monetarypolicyinstitute/warning-words-in-a-warming-world-central-bank-communication-and-climate-change-0f0725d97a03)
+- [The Conversation France](https://theconversation.com/quand-les-banques-centrales-semparent-de-la-question-du-climat-249076)

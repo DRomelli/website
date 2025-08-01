@@ -47,3 +47,4 @@ url_video: ''
 ## Media Coverage
 
 - [Obserwator finansowy (Polish)](https://www.obserwatorfinansowy.pl/bez-kategorii/rotator/banki-centralne-na-nowo-traca-niezaleznosc/)
+- [Wall Street Journal](https://www.wsj.com/articles/central-bank-independence-under-pressure-1440766630)
