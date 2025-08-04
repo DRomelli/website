@@ -22,6 +22,10 @@ date: '2024-09-20'
 
 ### **Other publications**
 
+[L'orientation de la politique monétaire de la BCE à l'épreuve de l'incertitude économique](https://www.ofce.sciences-po.fr/pdf/pbrief/2025/OFCEpbrief147.pdf), with Christophe Blot, Jérôme Creel, François Geerolf and Giovanni Ricco, OFCE Policy Brief, 147, July 2025.
+
+[The ECB's monetary policy stance in an uncertain environment](https://www.europarl.europa.eu/RegData/etudes/STUD/2025/764390/ECTI_STU(2025)764390_EN.pdf), with Christophe Blot, Jérôme Creel, François Geerolf, Giovanni Ricco, Monetary Dialogue Papers, European Parliament, June 2025.
+
 [Inflation dynamics and monetary policy in the Euro area and the US](https://www.europarl.europa.eu/RegData/etudes/IDAN/2023/755704/IPOL_IDA(2023)755704_EN.pdf), with Manuela Moschella, Monetary Dialogue Papers, European Parliament, November 2023.
 
 [ECB communication and its post-pandemic challenges](https://www.europarl.europa.eu/RegData/etudes/IDAN/2022/695493/IPOL_IDA(2022)695493_EN.pdf), with Manuela Moschella, Monetary Dialogue Papers, European Parliament, February 2022.
