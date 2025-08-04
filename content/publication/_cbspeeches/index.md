@@ -1,15 +1,12 @@
 ---
-abstract: 'We study climate-related central bank communication using a novel dataset containing 35,487 speeches delivered by 131 central banks from 1986 to 2023.
-We employ natural language processing techniques to identify and trace the evolution of key climate-related narratives centred around (i) green finance, and (ii) climate-related financial risks.
-We find that central bank public communication strategies are primarily driven by underlying institutional factors, rather than exposure to climate-related risks. 
-We then study the impact of climate-related communication on financial market dynamics through both a portfolio and a firm-level analysis. We find that equity returns of green firms outperform those of dirty firms when central banks engage more frequently and intensely with climate-related topics.'
+abstract: 'We study climate-related central bank communication using a novel dataset containing 35,487 speeches delivered by 131 central banks from 1986 to 2023. We employ natural language processing techniques to identify and trace the evolution of key climate-related narratives centred around (i) green finance, and (ii) climate-related financial risks. We find that central bank public communication strategies are primarily driven by underlying institutional factors, rather than exposure to climate-related risks. We then study the impact of climate-related communication on financial market dynamics through both a portfolio and a firm-level analysis. We find that equity returns of ‘green’ firms outperform those of ‘dirty’ firms when central banks engage more frequently and intensely with climate-related topics.'
 
 authors:
 - Emanuele Campiglio
 - Jérôme Deyris
 - Davide Romelli
 - Ginevra Scalisi
-date: '2025-01-20'
+date: '2025-07-19'
 
 highlight: false
 
@@ -20,19 +17,23 @@ image:
 
 math: false
 projects: []
-publication: "*LSE Grantham Research Institute on Climate Change and the Environment*"
+publication: "*European Economic Review*"
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 selected: true
 title: 'Warning words in a warming world: Central bank communication and climate change'
 url_code: 
 links:
+  - name: Article - Open Access
+    url: https://www.sciencedirect.com/science/article/pii/S0014292125001515
+  - name: Code & Data
+    url: https://www.dropbox.com/scl/fi/mtyhmcqwtaq1im5gou48l/CDRS_EER_Replication.zip?rlkey=i7f99k12b9z1q0gl1bfvxp7cz&dl=0
   - name: LSE Grantham Research Institute
     url: https://www.lse.ac.uk/granthaminstitute/publication/warning-words-in-a-warming-world-central-bank-communication-and-climate-change
-url_dataset: ''
+url_dataset: '' 
 url_pdf: ''
 url_poster: ''
 url_preprint: ''
