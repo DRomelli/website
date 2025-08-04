@@ -13,9 +13,9 @@ design:
 ### **Trinity College Dublin**
 
 - **[ECU11012 - Introduction to Economics B](https://www.tcd.ie/Economics/undergraduate/jf/intro-economics_b/index.php)** (Undergraduate Level)  
-- **[ECU22012 - Intermediate Economics B](https://www.tcd.ie/Economics/undergraduate/sf/intermediate_b/)** (Undergraduate Level)  
 - **[ECU33052 - Investment Analysis B](https://www.tcd.ie/Economics/undergraduate/js/outlinesjs/investmentanalysisb.php)** (Undergraduate Level)  
-- **[Monetary Policy]()** (Master Level) (2020 – Present)  
+- **ECU22012 - Intermediate Economics B** (Undergraduate Level) (2016 - 2025)  
+- **Monetary Policy** (Master Level) (2020 – 2025)  
 - **Macroeconomics II** (Master Level) (2018 – 2019)  
 - **Introduction to Macroeconomics** (Master Level) (2016-2019)  
 - **Monetary Policy Institutions in Open Economies** (PhD Level) (2017)  
