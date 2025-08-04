@@ -1,0 +1,52 @@
+---
+abstract: 'We study climate-related central bank communication using a novel dataset containing 35,487 speeches delivered by 131 central banks from 1986 to 2023. We employ natural language processing techniques to identify and trace the evolution of key climate-related narratives centred around (i) green finance, and (ii) climate-related financial risks. We find that central bank public communication strategies are primarily driven by underlying institutional factors, rather than exposure to climate-related risks. We then study the impact of climate-related communication on financial market dynamics through both a portfolio and a firm-level analysis. We find that equity returns of ‘green’ firms outperform those of ‘dirty’ firms when central banks engage more frequently and intensely with climate-related topics.'
+
+authors:
+- Emanuele Campiglio
+- Jérôme Deyris
+- Davide Romelli
+- Ginevra Scalisi
+date: '2025-07-19'
+
+highlight: false
+
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+math: false
+projects: []
+publication: "*European Economic Review*"
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+selected: true
+title: 'Warning words in a warming world: Central bank communication and climate change'
+url_code: 
+links:
+  - name: Article - Open Access
+    url: https://www.sciencedirect.com/science/article/pii/S0014292125001515
+  - name: Code & Data
+    url: https://www.dropbox.com/scl/fi/mtyhmcqwtaq1im5gou48l/CDRS_EER_Replication.zip?rlkey=i7f99k12b9z1q0gl1bfvxp7cz&dl=0
+  - name: LSE Grantham Research Institute
+    url: https://www.lse.ac.uk/granthaminstitute/publication/warning-words-in-a-warming-world-central-bank-communication-and-climate-change
+url_dataset: '' 
+url_pdf: ''
+url_poster: ''
+url_preprint: ''
+url_project: ''
+url_slides: 
+url_source: ''
+url_video: ''
+---
+
+## Media Coverage
+
+- [AFSE - French Economic Association Blog](https://www.blog-afse.fr/billet/quand-les-banques-centrales-semparent-de-la-question-du-climat)
+- [Central Banking](https://www.centralbanking.com/central-banks/monetary-policy/communication/7963646/central-banks-words-matter-for-climate)
+- [E-axes Forum](https://e-axes.org/research/warning-words-in-a-warming-world/)
+- [Medium](https://medium.com/@monetarypolicyinstitute/warning-words-in-a-warming-world-central-bank-communication-and-climate-change-0f0725d97a03)
+- [The Conversation France](https://theconversation.com/quand-les-banques-centrales-semparent-de-la-question-du-climat-249076)
