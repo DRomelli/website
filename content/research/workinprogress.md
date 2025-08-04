@@ -15,11 +15,5 @@ design:
   
 ---
 
-**Central Bank Independence and Fiscal Space**
-with Angelos Athanasopoulos, Nicolò Fraccaroli and Andreas Kern.
-
-**Inflation: persistence and central bank independence**
-with Angelos Athanasopoulos and Donato Masciandaro.
-
 **Mandate-related Central Bank Speeches and Forecast Dispersion**
 with Thomas Lustenberger and Enzo Rossi.
