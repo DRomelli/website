@@ -15,14 +15,14 @@ design:
   
 ---
 
+**[Central Bank Independence and Sovereign Borrowing](publication/_cbi_debt)**  
+with Angelos Athanasopoulos, Nicoló Fraccaroli and Andreas Kern, World Bank Policy Research Working Paper No. 11179, 2025.
+
 **[Do central bank reforms lead to more monetary discipline?](publication/_cbi_money_growth)**  
 with Alexander Jung and Etienne Farvaque, ECB Working Paper No. 3049, 2025.
 
 **[Long run inflation: persistence and central bank independence](publication/_cbi_inflation)**  
 with Angelos Athanasopoulos and Donato Masciandaro, BAFFI Centre Research Paper No. 237, 2025.
-
-**[Warning words in a warming world: Central bank communication and climate change](publication/_cbspeeches)**  
-with Emanuele Campiglio, Jérôme Deyris and Ginevra Scalisi, LSE Grantham Research Institute on Climate Change and the Environment Working Paper No. 418, 2025.
 
 **[New Wine in Old Bottles: Unintended Financial Dominance and Central Banking Myopia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053363)**  
 with Donato Masciandaro and Riccardo Russo, BAFFI Centre Research Paper No. 236, 2024.
@@ -41,9 +41,6 @@ with Donato Masciandaro and Paola Profeta, Trinity Economic Papers (TEP) Working
 
 **[Monetary policy and financial markets: evidence from Twitter traffic](publication/_twitter_monpol)**  
 with Donato Masciandaro and Gaia Rubera, Trinity Economic Papers (TEP) Working Paper No. 1023, 2023.
-
-**Central Bank Independence and Fiscal Space**
-with Angelos Athanasopoulos, Nicolò Fraccaroli and Andreas Kern.
 
 **Mandate-related Central Bank Speeches and Forecast Dispersion**
 with Thomas Lustenberger and Enzo Rossi.
