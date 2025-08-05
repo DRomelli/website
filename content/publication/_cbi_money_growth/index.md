@@ -28,6 +28,8 @@ url_code:
 links:
   - name: ECB Working Paper
     url: https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3049~bca750cd0a.en.pdf
+  - name: SUERF Policy Brief
+    url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/do-central-bank-reforms-lead-to-more-monetary-discipline/
 url_dataset: ''
 url_pdf: ''
 url_poster: ''
