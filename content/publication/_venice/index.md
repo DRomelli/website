@@ -37,3 +37,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 ---
+
+## Media Coverage
+
+- [Il Sole 24 Ore](https://24plus.ilsole24ore.com/art/trump-dollaro-e-lezione-serenissima-repubblica-venezia-AHSO1e9B)
