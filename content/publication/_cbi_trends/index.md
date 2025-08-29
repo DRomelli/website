@@ -53,5 +53,8 @@ url_video: ''
 - [Le Monde](https://www.lemonde.fr/en/economy/article/2024/08/21/central-bankers-independence-is-under-growing-political-pressure_6719444_19.html)
 - [Público](https://publico.pt/s/tvUCAA)
 - [Reuters](https://www.reuters.com/markets/europe/trumps-fed-attacks-puncture-veneer-central-bank-independence-2025-07-21/)
+- [Reuters](https://www.reuters.com/business/finance/trump-tangles-with-semi-free-fed-2025-08-29/)
 - [White House Council of Economic Advisers](https://www.whitehouse.gov/cea/written-materials/2024/05/22/the-importance-of-central-bank-independence/#_ftn1)
 - [The Economic Times](https://economictimes.indiatimes.com/news/new-updates/from-urjit-patels-resignation-to-trump-powell-feud-heres-a-look-into-govt-central-bank-clashes-over-the-years/articleshow/122766075.cms)
+- [VoxEU - CEPR](https://cepr.org/voxeu/columns/under-pressure-central-bank-independence-meets-blockchain-prediction-markets)
+- [VoxUkraine](https://voxukraine.org/en/do-independent-central-banks-get-in-the-way-of-industrial-policy)
