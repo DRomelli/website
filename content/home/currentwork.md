@@ -33,9 +33,6 @@ with Simone Arrigoni, Agustin Bénétrix and Tara McIndoe-Calder, Bank for Inter
 **[Trends in Central Bank Independence: A De-jure Perspective](publication/_cbi_trends)**  
 BAFFI CAREFIN Centre Research Paper No. 217, 2024.
 
-**[Fiscal Dominance, Monetary Policy and Exchange Rates: Lessons from Early-Modern Venice](publication/_venice)**
-with Donato Masciandaro and Stefano Ugolini, BAFFI CAREFIN Centre Research Paper No. 202, 2023.
-
 **[Women and Governance: Central Bank Boards and Monetary Policy](publication/_aler)**  
 with Donato Masciandaro and Paola Profeta, Trinity Economic Papers (TEP) Working Paper No. 1123, 2023.
 
