@@ -42,3 +42,7 @@ url_source: ''
 url_video: ''
 ---
 
+## Media Coverage
+
+- [Financial Times, September 2025](https://www.ft.com/content/7b79c40b-47d4-489a-ad34-abdead76506c)
+
