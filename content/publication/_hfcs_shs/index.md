@@ -19,13 +19,19 @@ image:
 
 math: false
 projects: []
-publication: "*IFC Bulletin No 62, Bank for International Settlements*"
+publication: "*Open Economies Review*"
 publication_short: ""
-publication_types: ["3"]
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
 selected: true
 title: 'Unravelling household financial assets and demographic characteristics: a novel data perspective'
 url_code: ''
 links:
+  - name: Article
+    url: https://rdcu.be/eJo1T
   - name: Working paper
     url: https://www.bis.org/ifc/publ/ifcb62_07.pdf
   - name: Economic Letter, Central Bank of Ireland
