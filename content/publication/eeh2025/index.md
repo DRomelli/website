@@ -45,3 +45,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 ---
+
+
+## Media Coverage
+
+- [Central Banking]([https://www.blog-afse.fr/billet/quand-les-banques-centrales-semparent-de-la-question-du-climat](https://www.centralbanking.com/central-banks/debt-management/7973751/venetian-lessons-for-today’s-central-bankers?atv=TGOSamkClh1Q80zsWjShqPKEGTJ4E8aIiMkdbarRRHg))
