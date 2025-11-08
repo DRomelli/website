@@ -40,6 +40,6 @@ url_source: ''
 url_video: ''
 ---
 
-# ## Media Coverage
+## Media Coverage
 
-# - [Central Banking](https://www.centralbanking.com/central-banks/governance/7972690/central-bank-independence-helps-price-stability-ecb-paper)
+- [Central Banking](https://www.centralbanking.com/central-banks/governance/7972690/central-bank-independence-helps-price-stability-ecb-paper)
