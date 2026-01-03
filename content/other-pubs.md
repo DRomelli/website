@@ -10,6 +10,9 @@ date: '2024-09-20'
 
 ### **Book chapters**
 
+[Trends in central bank independence: a de jure perspective](https://doi.org/10.4337/9781035337576.00010), in Etienne Farvaque and Piotr Stanek (eds), Are Central
+Banks Still Conservative?, Edward Elgar Publishing, 2025.
+
 [Twin Peaks and Central Banks](https://www.cambridge.org/core/books/abs/cambridge-handbook-of-twin-peaks-financial-regulation/twin-peaks-and-central-banks/BFA0E397F3E2C2751F5B4A5A1A5DEE86), with Donato Masciandaro, in Andrew Godwin and Andrew Schmulow (eds), The Cambridge Handbook of Twin Peaks Financial Regulation, Cambridge University Press, 2021.
 
 [Economics of European Monetary Integration](https://academic.oup.com/book/41925/chapter-abstract/354844326?redirectedFrom=fulltext), with Donato Masciandaro, in Fabian Amtenbrink and Christoph, Herrmann (eds), EU Law of Economic & Monetary Union, Oxford University Press, 2020.
