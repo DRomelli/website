@@ -27,9 +27,6 @@ with Angelos Athanasopoulos and Donato Masciandaro, BAFFI Centre Research Paper 
 **[New Wine in Old Bottles: Unintended Financial Dominance and Central Banking Myopia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053363)**  
 with Donato Masciandaro and Riccardo Russo, BAFFI Centre Research Paper No. 236, 2024.
 
-**[Trends in Central Bank Independence: A De-jure Perspective](publication/_cbi_trends)**  
-BAFFI CAREFIN Centre Research Paper No. 217, 2024.
-
 **[Women and Governance: Central Bank Boards and Monetary Policy](publication/_aler)**  
 with Donato Masciandaro and Paola Profeta, Trinity Economic Papers (TEP) Working Paper No. 1123, 2023.
 
