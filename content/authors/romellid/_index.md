@@ -53,7 +53,7 @@ social:
     link: https://x.com/davideromelli
   - icon: bluesky
     icon_pack: fab
-    link: https://x.com/davideromelli
+    link: https://bsky.app/profile/davideromelli.bsky.social
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=XHCYQCoAAAAJ&hl=en
@@ -85,6 +85,7 @@ I am an Associate Professor in the [Department of Economics at Trinity College D
 
 I am a member of the [CBDC Academic Advisory Group](https://www.bankofengland.co.uk/the-digital-pound/cbdc-academic-advisory-group), jointly run by HM Treasury and the Bank of England, and the [Monetary Policy Expert Panel](https://www.europarl.europa.eu/committees/en/econ/econ-policies/monetary-dialogue?tabCode=2025) of the ECON Committee of the European Parliament.
 
+My research has been covered in major media outlets including [*The Economist*](https://www.economist.com/finance-and-economics/2026/01/14/its-not-just-the-fed-politics-looms-over-central-banks-everywhere?giftId=NDVkNWQyZmQtODk1ZS00ZjA0LTk0OGUtOWMwNzQ1YTk2NDE1dGVnX3VzZXI%3D&utm_campaign=gifted_article), [*Financial Times*](https://www.ft.com/content/cca193c5-c695-4f30-b293-bfadcd8a53c3), [*Reuters*](https://www.reuters.com/markets/europe/trumps-fed-attacks-puncture-veneer-central-bank-independence-2025-07-21/), [*CNN*](https://edition.cnn.com/2025/08/29/economy/trump-fed-turkey-argentina), [*Le Monde*](https://www.lemonde.fr/en/economy/article/2024/08/21/central-bankers-independence-is-under-growing-political-pressure_6719444_19.html), and [*Der Spiegel*](https://archive.is/20250720113124/https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-die-fed-wie-verletzlich-ist-die-ezb-kolumne-a-96476b82-f2b6-42c5-9747-76007789e591), as well as by the [White House Council of Economic Advisers](https://web.archive.org/web/20240620185311/https://www.whitehouse.gov/cea/written-materials/2024/05/22/the-importance-of-central-bank-independence/#_ftn1).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/Romelli_CV.pdf" "newtab" >}}CV{{< /staticref >}}
 
