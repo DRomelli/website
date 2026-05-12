@@ -1,5 +1,5 @@
 ---
-abstract: 'This paper provides novel evidence of the long-run effects of central bank independence on inflation. We show that improvements in central bank independence have a much larger impact on inflation in the long run compared to the short run. Contrary to most of the previous literature, our results also show that the long-run effects of central bank independence on inflation are larger in developing countries. We find similar effects using linear and instrumental variable local projection methods. Finally, we show that central bank independence also reduces inflation persistence, reinforcing the effectiveness of monetary policy.'
+abstract: 'This paper provides novel evidence of the long-run effects of reforms in central bank independence on inflation. Using instrumental-variable local projections, we show that improvements in central bank independence have a much larger impact on inflation in the long run compared to the short run. Contrary to most of the previous literature,  we also find that these long-run effects are larger in developing countries. Our results are robust to alternative local projection designs, including doubly robust and difference-in-differences specifications. Finally, we show that reforms in central design also reduce inflation persistence, reinforcing the effectiveness of monetary policy.'
 
 authors:
 - Angelos Athanasopoulos
@@ -45,4 +45,5 @@ url_video: ''
 ## Media Coverage
 
 - [Financial Times, September 2025](https://www.ft.com/content/7b79c40b-47d4-489a-ad34-abdead76506c)
+- [Financial Times, May 2026](https://www.ft.com/content/46d8fac2-a90d-45d8-9a64-bc2483cf5963?syn-25a6b1a6=1)
 
