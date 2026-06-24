@@ -34,7 +34,7 @@ links:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0176268021001178?via%3Dihub
   - name: BAFFI CAREFIN Centre - Working paper
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3820745
-  - name: Code and Data
+  - name: Code & Data
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PBNYL4
   - name: Slides
     url: pdf/ejpe2022_slides.pdf

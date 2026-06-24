@@ -30,7 +30,7 @@ links:
     url: https://doi.org/10.1111/jcms.13626
   - name: BAFFI CAREFIN Centre - Working paper
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4483879
-  - name: Code and Data
+  - name: Code & Data
     url: files/jcms_replication.zip
   - name: VoxEU
     url: https://cepr.org/voxeu/columns/what-european-politicians-think-ecb-experimental-evidence
