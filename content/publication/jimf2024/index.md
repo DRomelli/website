@@ -30,6 +30,8 @@ url_code: ''
 links:
   - name: Article - Open Access
     url: https://doi.org/10.1016/j.jimonfin.2024.103161
+  - name: Code & Data
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TZEN38
   - name: Slides
     url: pdf/jimf2024_slides.pdf
 url_dataset: ''
