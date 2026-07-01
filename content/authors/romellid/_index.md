@@ -6,7 +6,7 @@ title: Davide Romelli
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor of Economics
+role: Associate Professor & Head of Department, Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
