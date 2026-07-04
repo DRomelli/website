@@ -7,7 +7,7 @@ authors:
   - Donato Masciandaro
   - Davide Romelli
   - Gaia Rubera
-date: '2024-06-26'
+date: '2026-06-29'
 
 highlight: false
 image:
@@ -16,15 +16,17 @@ image:
   preview_only: false
 math: false
 projects: []
-publication: "*Trinity Economic Papers*"
+publication: "*The B.E. Journal of Macroeconomics*"
 publication_short: ""
-publication_types: ["3"]
+publication_types: ["2"]
 selected: true
 title: "Monetary policy and financial markets: evidence from Twitter traffic"
 url_code: ''
 links:
-  - name: Trinity Economic Papers
-    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4479590
+  - name: Article - Open Access
+    url: https://doi.org/10.1515/bejm-2025-0070
+  - name: Code & Data
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SED5TR
   - name: SUERF Policy Note
     url: https://www.suerf.org/policynotes/11243/does-it-fit-tweeting-on-monetary-policy-and-central-bank-communication
   - name: Slides 

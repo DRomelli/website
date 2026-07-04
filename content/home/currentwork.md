@@ -30,8 +30,5 @@ with Donato Masciandaro and Riccardo Russo, BAFFI Centre Research Paper No. 236,
 **[Women and Governance: Central Bank Boards and Monetary Policy](publication/_aler)**  
 with Donato Masciandaro and Paola Profeta, Trinity Economic Papers (TEP) Working Paper No. 1123, 2023.
 
-**[Monetary policy and financial markets: evidence from Twitter traffic](publication/_twitter_monpol)**  
-with Donato Masciandaro and Gaia Rubera, Trinity Economic Papers (TEP) Working Paper No. 1023, 2023.
-
 **Mandate-related Central Bank Speeches and Forecast Dispersion**
 with Thomas Lustenberger and Enzo Rossi.
