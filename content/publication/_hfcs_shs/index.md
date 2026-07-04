@@ -8,7 +8,7 @@ authors:
   - Agustín Bénétrix
   - Tara McIndoe-Calder
   - Davide Romelli
-date: '2025-09-30'
+date: '2026-01-01'
 
 highlight: false
 
