@@ -25,6 +25,8 @@ Banks Still Conservative?, Edward Elgar Publishing, 2025.
 
 ### **Other publications**
 
+[Not All Energy Shocks Are Created Equal](https://www.europarl.europa.eu/RegData/etudes/STUD/2026/779880/ECTI_STU(2026)779880_EN.pdf), with Christophe Blot, Jérôme Creel, François Geerolf, Monetary Dialogue Papers, European Parliament, June 2026.
+
 [L'orientation de la politique monétaire de la BCE à l'épreuve de l'incertitude économique](https://www.ofce.sciences-po.fr/pdf/pbrief/2025/OFCEpbrief147.pdf), with Christophe Blot, Jérôme Creel, François Geerolf and Giovanni Ricco, OFCE Policy Brief, 147, July 2025.
 
 [The ECB's monetary policy stance in an uncertain environment](https://www.europarl.europa.eu/RegData/etudes/STUD/2025/764390/ECTI_STU(2025)764390_EN.pdf), with Christophe Blot, Jérôme Creel, François Geerolf, Giovanni Ricco, Monetary Dialogue Papers, European Parliament, June 2025.
