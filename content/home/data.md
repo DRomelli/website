@@ -23,4 +23,4 @@ The [cbidata.org](https://cbidata.org) website provides the data on indices of C
 
 ### **Data on Central Bank Involvement in Supervision**
 
-Data on the index of Central Bank Involvement in Supervision can be downloaded here: [Central Bank Involvement in Supervision Index](files/ejpe2018_dta.dta).
+<span style="color:#d00000;"><strong>Updated as of July 20, 2026.</strong></span> The index of Central Bank Involvement in Supervision (CBIS), based on Masciandaro and Romelli (2018), now covers 156 economies through December 2025. Explore the [interactive map and download the data](/cbis/) (Excel, Stata, CSV, R).
