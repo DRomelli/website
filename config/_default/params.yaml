@@ -144,3 +144,6 @@ cms:
 icon:
   pack:
     ai: true
+
+security:
+  allow_frame: true

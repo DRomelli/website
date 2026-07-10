@@ -25,3 +25,6 @@ main:
   - name: CV
     url: pdf/Romelli_CV.pdf
     weight: 70
+  - name: CBIS Index
+    url: '/cbis/'
+    weight: 45
