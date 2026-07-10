@@ -9,6 +9,7 @@ design:
 ---
 
 <style>
+.article-container{max-width:1340px!important}   /* widen the theme column on this page so the map + country list sit side by side */
 @scope (.cbisapp) {
 
   :scope{
