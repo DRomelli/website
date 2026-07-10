@@ -1,7 +1,7 @@
 ---
 title: 'Central Bank Involvement in Supervision (CBIS) Index'
 author: Davide Romelli
-date: '2026-07-20'
+date: '2026-07-10'
 slug: cbis
 design:
   spacing:
