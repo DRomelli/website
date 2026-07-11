@@ -3,6 +3,7 @@ title: 'Central Bank Involvement in Supervision (CBIS) Index'
 author: Davide Romelli
 date: '2026-07-10'
 slug: cbis
+share: false
 design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
@@ -12,6 +13,7 @@ design:
 .article-container{max-width:1340px!important}   /* widen the theme column on this page so the map + country list sit side by side */
 .article-container h1{text-align:center;margin-bottom:2px}   /* centre the page title */
 .cbisapp header{padding-top:4px}                            /* tighten the gap between title and subtitle */
+.share-box{display:none!important}                          /* remove the social share icons */
 @scope (.cbisapp) {
 
   :scope{
