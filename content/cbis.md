@@ -40,8 +40,8 @@ design:
   @media (max-width:900px){.wrap{grid-template-columns:1fr}}
   .mapcard{position:relative;background:var(--panel);border:1px solid var(--line);
     border-radius:14px;box-shadow:var(--shadow);overflow:hidden}
-  .yearhint{padding:11px 16px 0;font-size:12px;color:var(--muted)}
-  .yearbar{display:flex;align-items:center;gap:12px;padding:9px 16px 11px;border-bottom:1px solid var(--line)}
+  .hint{text-align:center;color:var(--muted);font-size:13px;padding:2px 26px 10px}
+  .yearbar{display:flex;align-items:center;gap:12px;padding:12px 16px 11px;border-bottom:1px solid var(--line)}
   .playbtn{flex:0 0 auto;width:34px;height:34px;border-radius:50%;border:1px solid var(--accent);
     background:var(--accent);color:#fff;font-size:13px;cursor:pointer;display:flex;align-items:center;justify-content:center}
   .playbtn:hover{opacity:.9}
@@ -68,13 +68,16 @@ design:
   .box{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:15px 16px;box-shadow:var(--shadow)}
   .search{width:100%;padding:9px 11px;border:1px solid var(--line);border-radius:9px;
     background:var(--bg);color:var(--fg);font-size:14px}
-  .hits{list-style:none;margin:6px 0 0;padding:0;max-height:190px;overflow:auto}
+  .searchwrap{position:relative}
+  .hits{list-style:none;margin:4px 0 0;padding:4px;position:absolute;left:0;right:0;top:100%;
+    background:var(--bg);border:1px solid var(--line);border-radius:9px;box-shadow:var(--shadow);
+    max-height:220px;overflow:auto;z-index:6}
+  .hits:empty{display:none}
   .hits li{padding:6px 8px;border-radius:7px;cursor:pointer;font-size:13.5px;display:flex;justify-content:space-between;gap:8px}
   .hits li:hover{background:var(--line)}
   .pill{font-size:11px;font-weight:700;color:#fff;border-radius:20px;padding:1px 8px;flex:0 0 auto}
   .picktitle{font-size:15px;font-weight:650;margin:0 0 2px}
   .pickdesc{color:var(--muted);font-size:13px;margin:0 0 10px}
-  #panel[hidden]{display:none}
   #panel .cty{font-size:18px;font-weight:650;margin:0 0 2px}
   #panel .cbis{display:inline-flex;align-items:center;gap:8px;margin:6px 0 10px}
   #panel .score{font-size:26px;font-weight:800;color:#fff;border-radius:10px;padding:2px 12px;line-height:1.25}
@@ -83,6 +86,13 @@ design:
   .sect h4{margin:0 0 3px;font-size:11.5px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
   .sect .who{font-size:13.5px}
   .sect .meta{font-size:11.5px;color:var(--muted);margin-top:1px}
+  .trend{margin:4px 0 0}
+  .trend svg{width:100%;height:auto;display:block}
+  .trend .gy{stroke:var(--line);stroke-width:1}
+  .trend .gyl,.trend .gxl{font-size:9px;fill:var(--muted)}
+  .trend .tline{fill:none;stroke:var(--accent);stroke-width:2}
+  .trend .ymark{stroke:var(--muted);stroke-dasharray:3 3}
+  .trend .ydot{fill:var(--accent)}
   .cbrow{display:inline-block;font-size:11px;font-weight:700;padding:0 6px;border-radius:5px;margin-top:3px}
   .yes{background:rgba(42,93,176,.15);color:var(--accent)}
   .no{background:var(--line);color:var(--muted)}
@@ -150,9 +160,10 @@ design:
     </div>
   </div>
 </section>
+<div class="hint">Explore central bank involvement in supervision across countries and over time —
+drag the year slider or press ▶ to watch the evolution, and click a country (or search) to see its historical trend.</div>
 <div class="wrap">
   <div class="mapcard">
-    <div class="yearhint">Drag the year slider or press ▶ to watch the evolution</div>
     <div class="yearbar">
       <button id="play" class="playbtn" aria-label="Play through the years">▶</button>
       <input id="year" type="range" min="1996" max="2025" value="2025" step="1" aria-label="Year">
@@ -167,11 +178,16 @@ design:
   <aside>
     <div class="box">
       <div class="picktitle">Select a country</div>
-      <div class="pickdesc">Click the map or use search to see the supervisory architecture and CBIS score.</div>
-      <input id="q" class="search" placeholder="Search a country…" autocomplete="off">
-      <ul id="hits" class="hits"></ul>
+      <div class="searchwrap">
+        <input id="q" class="search" placeholder="Search a country…" autocomplete="off">
+        <ul id="hits" class="hits"></ul>
+      </div>
     </div>
-    <div class="box" id="panel" hidden></div>
+    <div class="box" id="panel">
+      <div class="picktitle">Country detail</div>
+      <div class="pickdesc">Click a country on the map — or use the search — to see its supervisory
+      architecture and how its CBIS index has evolved since 1996.</div>
+    </div>
   </aside>
 </div>
 <div class="modal" id="citeModal" hidden>

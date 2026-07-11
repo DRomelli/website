@@ -50,19 +50,46 @@ function paint(){
   });
 }
 
+// small step-chart of the country's CBIS score over the full panel, with a marker on the slider year
+function drawTrend(iso){
+  const host=document.getElementById("trend"); if(!host)return;
+  host.innerHTML="";
+  const M={t:8,r:14,b:18,l:20},W=300,H=132,w=W-M.l-M.r,h=H-M.t-M.b;
+  const x=d3.scaleLinear().domain([YMIN,YMAX]).range([0,w]);
+  const yv=d3.scaleLinear().domain([0,6]).range([h,0]);
+  const gg=d3.select(host).append("svg").attr("viewBox",`0 0 ${W} ${H}`)
+    .append("g").attr("transform",`translate(${M.l},${M.t})`);
+  gg.selectAll("line.gy").data([0,1,2,3,4,5,6]).join("line").attr("class","gy")
+    .attr("x1",0).attr("x2",w).attr("y1",d=>yv(d)).attr("y2",d=>yv(d));
+  gg.selectAll("text.gyl").data([0,2,4,6]).join("text").attr("class","gyl")
+    .attr("x",-6).attr("y",d=>yv(d)+3).attr("text-anchor","end").text(d=>d);
+  gg.selectAll("text.gxl").data([1996,2005,2015,2025]).join("text").attr("class","gxl")
+    .attr("x",d=>x(d)).attr("y",h+14).attr("text-anchor","middle").text(d=>d);
+  const pts=[];for(let y=YMIN;y<=YMAX;y++){const s=stateAt(iso,y);if(s)pts.push([y,s.cbis]);}
+  if(pts.length){
+    gg.append("path").attr("class","tline")
+      .attr("d",d3.line().x(p=>x(p[0])).y(p=>yv(p[1])).curve(d3.curveStepAfter)(pts));
+  }
+  gg.append("line").attr("class","ymark").attr("x1",x(year)).attr("x2",x(year)).attr("y1",0).attr("y2",h);
+  const cur=stateAt(iso,year);
+  if(cur)gg.append("circle").attr("class","ydot").attr("cx",x(year)).attr("cy",yv(cur.cbis)).attr("r",3.5);
+}
+
 function selectIso(iso){
   selIso=iso;
-  document.getElementById("panel").hidden=false;   // reveal the info box on selection
   g.selectAll("path.sel").classed("sel",false);
   g.select(`path[data-id="${iso}"]`).classed("sel",true);
   const nm=(TL[iso]&&TL[iso].name)||iso, s=stateAt(iso,year);
+  const head=`<div class="cty">${esc(nm)} <span style="color:var(--muted);font-weight:400;font-size:13px">${iso}</span></div>`;
+  const trend=`<div class="sect"><h4>CBIS 1996–2025</h4><div class="trend" id="trend"></div></div>`;
   if(!s){const first=TL[iso]?TL[iso].ev[0].y:null;
-    d3.select("#panel").html(`<div class="cty">${esc(nm)} <span style="color:var(--muted);font-weight:400;font-size:13px">${iso}</span></div>`
-      +`<div class="desc">No data for ${year}.${first?` Enters the dataset in ${first}.`:""}</div>`);return;}
-  d3.select("#panel").html(`
-    <div class="cty">${esc(nm)} <span style="color:var(--muted);font-weight:400;font-size:13px">${iso}</span></div>
+    d3.select("#panel").html(head
+      +`<div class="desc">No data for ${year}.${first?` Enters the dataset in ${first}.`:""}</div>`+trend);
+    drawTrend(iso);return;}
+  d3.select("#panel").html(`${head}
     <div class="cbis"><span class="score" style="background:${col(s.cbis)}">${s.cbis}</span>
-      <span class="desc">${LABEL[s.cbis]} · as of ${s.y}</span></div>
+      <span class="desc">${LABEL[s.cbis]} · as of ${s.y}</span></div>`
+    +trend+`
     <div class="sect"><h4>Banking</h4><div class="who">${esc(s.bank)}</div>
       <div class="meta">${s.nbsa??"?"} authority(ies)</div>${cbFlag(s.nbsa,s.cbbs)}</div>
     <div class="sect"><h4>Insurance</h4><div class="who">${esc(s.ins)}</div>
@@ -71,12 +98,14 @@ function selectIso(iso){
       <div class="meta">${s.nsmsa==null?"no sector supervisor":s.nsmsa+" authority(ies)"}</div>${cbFlag(s.nsmsa,s.cbsms)}</div>
     <div class="sect"><h4>Central bank</h4><div class="who">${esc(s.cb)}</div></div>
   `);
+  drawTrend(iso);
 }
 
 // search  (feature id == iso_a2)
 const q=d3.select("#q"), hits=d3.select("#hits");
 function render(term){
-  term=(term||"").toLowerCase();
+  term=(term||"").toLowerCase().trim();
+  if(!term){hits.selectAll("li").remove();return;}   // dropdown only while typing — no permanent list
   const rows=LIST.filter(r=>r.name.toLowerCase().includes(term)||r.iso2.toLowerCase()===term).slice(0,60);
   hits.selectAll("li").data(rows,r=>r.iso2).join("li")
     .html(r=>{const s=stateAt(r.iso2,year);
@@ -85,12 +114,15 @@ function render(term){
 }
 q.on("input",()=>render(q.property("value")));
 q.on("focus",()=>render(q.property("value")));
+document.addEventListener("click",e=>{if(!e.target.closest(".searchwrap"))hits.selectAll("li").remove();});
 
 // year slider + play
 const slider=document.getElementById("year"), ylbl=document.getElementById("yearlbl"), play=document.getElementById("play");
 let timer=null;
 function stop(){if(timer){clearInterval(timer);timer=null;play.textContent="▶";}}
-function setYear(y){year=y;slider.value=y;ylbl.textContent=y;paint();render(q.property("value"));if(selIso)selectIso(selIso);}
+function setYear(y){year=y;slider.value=y;ylbl.textContent=y;paint();
+  if(!hits.select("li").empty())render(q.property("value"));   // refresh pills only if the dropdown is open
+  if(selIso)selectIso(selIso);}
 slider.oninput=()=>{stop();setYear(+slider.value);};
 play.onclick=()=>{
   if(timer){stop();return;}
@@ -100,7 +132,7 @@ play.onclick=()=>{
 };
 
 // init
-paint(); render("");
+paint();
 
 // cite modal
 const modal=document.getElementById("citeModal");
