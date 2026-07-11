@@ -10,6 +10,8 @@ design:
 
 <style>
 .article-container{max-width:1340px!important}   /* widen the theme column on this page so the map + country list sit side by side */
+.article-container h1{text-align:center;margin-bottom:2px}   /* centre the page title */
+.cbisapp header{padding-top:4px}                            /* tighten the gap between title and subtitle */
 @scope (.cbisapp) {
 
   :scope{
@@ -68,6 +70,9 @@ design:
   .hits li{padding:6px 8px;border-radius:7px;cursor:pointer;font-size:13.5px;display:flex;justify-content:space-between;gap:8px}
   .hits li:hover{background:var(--line)}
   .pill{font-size:11px;font-weight:700;color:#fff;border-radius:20px;padding:1px 8px;flex:0 0 auto}
+  .picktitle{font-size:15px;font-weight:650;margin:0 0 2px}
+  .pickdesc{color:var(--muted);font-size:13px;margin:0 0 10px}
+  #panel[hidden]{display:none}
   #panel .cty{font-size:18px;font-weight:650;margin:0 0 2px}
   #panel .cbis{display:inline-flex;align-items:center;gap:8px;margin:6px 0 10px}
   #panel .score{font-size:26px;font-weight:800;color:#fff;border-radius:10px;padding:2px 12px;line-height:1.25}
@@ -159,13 +164,12 @@ design:
   </div>
   <aside>
     <div class="box">
+      <div class="picktitle">Select a country</div>
+      <div class="pickdesc">Click the map or use search to see the supervisory architecture and CBIS score.</div>
       <input id="q" class="search" placeholder="Search a country…" autocomplete="off">
       <ul id="hits" class="hits"></ul>
     </div>
-    <div class="box" id="panel">
-      <div class="cty">Select a country</div>
-      <div class="desc">Click the map or use search to see the supervisory architecture and CBIS score.</div>
-    </div>
+    <div class="box" id="panel" hidden></div>
   </aside>
 </div>
 <div class="modal" id="citeModal" hidden>

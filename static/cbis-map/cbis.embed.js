@@ -52,6 +52,7 @@ function paint(){
 
 function selectIso(iso){
   selIso=iso;
+  document.getElementById("panel").hidden=false;   // reveal the info box on selection
   g.selectAll("path.sel").classed("sel",false);
   g.select(`path[data-id="${iso}"]`).classed("sel",true);
   const nm=(TL[iso]&&TL[iso].name)||iso, s=stateAt(iso,year);
