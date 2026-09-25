@@ -20,6 +20,14 @@
       td = root.querySelector("#ji-td"), tb = root.querySelector("#ji-tb"),
       hr = root.querySelector("#ji-hr"), cnt = root.querySelector("#ji-count");
 
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function safeUrl(u) {
+    return /^https?:\/\//i.test(u || "") ? u : null;
+  }
   function pubName(j) { return PUB[j.publisher] || j.publisher; }
   function val(j, k) {
     if (k === "impact_factor") return j.impact_factor ? j.impact_factor.value : null;
@@ -29,14 +37,14 @@
   }
   function cell(j, k) {
     var m = '<span class="ji-muted">—</span>';
-    if (k === "impact_factor") return j.impact_factor ? j.impact_factor.raw : m;
-    if (METRIC.indexOf(k) >= 0) return j.metrics[k] ? j.metrics[k].value : m;
-    if (k === "publisher") return pubName(j);
+    if (k === "impact_factor") return j.impact_factor ? esc(j.impact_factor.raw) : m;
+    if (METRIC.indexOf(k) >= 0) return j.metrics[k] ? esc(j.metrics[k].value) : m;
+    if (k === "publisher") return esc(pubName(j));
     if (k === "name") {
-      var url = j.source_url || j.repec_url;
-      return url ? '<a class="ji-jn" href="' + url + '" target="_blank" rel="noopener">' + j.name + "</a>" : j.name;
+      var url = safeUrl(j.source_url || j.repec_url);
+      return url ? '<a class="ji-jn" href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(j.name) + "</a>" : esc(j.name);
     }
-    return j[k];
+    return esc(j[k]);
   }
   function hasTL(j) { return METRIC.some(function (k) { return j.metrics[k]; }); }
 
@@ -78,7 +86,7 @@
   function init() {
     var ps = ALL.map(pubName).filter(function (v, i, a) { return a.indexOf(v) === i; }).sort();
     pub.innerHTML = '<option value="">All publishers</option>' +
-      ps.map(function (p) { return "<option>" + p + "</option>"; }).join("");
+      ps.map(function (p) { return "<option>" + esc(p) + "</option>"; }).join("");
     q.oninput = render; pub.onchange = render; td.onchange = render;
     render();
   }
