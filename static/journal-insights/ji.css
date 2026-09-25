@@ -1,0 +1,23 @@
+#ji { font-size: 15px; }
+#ji .ji-controls { display: flex; flex-wrap: wrap; gap: .6rem; align-items: center; margin: 1rem 0; }
+#ji .ji-controls input[type=search], #ji .ji-controls select {
+  padding: .45rem .6rem; border: 1px solid #ccc; border-radius: 5px; font-size: 14px; background: #fff; }
+#ji .ji-controls input[type=search] { min-width: 220px; }
+#ji .ji-count { color: #888; font-size: 13px; margin-left: auto; }
+#ji .ji-wrap { overflow-x: auto; border: 1px solid #e5e5e5; border-radius: 8px; }
+#ji table { border-collapse: collapse; width: 100%; min-width: 760px; font-size: 13.5px; }
+#ji th, #ji td { padding: .5rem .7rem; border-bottom: 1px solid #eee; text-align: left; vertical-align: top; }
+#ji th { background: #f7f7f7; cursor: pointer; user-select: none; white-space: nowrap; font-weight: 600; position: sticky; top: 0; }
+#ji th.n { text-align: right; }
+#ji td.n { text-align: right; font-variant-numeric: tabular-nums; }
+#ji tbody tr:hover { background: #fafafa; }
+#ji .ji-muted { color: #bbb; }
+#ji .ji-sub { color: #666; font-size: 14px; max-width: 60ch; }
+#ji a.ji-jn { color: #0a58ca; text-decoration: none; }
+#ji a.ji-jn:hover { text-decoration: underline; }
+@media (prefers-color-scheme: dark) {
+  #ji .ji-controls input, #ji .ji-controls select { background:#222; color:#eee; border-color:#444; }
+  #ji .ji-wrap { border-color:#333; }
+  #ji th { background:#1e1e1e; } #ji th,#ji td { border-color:#2a2a2a; }
+  #ji tbody tr:hover { background:#1a1a1a; }
+}

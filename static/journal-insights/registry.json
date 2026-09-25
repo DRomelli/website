@@ -1,0 +1,6174 @@
+[
+  {
+    "rank": 1,
+    "name": "Econometrica",
+    "repec_name": "Econometrica, Econometric Society",
+    "publisher": "Wiley",
+    "publisher_code": "wly",
+    "repec_url": "https://ideas.repec.org/s/wly/emetrp.html",
+    "repec_aggregate_score": 1.53,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "6.2",
+      "value": 6.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14680262/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 2,
+    "name": "The Quarterly Journal of Economics",
+    "repec_name": "The Quarterly Journal of Economics, President and Fellows of Harvard College",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/qjecon.html",
+    "repec_aggregate_score": 3.11,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "13.1",
+      "value": 13.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/qje/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 3,
+    "name": "American Economic Review",
+    "repec_name": "American Economic Review, American Economic Association",
+    "publisher": "American Economic Association",
+    "publisher_code": "aea",
+    "repec_url": "https://ideas.repec.org/s/aea/aecrev.html",
+    "repec_aggregate_score": 3.29,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "9.5",
+      "value": 9.5,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/american-economic-review",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); AEA publishes no metrics on aeaweb.org. No editorial timeline available."
+  },
+  {
+    "rank": 4,
+    "name": "Journal of Economic Literature",
+    "repec_name": "Journal of Economic Literature, American Economic Association",
+    "publisher": "American Economic Association",
+    "publisher_code": "aea",
+    "repec_url": "https://ideas.repec.org/s/aea/jeclit.html",
+    "repec_aggregate_score": 4.03,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "12.8",
+      "value": 12.8,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/journal-of-economic-literature",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); AEA publishes no metrics on aeaweb.org. No editorial timeline available."
+  },
+  {
+    "rank": 5,
+    "name": "Journal of Financial Economics",
+    "repec_name": "Journal of Financial Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jfinec.html",
+    "repec_aggregate_score": 4.21,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "8.8",
+      "value": 8.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "2 days",
+        "value": 2,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "35 days",
+        "value": 35,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "536 days",
+        "value": 536,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "17 days",
+        "value": 17,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-financial-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 6,
+    "name": "The Review of Financial Studies",
+    "repec_name": "The Review of Financial Studies, Society for Financial Studies",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/rfinst.html",
+    "repec_aggregate_score": 6.76,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "7.6",
+      "value": 7.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/rfs/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 7,
+    "name": "Journal of Political Economy",
+    "repec_name": "Journal of Political Economy, University of Chicago Press",
+    "publisher": "University of Chicago Press",
+    "publisher_code": "ucp",
+    "repec_url": "https://ideas.repec.org/s/ucp/jpolec.html",
+    "repec_aggregate_score": 6.86,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "6.3",
+      "value": 6.3,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journals.uchicago.edu/journals/jpe/about",
+    "date_collected": "2026-07-05",
+    "notes": "Chicago about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 8,
+    "name": "American Economic Journal: Macroeconomics",
+    "repec_name": "American Economic Journal: Macroeconomics, American Economic Association",
+    "publisher": "American Economic Association",
+    "publisher_code": "aea",
+    "repec_url": "https://ideas.repec.org/s/aea/aejmac.html",
+    "repec_aggregate_score": 7.51,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "6.9",
+      "value": 6.9,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/american-economic-journal-macroeconomics",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); AEA publishes no metrics on aeaweb.org. No editorial timeline available."
+  },
+  {
+    "rank": 9,
+    "name": "Journal of Finance",
+    "repec_name": "Journal of Finance, American Finance Association",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/jfinan.html",
+    "repec_aggregate_score": 8.35,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "12.2",
+      "value": 12.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/15406261/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 10,
+    "name": "Journal of Economic Perspectives",
+    "repec_name": "Journal of Economic Perspectives, American Economic Association",
+    "publisher": "American Economic Association",
+    "publisher_code": "aea",
+    "repec_url": "https://ideas.repec.org/s/aea/jecper.html",
+    "repec_aggregate_score": 9.1,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "10.1",
+      "value": 10.1,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/journal-of-economic-perspectives",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); AEA publishes no metrics on aeaweb.org. No editorial timeline available."
+  },
+  {
+    "rank": 11,
+    "name": "American Economic Journal: Applied Economics",
+    "repec_name": "American Economic Journal: Applied Economics, American Economic Association",
+    "publisher": "American Economic Association",
+    "publisher_code": "aea",
+    "repec_url": "https://ideas.repec.org/s/aea/aejapp.html",
+    "repec_aggregate_score": 9.28,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "6.1",
+      "value": 6.1,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/american-economic-journal-applied-economics",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); AEA publishes no metrics on aeaweb.org. No editorial timeline available."
+  },
+  {
+    "rank": 12,
+    "name": "The Review of Economic Studies",
+    "repec_name": "The Review of Economic Studies, Review of Economic Studies Ltd",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/restud.html",
+    "repec_aggregate_score": 9.31,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "9.7",
+      "value": 9.7,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/restud/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 13,
+    "name": "Journal of Economic Growth",
+    "repec_name": "Journal of Economic Growth, Springer",
+    "publisher": "Springer",
+    "publisher_code": "kap",
+    "repec_url": "https://ideas.repec.org/s/kap/jecgro.html",
+    "repec_aggregate_score": 11.33,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.5",
+      "value": 3.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "13 days",
+        "value": 13,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/10887",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 14,
+    "name": "Journal of Econometrics",
+    "repec_name": "Journal of Econometrics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/econom.html",
+    "repec_aggregate_score": 13.47,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.7",
+      "value": 4.7,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "467 days",
+        "value": 467,
+        "unit": "days"
+      },
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-econometrics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 15,
+    "name": "Journal of Monetary Economics",
+    "repec_name": "Journal of Monetary Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/moneco.html",
+    "repec_aggregate_score": 13.69,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.1",
+      "value": 4.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "3 days",
+        "value": 3,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "55 days",
+        "value": 55,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "350 days",
+        "value": 350,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "8 days",
+        "value": 8,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-monetary-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 16,
+    "name": "Brookings Papers on Economic Activity, Economic Studies Program",
+    "repec_name": "Brookings Papers on Economic Activity, Economic Studies Program, The Brookings Institution",
+    "publisher": "bin",
+    "publisher_code": "bin",
+    "repec_url": "https://ideas.repec.org/s/bin/bpeajo.html",
+    "repec_aggregate_score": 14.35,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.2",
+      "value": 3.2,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/brookings-papers-on-economic-activity",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); no editorial timeline available."
+  },
+  {
+    "rank": 17,
+    "name": "Annual Review of Economics",
+    "repec_name": "Annual Review of Economics, Annual Reviews",
+    "publisher": "anr",
+    "publisher_code": "anr",
+    "repec_url": "https://ideas.repec.org/s/anr/reveco.html",
+    "repec_aggregate_score": 16.78,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "12.2",
+      "value": 12.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.annualreviews.org/content/journals/economics",
+    "date_collected": "2026-07-05",
+    "notes": "Annual Reviews page reports impact factor only."
+  },
+  {
+    "rank": 18,
+    "name": "The Review of Economics and Statistics",
+    "repec_name": "The Review of Economics and Statistics, MIT Press",
+    "publisher": "tpr",
+    "publisher_code": "tpr",
+    "repec_url": "https://ideas.repec.org/s/tpr/restat.html",
+    "repec_aggregate_score": 17.56,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "7.7",
+      "value": 7.7,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://direct.mit.edu/rest",
+    "date_collected": "2026-07-05",
+    "notes": "MIT Press page reports impact factor only."
+  },
+  {
+    "rank": 19,
+    "name": "Journal of the European Economic Association",
+    "repec_name": "Journal of the European Economic Association, European Economic Association",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/jeurec.html",
+    "repec_aggregate_score": 17.97,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.5",
+      "value": 3.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/jeea/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 20,
+    "name": "The Economic Journal",
+    "repec_name": "The Economic Journal, Royal Economic Society",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/econjl.html",
+    "repec_aggregate_score": 19.05,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.3",
+      "value": 3.3,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/ej/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 21,
+    "name": "RAND Journal of Economics",
+    "repec_name": "RAND Journal of Economics, RAND Corporation",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/randje.html",
+    "repec_aggregate_score": 19.13,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.6",
+      "value": 2.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "19 days",
+        "value": 19,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "120 days",
+        "value": 120,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "20 days",
+        "value": 20,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/17562171/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 22,
+    "name": "Journal of Labor Economics",
+    "repec_name": "Journal of Labor Economics, University of Chicago Press",
+    "publisher": "University of Chicago Press",
+    "publisher_code": "ucp",
+    "repec_url": "https://ideas.repec.org/s/ucp/jlabec.html",
+    "repec_aggregate_score": 20.62,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.0",
+      "value": 5.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journals.uchicago.edu/journals/jole/about",
+    "date_collected": "2026-07-05",
+    "notes": "Chicago about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 23,
+    "name": "Journal of International Economics",
+    "repec_name": "Journal of International Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/inecon.html",
+    "repec_aggregate_score": 23.69,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.6",
+      "value": 4.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "10 days",
+        "value": 10,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "82 days",
+        "value": 82,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "516 days",
+        "value": 516,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "13 days",
+        "value": 13,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-international-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 24,
+    "name": "American Economic Journal: Economic Policy",
+    "repec_name": "American Economic Journal: Economic Policy, American Economic Association",
+    "publisher": "American Economic Association",
+    "publisher_code": "aea",
+    "repec_url": "https://ideas.repec.org/s/aea/aejpol.html",
+    "repec_aggregate_score": 23.95,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.5",
+      "value": 5.5,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/american-economic-journal-economic-policy",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); AEA publishes no metrics on aeaweb.org. No editorial timeline available."
+  },
+  {
+    "rank": 25,
+    "name": "Journal of Accounting and Economics",
+    "repec_name": "Journal of Accounting and Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jaecon.html",
+    "repec_aggregate_score": 24.15,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "7.8",
+      "value": 7.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "2 days",
+        "value": 2,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "43 days",
+        "value": 43,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "595 days",
+        "value": 595,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "4 days",
+        "value": 4,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-accounting-and-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 26,
+    "name": "Journal of Business & Economic Statistics",
+    "repec_name": "Journal of Business & Economic Statistics, Taylor & Francis Journals",
+    "publisher": "Taylor & Francis",
+    "publisher_code": "taf",
+    "repec_url": "https://ideas.repec.org/s/taf/jnlbes.html",
+    "repec_aggregate_score": 25.81,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.5",
+      "value": 2.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "14 days",
+        "value": 14,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "83 days",
+        "value": 83,
+        "unit": "days"
+      },
+      "submission_to_acceptance": null,
+      "acceptance_to_online": {
+        "raw": "97 days",
+        "value": 97,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.tandfonline.com/journals/ubes20/about-this-journal",
+    "date_collected": "2026-07-05",
+    "notes": "T&F reports no submission-to-acceptance; decision_after_review = first post-review decision."
+  },
+  {
+    "rank": 27,
+    "name": "Journal of Public Economics",
+    "repec_name": "Journal of Public Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/pubeco.html",
+    "repec_aggregate_score": 26.7,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.2",
+      "value": 3.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "6 days",
+        "value": 6,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "68 days",
+        "value": 68,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "354 days",
+        "value": 354,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "21 days",
+        "value": 21,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-public-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 28,
+    "name": "Strategic Management Journal",
+    "repec_name": "Strategic Management Journal, Wiley Blackwell",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/stratm.html",
+    "repec_aggregate_score": 27.34,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "7.6",
+      "value": 7.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "54 days",
+        "value": 54,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "805 days",
+        "value": 805,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "24 days",
+        "value": 24,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/10970266/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 29,
+    "name": "Journal of Applied Econometrics, John Wiley & Sons",
+    "repec_name": "Journal of Applied Econometrics, John Wiley & Sons, Ltd.",
+    "publisher": "Wiley",
+    "publisher_code": "wly",
+    "repec_url": "https://ideas.repec.org/s/wly/japmet.html",
+    "repec_aggregate_score": 30.14,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.5",
+      "value": 2.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/10991255/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 30,
+    "name": "Economic Policy, CEPR, CESifo",
+    "repec_name": "Economic Policy, CEPR, CESifo, Sciences Po;CES;MSH",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/ecpoli.html",
+    "repec_aggregate_score": 32.0,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "6.4",
+      "value": 6.4,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/economicpolicy/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 31,
+    "name": "Journal of Development Economics",
+    "repec_name": "Journal of Development Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/deveco.html",
+    "repec_aggregate_score": 34.32,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.0",
+      "value": 5.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "11 days",
+        "value": 11,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "75 days",
+        "value": 75,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "328 days",
+        "value": 328,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "14 days",
+        "value": 14,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-development-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 32,
+    "name": "Journal of Economic Theory",
+    "repec_name": "Journal of Economic Theory, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jetheo.html",
+    "repec_aggregate_score": 37.72,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.1",
+      "value": 1.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "5 days",
+        "value": 5,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "104 days",
+        "value": 104,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "614 days",
+        "value": 614,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "7 days",
+        "value": 7,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-economic-theory/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 33,
+    "name": "Journal of Money, Credit and Banking",
+    "repec_name": "Journal of Money, Credit and Banking, Blackwell Publishing",
+    "publisher": "Wiley",
+    "publisher_code": "wly",
+    "repec_url": "https://ideas.repec.org/s/wly/jmoncb.html",
+    "repec_aggregate_score": 38.06,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.9",
+      "value": 1.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/15384616/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 34,
+    "name": "Journal of Human Resources",
+    "repec_name": "Journal of Human Resources, University of Wisconsin Press",
+    "publisher": "uwp",
+    "publisher_code": "uwp",
+    "repec_url": "https://ideas.repec.org/s/uwp/jhriss.html",
+    "repec_aggregate_score": 38.47,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.2",
+      "value": 4.2,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/journal-of-human-resources",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); no editorial timeline available."
+  },
+  {
+    "rank": 35,
+    "name": "Review of Economic Dynamics",
+    "repec_name": "Review of Economic Dynamics, Elsevier for the Society for Economic Dynamics",
+    "publisher": "red",
+    "publisher_code": "red",
+    "repec_url": "https://ideas.repec.org/s/red/issued.html",
+    "repec_aggregate_score": 38.86,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.0",
+      "value": 2.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "3 days",
+        "value": 3,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "77 days",
+        "value": 77,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "542 days",
+        "value": 542,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "7 days",
+        "value": 7,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/review-of-economic-dynamics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": "Elsevier insights page."
+  },
+  {
+    "rank": 36,
+    "name": "Journal of Financial Intermediation",
+    "repec_name": "Journal of Financial Intermediation, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jfinin.html",
+    "repec_aggregate_score": 38.86,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.4",
+      "value": 2.4,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "2 days",
+        "value": 2,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "61 days",
+        "value": 61,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "261 days",
+        "value": 261,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "16 days",
+        "value": 16,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-financial-intermediation/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 37,
+    "name": "European Economic Review",
+    "repec_name": "European Economic Review, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/eecrev.html",
+    "repec_aggregate_score": 41.81,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.3",
+      "value": 2.3,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "8 days",
+        "value": 8,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "82 days",
+        "value": 82,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "334 days",
+        "value": 334,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "14 days",
+        "value": 14,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/european-economic-review/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 38,
+    "name": "Journal of Business Venturing",
+    "repec_name": "Journal of Business Venturing, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jbvent.html",
+    "repec_aggregate_score": 42.42,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "8.1",
+      "value": 8.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "6 days",
+        "value": 6,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "68 days",
+        "value": 68,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "527 days",
+        "value": 527,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "14 days",
+        "value": 14,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-business-venturing/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 39,
+    "name": "Research Policy",
+    "repec_name": "Research Policy, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/respol.html",
+    "repec_aggregate_score": 42.76,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "8.9",
+      "value": 8.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "24 days",
+        "value": 24,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "111 days",
+        "value": 111,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "469 days",
+        "value": 469,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "14 days",
+        "value": 14,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/research-policy/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 40,
+    "name": "International Economic Review, Department of Economics",
+    "repec_name": "International Economic Review, Department of Economics, University of Pennsylvania and Osaka University Institute of Social and Economic Research Association",
+    "publisher": "Wiley",
+    "publisher_code": "wly",
+    "repec_url": "https://ideas.repec.org/s/wly/iecrev.html",
+    "repec_aggregate_score": 43.7,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.8",
+      "value": 1.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14682354/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 41,
+    "name": "Journal of International Business Studies",
+    "repec_name": "Journal of International Business Studies, Palgrave Macmillan;Academy of International Business",
+    "publisher": "pal",
+    "publisher_code": "pal",
+    "repec_url": "https://ideas.repec.org/s/pal/jintbs.html",
+    "repec_aggregate_score": 44.03,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "10.2",
+      "value": 10.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/41267",
+    "date_collected": "2026-07-05",
+    "notes": "Palgrave/Springer; impact factor shown (no submission-to-first-decision)."
+  },
+  {
+    "rank": 42,
+    "name": "American Economic Review: Insights",
+    "repec_name": "American Economic Review: Insights, American Economic Association",
+    "publisher": "American Economic Association",
+    "publisher_code": "aea",
+    "repec_url": "https://ideas.repec.org/s/aea/aerins.html",
+    "repec_aggregate_score": 44.09,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.1",
+      "value": 5.1,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/american-economic-review-insights",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); AEA publishes no metrics on aeaweb.org. No editorial timeline available."
+  },
+  {
+    "rank": 43,
+    "name": "Experimental Economics",
+    "repec_name": "Experimental Economics, Springer;Economic Science Association",
+    "publisher": "Springer",
+    "publisher_code": "kap",
+    "repec_url": "https://ideas.repec.org/s/kap/expeco.html",
+    "repec_aggregate_score": 44.29,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.7",
+      "value": 1.7,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/experimental-economics",
+    "date_collected": "2026-07-05",
+    "notes": "Springer journal home redirects to archive (metrics box inaccessible); impact factor from journalmetrics.org."
+  },
+  {
+    "rank": 44,
+    "name": "Management Science",
+    "repec_name": "Management Science, INFORMS",
+    "publisher": "INFORMS",
+    "publisher_code": "inm",
+    "repec_url": "https://ideas.repec.org/s/inm/ormnsc.html",
+    "repec_aggregate_score": 45.39,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.7",
+      "value": 5.7,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://pubsonline.informs.org/journal/mnsc",
+    "date_collected": "2026-07-05",
+    "notes": "INFORMS journal page reports impact factor only."
+  },
+  {
+    "rank": 45,
+    "name": "Journal of Banking & Finance",
+    "repec_name": "Journal of Banking & Finance, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jbfina.html",
+    "repec_aggregate_score": 45.59,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.0",
+      "value": 4.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "11 days",
+        "value": 11,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "72 days",
+        "value": 72,
+        "unit": "days"
+      },
+      "submission_to_acceptance": null,
+      "acceptance_to_online": {
+        "raw": "7 days",
+        "value": 7,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-banking-and-finance/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 46,
+    "name": "Proceedings",
+    "repec_name": "Proceedings, Federal Reserve Bank of Cleveland",
+    "publisher": "fip",
+    "publisher_code": "fip",
+    "repec_url": "https://ideas.repec.org/s/fip/fedcpr.html",
+    "repec_aggregate_score": 46.45,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "Federal Reserve proceedings series; no journal metrics."
+  },
+  {
+    "rank": 47,
+    "name": "Journal of Economic Dynamics and Control",
+    "repec_name": "Journal of Economic Dynamics and Control, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/dyncon.html",
+    "repec_aggregate_score": 48.03,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.8",
+      "value": 1.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "7 days",
+        "value": 7,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "67 days",
+        "value": 67,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "250 days",
+        "value": 250,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "6 days",
+        "value": 6,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-economic-dynamics-and-control/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 48,
+    "name": "Organization Science",
+    "repec_name": "Organization Science, INFORMS",
+    "publisher": "INFORMS",
+    "publisher_code": "inm",
+    "repec_url": "https://ideas.repec.org/s/inm/ororsc.html",
+    "repec_aggregate_score": 48.49,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.7",
+      "value": 5.7,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://pubsonline.informs.org/journal/orsc",
+    "date_collected": "2026-07-05",
+    "notes": "INFORMS journal page reports impact factor only."
+  },
+  {
+    "rank": 49,
+    "name": "Journal of Accounting Research, John Wiley & Sons",
+    "repec_name": "Journal of Accounting Research, John Wiley & Sons, Ltd.",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/joares.html",
+    "repec_aggregate_score": 50.43,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "10.4",
+      "value": 10.4,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "54 days",
+        "value": 54,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "711 days",
+        "value": 711,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "93 days",
+        "value": 93,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/1475679X/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 50,
+    "name": "The World Bank Economic Review",
+    "repec_name": "The World Bank Economic Review, World Bank",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/wbecrv.html",
+    "repec_aggregate_score": 50.75,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.3",
+      "value": 2.3,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/wber/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 51,
+    "name": "International Journal of Central Banking",
+    "repec_name": "International Journal of Central Banking, International Journal of Central Banking",
+    "publisher": "ijc",
+    "publisher_code": "ijc",
+    "repec_url": "https://ideas.repec.org/s/ijc/ijcjou.html",
+    "repec_aggregate_score": 50.86,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.8",
+      "value": 1.8,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/international-journal-of-central-banking",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); no editorial timeline available."
+  },
+  {
+    "rank": 52,
+    "name": "Journal of Law and Economics",
+    "repec_name": "Journal of Law and Economics, University of Chicago Press",
+    "publisher": "University of Chicago Press",
+    "publisher_code": "ucp",
+    "repec_url": "https://ideas.repec.org/s/ucp/jlawec.html",
+    "repec_aggregate_score": 53.39,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.5",
+      "value": 1.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journals.uchicago.edu/journals/jle/about",
+    "date_collected": "2026-07-05",
+    "notes": "Chicago about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 53,
+    "name": "Journal of Environmental Economics and Management",
+    "repec_name": "Journal of Environmental Economics and Management, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jeeman.html",
+    "repec_aggregate_score": 54.02,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "6.4",
+      "value": 6.4,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "7 days",
+        "value": 7,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "71 days",
+        "value": 71,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "303 days",
+        "value": 303,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "9 days",
+        "value": 9,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 54,
+    "name": "Journal of Risk and Uncertainty",
+    "repec_name": "Journal of Risk and Uncertainty, Springer",
+    "publisher": "Springer",
+    "publisher_code": "kap",
+    "repec_url": "https://ideas.repec.org/s/kap/jrisku.html",
+    "repec_aggregate_score": 54.03,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.2",
+      "value": 2.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "32 days",
+        "value": 32,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/11166",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 55,
+    "name": "Journal of Financial and Quantitative Analysis",
+    "repec_name": "Journal of Financial and Quantitative Analysis, Cambridge University Press",
+    "publisher": "Cambridge University Press",
+    "publisher_code": "cup",
+    "repec_url": "https://ideas.repec.org/s/cup/jfinqa.html",
+    "repec_aggregate_score": 55.56,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.8",
+      "value": 2.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis",
+    "date_collected": "2026-07-05",
+    "notes": "Cambridge Core page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 56,
+    "name": "IMF Economic Review",
+    "repec_name": "IMF Economic Review, Palgrave Macmillan;International Monetary Fund",
+    "publisher": "pal",
+    "publisher_code": "pal",
+    "repec_url": "https://ideas.repec.org/s/pal/imfecr.html",
+    "repec_aggregate_score": 56.39,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.9",
+      "value": 1.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "21 days",
+        "value": 21,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/41308",
+    "date_collected": "2026-07-05",
+    "notes": "Palgrave/Springer; IF + submission-to-first-decision."
+  },
+  {
+    "rank": 57,
+    "name": "The Journal of Business",
+    "repec_name": "The Journal of Business, University of Chicago Press",
+    "publisher": "University of Chicago Press",
+    "publisher_code": "ucp",
+    "repec_url": "https://ideas.repec.org/s/ucp/jnlbus.html",
+    "repec_aggregate_score": 56.62,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": "https://www.journals.uchicago.edu/journals/jb/about",
+    "date_collected": "2026-07-05",
+    "notes": "The Journal of Business ceased publication in 2006; no metrics page."
+  },
+  {
+    "rank": 58,
+    "name": "Oxford Bulletin of Economics and Statistics, Department of Economics",
+    "repec_name": "Oxford Bulletin of Economics and Statistics, Department of Economics, University of Oxford",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/obuest.html",
+    "repec_aggregate_score": 56.77,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.1",
+      "value": 2.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "10 days",
+        "value": 10,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "387 days",
+        "value": 387,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "28 days",
+        "value": 28,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14680084/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 59,
+    "name": "Annual Review of Financial Economics",
+    "repec_name": "Annual Review of Financial Economics, Annual Reviews",
+    "publisher": "anr",
+    "publisher_code": "anr",
+    "repec_url": "https://ideas.repec.org/s/anr/refeco.html",
+    "repec_aggregate_score": 57.82,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.1",
+      "value": 4.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.annualreviews.org/content/journals/financial",
+    "date_collected": "2026-07-05",
+    "notes": "Annual Reviews page reports impact factor only."
+  },
+  {
+    "rank": 60,
+    "name": "Journal of Economic Surveys",
+    "repec_name": "Journal of Economic Surveys, Wiley Blackwell",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/jecsur.html",
+    "repec_aggregate_score": 58.02,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "6.6",
+      "value": 6.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "14 days",
+        "value": 14,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "218 days",
+        "value": 218,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "22 days",
+        "value": 22,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14676419/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 61,
+    "name": "Quantitative Economics",
+    "repec_name": "Quantitative Economics, Econometric Society",
+    "publisher": "Wiley",
+    "publisher_code": "wly",
+    "repec_url": "https://ideas.repec.org/s/wly/quante.html",
+    "repec_aggregate_score": 58.3,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.3",
+      "value": 2.3,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/17597331/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 62,
+    "name": "The World Bank Research Observer",
+    "repec_name": "The World Bank Research Observer, World Bank",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/wbrobs.html",
+    "repec_aggregate_score": 59.41,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.5",
+      "value": 4.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/wbro/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 63,
+    "name": "Energy Economics",
+    "repec_name": "Energy Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/eneeco.html",
+    "repec_aggregate_score": 59.62,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "13.5",
+      "value": 13.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "9 days",
+        "value": 9,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "74 days",
+        "value": 74,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "241 days",
+        "value": 241,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "6 days",
+        "value": 6,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/energy-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 64,
+    "name": "Proceedings",
+    "repec_name": "Proceedings, Board of Governors of the Federal Reserve System (U.S.)",
+    "publisher": "fip",
+    "publisher_code": "fip",
+    "repec_url": "https://ideas.repec.org/s/fip/fedgpr.html",
+    "repec_aggregate_score": 61.4,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "Federal Reserve proceedings series; no journal metrics."
+  },
+  {
+    "rank": 65,
+    "name": "The Econometrics Journal",
+    "repec_name": "The Econometrics Journal, Royal Economic Society",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/emjrnl.html",
+    "repec_aggregate_score": 62.94,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.1",
+      "value": 4.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/ectj/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 66,
+    "name": "Journal of Urban Economics",
+    "repec_name": "Journal of Urban Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/juecon.html",
+    "repec_aggregate_score": 63.21,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.0",
+      "value": 4.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "8 days",
+        "value": 8,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "79 days",
+        "value": 79,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "489 days",
+        "value": 489,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "16 days",
+        "value": 16,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-urban-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 67,
+    "name": "Review of Finance",
+    "repec_name": "Review of Finance, European Finance Association",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/revfin.html",
+    "repec_aggregate_score": 63.87,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "7.2",
+      "value": 7.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/rof/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 68,
+    "name": "Quarterly Review",
+    "repec_name": "Quarterly Review, Federal Reserve Bank of Minneapolis",
+    "publisher": "fip",
+    "publisher_code": "fip",
+    "repec_url": "https://ideas.repec.org/s/fip/fedmqr.html",
+    "repec_aggregate_score": 64.61,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "Federal Reserve Quarterly Review; no journal metrics."
+  },
+  {
+    "rank": 69,
+    "name": "Journal of International Money and Finance",
+    "repec_name": "Journal of International Money and Finance, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jimfin.html",
+    "repec_aggregate_score": 65.16,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.6",
+      "value": 3.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "20 days",
+        "value": 20,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "109 days",
+        "value": 109,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "246 days",
+        "value": 246,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "5 days",
+        "value": 5,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-international-money-and-finance/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 70,
+    "name": "The Journal of Law, Economics, and Organization",
+    "repec_name": "The Journal of Law, Economics, and Organization, Oxford University Press",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/jleorg.html",
+    "repec_aggregate_score": 67.51,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.3",
+      "value": 1.3,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/jleo/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 71,
+    "name": "Journal of Health Economics",
+    "repec_name": "Journal of Health Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jhecon.html",
+    "repec_aggregate_score": 68.27,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.8",
+      "value": 3.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "5 days",
+        "value": 5,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "71 days",
+        "value": 71,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "268 days",
+        "value": 268,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "9 days",
+        "value": 9,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-health-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 72,
+    "name": "Review of Environmental Economics and Policy",
+    "repec_name": "Review of Environmental Economics and Policy, University of Chicago Press",
+    "publisher": "University of Chicago Press",
+    "publisher_code": "ucp",
+    "repec_url": "https://ideas.repec.org/s/ucp/renvpo.html",
+    "repec_aggregate_score": 68.53,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "6.6",
+      "value": 6.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journals.uchicago.edu/journals/reep/about",
+    "date_collected": "2026-07-05",
+    "notes": "Chicago about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 73,
+    "name": "Journal of Corporate Finance",
+    "repec_name": "Journal of Corporate Finance, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/corfin.html",
+    "repec_aggregate_score": 71.55,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "6.9",
+      "value": 6.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "5 days",
+        "value": 5,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "47 days",
+        "value": 47,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "375 days",
+        "value": 375,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "5 days",
+        "value": 5,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-corporate-finance/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 74,
+    "name": "Econometric Theory",
+    "repec_name": "Econometric Theory, Cambridge University Press",
+    "publisher": "Cambridge University Press",
+    "publisher_code": "cup",
+    "repec_url": "https://ideas.repec.org/s/cup/etheor.html",
+    "repec_aggregate_score": 71.8,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.0",
+      "value": 1.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.cambridge.org/core/journals/econometric-theory",
+    "date_collected": "2026-07-05",
+    "notes": "Cambridge Core page reports impact factor only (no editorial timeline). IF shown as '1' on page (rank 391/620 Economics)."
+  },
+  {
+    "rank": 75,
+    "name": "Journal of Consumer Research",
+    "repec_name": "Journal of Consumer Research, Journal of Consumer Research Inc.",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/jconrs.html",
+    "repec_aggregate_score": 72.67,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "8.1",
+      "value": 8.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/jcr/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 76,
+    "name": "World Development",
+    "repec_name": "World Development, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/wdevel.html",
+    "repec_aggregate_score": 78.43,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.1",
+      "value": 5.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "35 days",
+        "value": 35,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "137 days",
+        "value": 137,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "330 days",
+        "value": 330,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "14 days",
+        "value": 14,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/world-development/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 77,
+    "name": "Journal of Political Economy Macroeconomics",
+    "repec_name": "Journal of Political Economy Macroeconomics, University of Chicago Press",
+    "publisher": "University of Chicago Press",
+    "publisher_code": "ucp",
+    "repec_url": "https://ideas.repec.org/s/ucp/jpemac.html",
+    "repec_aggregate_score": 80.0,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": "https://www.journals.uchicago.edu/journals/jpe",
+    "date_collected": "2026-07-05",
+    "notes": "Journal of Political Economy Macroeconomics (launched 2023): Chicago metrics URL unresolved; not yet indexed in JCR/journalmetrics."
+  },
+  {
+    "rank": 78,
+    "name": "Economic Policy Review",
+    "repec_name": "Economic Policy Review, Federal Reserve Bank of New York",
+    "publisher": "fip",
+    "publisher_code": "fip",
+    "repec_url": "https://ideas.repec.org/s/fip/fednep.html",
+    "repec_aggregate_score": 80.22,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "Federal Reserve Economic Policy Review; no journal metrics."
+  },
+  {
+    "rank": 79,
+    "name": "Journal of Economic Geography",
+    "repec_name": "Journal of Economic Geography, Oxford University Press",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/jecgeo.html",
+    "repec_aggregate_score": 80.81,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.1",
+      "value": 4.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/joeg/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 80,
+    "name": "Energy Policy",
+    "repec_name": "Energy Policy, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/enepol.html",
+    "repec_aggregate_score": 81.22,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "9.3",
+      "value": 9.3,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "30 days",
+        "value": 30,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "78 days",
+        "value": 78,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "168 days",
+        "value": 168,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "11 days",
+        "value": 11,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/energy-policy/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 81,
+    "name": "Labour Economics",
+    "repec_name": "Labour Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/labeco.html",
+    "repec_aggregate_score": 81.88,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.0",
+      "value": 2.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "10 days",
+        "value": 10,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "103 days",
+        "value": 103,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "360 days",
+        "value": 360,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "10 days",
+        "value": 10,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/labour-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 82,
+    "name": "Games and Economic Behavior",
+    "repec_name": "Games and Economic Behavior, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/gamebe.html",
+    "repec_aggregate_score": 82.97,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.1",
+      "value": 1.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "17 days",
+        "value": 17,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "120 days",
+        "value": 120,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "461 days",
+        "value": 461,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "7 days",
+        "value": 7,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/games-and-economic-behavior/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 83,
+    "name": "Journal of Financial Markets",
+    "repec_name": "Journal of Financial Markets, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/finmar.html",
+    "repec_aggregate_score": 82.97,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.5",
+      "value": 2.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "3 days",
+        "value": 3,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "63 days",
+        "value": 63,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "314 days",
+        "value": 314,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "12 days",
+        "value": 12,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-financial-markets/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 84,
+    "name": "Proceedings",
+    "repec_name": "Proceedings, Federal Reserve Bank of San Francisco",
+    "publisher": "fip",
+    "publisher_code": "fip",
+    "repec_url": "https://ideas.repec.org/s/fip/fedfpr.html",
+    "repec_aggregate_score": 83.4,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "Federal Reserve proceedings series; no journal metrics."
+  },
+  {
+    "rank": 85,
+    "name": "BIS Quarterly Review",
+    "repec_name": "BIS Quarterly Review, Bank for International Settlements",
+    "publisher": "bis",
+    "publisher_code": "bis",
+    "repec_url": "https://ideas.repec.org/s/bis/bisqtr.html",
+    "repec_aggregate_score": 83.62,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "BIS Quarterly Review; no journal metrics."
+  },
+  {
+    "rank": 86,
+    "name": "Journal of Industrial Economics",
+    "repec_name": "Journal of Industrial Economics, Wiley Blackwell",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/jindec.html",
+    "repec_aggregate_score": 84.91,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.5",
+      "value": 1.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14676451/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 87,
+    "name": "Economics Letters",
+    "repec_name": "Economics Letters, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/ecolet.html",
+    "repec_aggregate_score": 85.65,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.0",
+      "value": 2.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "3 days",
+        "value": 3,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "29 days",
+        "value": 29,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "82 days",
+        "value": 82,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "7 days",
+        "value": 7,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/economics-letters/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 88,
+    "name": "Mathematical Finance",
+    "repec_name": "Mathematical Finance, Wiley Blackwell",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/mathfi.html",
+    "repec_aggregate_score": 86.25,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.6",
+      "value": 3.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "32 days",
+        "value": 32,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "460 days",
+        "value": 460,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "27 days",
+        "value": 27,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14679965/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 89,
+    "name": "Marketing Science",
+    "repec_name": "Marketing Science, INFORMS",
+    "publisher": "INFORMS",
+    "publisher_code": "inm",
+    "repec_url": "https://ideas.repec.org/s/inm/ormksc.html",
+    "repec_aggregate_score": 86.43,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.2",
+      "value": 5.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://pubsonline.informs.org/journal/mksc",
+    "date_collected": "2026-07-05",
+    "notes": "INFORMS journal page reports impact factor only."
+  },
+  {
+    "rank": 90,
+    "name": "American Economic Journal: Microeconomics",
+    "repec_name": "American Economic Journal: Microeconomics, American Economic Association",
+    "publisher": "American Economic Association",
+    "publisher_code": "aea",
+    "repec_url": "https://ideas.repec.org/s/aea/aejmic.html",
+    "repec_aggregate_score": 87.77,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.3",
+      "value": 2.3,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/american-economic-journal-microeconomics",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); AEA publishes no metrics on aeaweb.org. No editorial timeline available."
+  },
+  {
+    "rank": 91,
+    "name": "Scandinavian Journal of Economics",
+    "repec_name": "Scandinavian Journal of Economics, Wiley Blackwell",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/scandj.html",
+    "repec_aggregate_score": 88.42,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.4",
+      "value": 1.4,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14679442/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 92,
+    "name": "Journal of Economic Behavior & Organization",
+    "repec_name": "Journal of Economic Behavior & Organization, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jeborg.html",
+    "repec_aggregate_score": 88.86,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.7",
+      "value": 2.7,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "10 days",
+        "value": 10,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "87 days",
+        "value": 87,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "292 days",
+        "value": 292,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "18 days",
+        "value": 18,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-economic-behavior-and-organization/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 93,
+    "name": "Journal of Financial Stability",
+    "repec_name": "Journal of Financial Stability, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/finsta.html",
+    "repec_aggregate_score": 91.17,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.1",
+      "value": 4.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "8 days",
+        "value": 8,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "84 days",
+        "value": 84,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "309 days",
+        "value": 309,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "8 days",
+        "value": 8,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-financial-stability/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 94,
+    "name": "Stata Journal",
+    "repec_name": "Stata Journal, StataCorp LLC",
+    "publisher": "tsj",
+    "publisher_code": "tsj",
+    "repec_url": "https://ideas.repec.org/s/tsj/stataj.html",
+    "repec_aggregate_score": 94.43,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.0",
+      "value": 3.0,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/stata-journal",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); no editorial timeline available."
+  },
+  {
+    "rank": 95,
+    "name": "Ecological Economics",
+    "repec_name": "Ecological Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/ecolec.html",
+    "repec_aggregate_score": 95.83,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "6.7",
+      "value": 6.7,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "5 days",
+        "value": 5,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "105 days",
+        "value": 105,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "274 days",
+        "value": 274,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "11 days",
+        "value": 11,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/ecological-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 96,
+    "name": "European Journal of Operational Research",
+    "repec_name": "European Journal of Operational Research, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/ejores.html",
+    "repec_aggregate_score": 96.36,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "7.0",
+      "value": 7.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "332 days",
+        "value": 332,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "10 days",
+        "value": 10,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/european-journal-of-operational-research/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 97,
+    "name": "Journal of the Royal Statistical Society Series B",
+    "repec_name": "Journal of the Royal Statistical Society Series B, Royal Statistical Society",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/jorssb.html",
+    "repec_aggregate_score": 96.94,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.933",
+      "value": 4.933,
+      "year": 2021
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14679868/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review. Impact factor is the 2021 value shown on the journal page."
+  },
+  {
+    "rank": 98,
+    "name": "Journal of Population Economics",
+    "repec_name": "Journal of Population Economics, Springer;European Society for Population Economics",
+    "publisher": "Springer",
+    "publisher_code": "spr",
+    "repec_url": "https://ideas.repec.org/s/spr/jopoec.html",
+    "repec_aggregate_score": 97.11,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.6",
+      "value": 2.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "7 days",
+        "value": 7,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/148",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 99,
+    "name": "Journal of Empirical Finance",
+    "repec_name": "Journal of Empirical Finance, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/empfin.html",
+    "repec_aggregate_score": 97.43,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.5",
+      "value": 2.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "26 days",
+        "value": 26,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "125 days",
+        "value": 125,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "442 days",
+        "value": 442,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "9 days",
+        "value": 9,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-empirical-finance/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 100,
+    "name": "Entrepreneurship Theory and Practice",
+    "repec_name": "Entrepreneurship Theory and Practice,",
+    "publisher": "sae",
+    "publisher_code": "sae",
+    "repec_url": "https://ideas.repec.org/s/sae/entthe.html",
+    "repec_aggregate_score": 98.61,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "6.9",
+      "value": 6.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "53 days",
+        "value": 53,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "373 days",
+        "value": 373,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "52 days",
+        "value": 52,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://journals.sagepub.com/overview-metric/ETP",
+    "date_collected": "2026-07-05",
+    "notes": "SAGE reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 101,
+    "name": "Oxford Economic Papers",
+    "repec_name": "Oxford Economic Papers, Oxford University Press",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/oxecpp.html",
+    "repec_aggregate_score": 99.05,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.8",
+      "value": 2.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/oep/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 102,
+    "name": "The Review of Corporate Finance Studies",
+    "repec_name": "The Review of Corporate Finance Studies, Society for Financial Studies",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/rcorpf.html",
+    "repec_aggregate_score": 99.42,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.0",
+      "value": 2.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/rcfs/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 103,
+    "name": "Economía Journal",
+    "repec_name": "Economía Journal, The Latin American and Caribbean Economic Association - LACEA",
+    "publisher": "col",
+    "publisher_code": "col",
+    "repec_url": "https://ideas.repec.org/s/col/000425.html",
+    "repec_aggregate_score": 99.42,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "Economia Journal (LACEA): no metrics page."
+  },
+  {
+    "rank": 104,
+    "name": "Journal of the American Statistical Association",
+    "repec_name": "Journal of the American Statistical Association, Taylor & Francis Journals",
+    "publisher": "Taylor & Francis",
+    "publisher_code": "taf",
+    "repec_url": "https://ideas.repec.org/s/taf/jnlasa.html",
+    "repec_aggregate_score": 101.66,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.0",
+      "value": 3.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "63 days",
+        "value": 63,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "96 days",
+        "value": 96,
+        "unit": "days"
+      },
+      "submission_to_acceptance": null,
+      "acceptance_to_online": {
+        "raw": "82 days",
+        "value": 82,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.tandfonline.com/journals/uasa20/about-this-journal",
+    "date_collected": "2026-07-05",
+    "notes": "T&F reports no submission-to-acceptance; decision_after_review = first post-review decision."
+  },
+  {
+    "rank": 105,
+    "name": "Journal of the Association of Environmental and Resource Economists",
+    "repec_name": "Journal of the Association of Environmental and Resource Economists, University of Chicago Press",
+    "publisher": "University of Chicago Press",
+    "publisher_code": "ucp",
+    "repec_url": "https://ideas.repec.org/s/ucp/jaerec.html",
+    "repec_aggregate_score": 102.39,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.2",
+      "value": 3.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journals.uchicago.edu/journals/jaere/about",
+    "date_collected": "2026-07-05",
+    "notes": "Chicago about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 106,
+    "name": "Small Business Economics",
+    "repec_name": "Small Business Economics, Springer",
+    "publisher": "Springer",
+    "publisher_code": "kap",
+    "repec_url": "https://ideas.repec.org/s/kap/sbusec.html",
+    "repec_aggregate_score": 104.93,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.9",
+      "value": 5.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "6 days",
+        "value": 6,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/11187",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 107,
+    "name": "Oxford Review of Economic Policy",
+    "repec_name": "Oxford Review of Economic Policy, Oxford University Press and Oxford Review of Economic Policy Limited",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/oxford.html",
+    "repec_aggregate_score": 105.16,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.8",
+      "value": 1.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/oxrep/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 108,
+    "name": "Journal of Economics & Management Strategy",
+    "repec_name": "Journal of Economics & Management Strategy, Wiley Blackwell",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/jemstr.html",
+    "repec_aggregate_score": 106.68,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.1",
+      "value": 2.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "9 days",
+        "value": 9,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "505 days",
+        "value": 505,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "30 days",
+        "value": 30,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/15309134/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 109,
+    "name": "Political Analysis",
+    "repec_name": "Political Analysis, Cambridge University Press",
+    "publisher": "Cambridge University Press",
+    "publisher_code": "cup",
+    "repec_url": "https://ideas.repec.org/s/cup/polals.html",
+    "repec_aggregate_score": 109.17,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.4",
+      "value": 5.4,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.cambridge.org/core/journals/political-analysis",
+    "date_collected": "2026-07-05",
+    "notes": "Cambridge Core page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 110,
+    "name": "Financial Management",
+    "repec_name": "Financial Management, Financial Management Association International",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/finmgt.html",
+    "repec_aggregate_score": 109.25,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "7.5",
+      "value": 7.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "33 days",
+        "value": 33,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "430 days",
+        "value": 430,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "21 days",
+        "value": 21,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/1755053X/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 111,
+    "name": "Journal of Financial Econometrics",
+    "repec_name": "Journal of Financial Econometrics, Oxford University Press",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/jfinec.html",
+    "repec_aggregate_score": 109.55,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.8",
+      "value": 1.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/jfec/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 112,
+    "name": "Theoretical Economics",
+    "repec_name": "Theoretical Economics, Econometric Society",
+    "publisher": "the",
+    "publisher_code": "the",
+    "repec_url": "https://ideas.repec.org/s/the/publsh.html",
+    "repec_aggregate_score": 110.23,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.3",
+      "value": 1.3,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/theoretical-economics",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); no editorial timeline available."
+  },
+  {
+    "rank": 113,
+    "name": "Canadian Journal of Economics/Revue canadienne d'économique",
+    "repec_name": "Canadian Journal of Economics/Revue canadienne d'économique, John Wiley & Sons",
+    "publisher": "Wiley",
+    "publisher_code": "wly",
+    "repec_url": "https://ideas.repec.org/s/wly/canjec.html",
+    "repec_aggregate_score": 110.38,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "0.9",
+      "value": 0.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "53 days",
+        "value": 53,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "336 days",
+        "value": 336,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "292 days",
+        "value": 292,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/15405982/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 114,
+    "name": "Econometric Reviews",
+    "repec_name": "Econometric Reviews, Taylor & Francis Journals",
+    "publisher": "Taylor & Francis",
+    "publisher_code": "taf",
+    "repec_url": "https://ideas.repec.org/s/taf/emetrv.html",
+    "repec_aggregate_score": 111.98,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.0",
+      "value": 1.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "47 days",
+        "value": 47,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "88 days",
+        "value": 88,
+        "unit": "days"
+      },
+      "submission_to_acceptance": null,
+      "acceptance_to_online": {
+        "raw": "30 days",
+        "value": 30,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.tandfonline.com/journals/lecr20/about-this-journal",
+    "date_collected": "2026-07-05",
+    "notes": "T&F reports no submission-to-acceptance; decision_after_review = first post-review decision."
+  },
+  {
+    "rank": 115,
+    "name": "Annual Review of Resource Economics",
+    "repec_name": "Annual Review of Resource Economics, Annual Reviews",
+    "publisher": "anr",
+    "publisher_code": "anr",
+    "repec_url": "https://ideas.repec.org/s/anr/reseco.html",
+    "repec_aggregate_score": 112.42,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "7.5",
+      "value": 7.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.annualreviews.org/content/journals/resource",
+    "date_collected": "2026-07-05",
+    "notes": "Annual Reviews page reports impact factor only."
+  },
+  {
+    "rank": 116,
+    "name": "International Journal of Industrial Organization",
+    "repec_name": "International Journal of Industrial Organization, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/indorg.html",
+    "repec_aggregate_score": 115.13,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.8",
+      "value": 1.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "10 days",
+        "value": 10,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "90 days",
+        "value": 90,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "393 days",
+        "value": 393,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "5 days",
+        "value": 5,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 117,
+    "name": "Journal of the Economic Science Association",
+    "repec_name": "Journal of the Economic Science Association, Springer;Economic Science Association",
+    "publisher": "Springer",
+    "publisher_code": "spr",
+    "repec_url": "https://ideas.repec.org/s/spr/jesaex.html",
+    "repec_aggregate_score": 116.65,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "9 days",
+        "value": 9,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/40881",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 118,
+    "name": "Journal of Management Studies",
+    "repec_name": "Journal of Management Studies, Wiley Blackwell",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/jomstd.html",
+    "repec_aggregate_score": 117.63,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "7.8",
+      "value": 7.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "10 days",
+        "value": 10,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "595 days",
+        "value": 595,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "24 days",
+        "value": 24,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14676486/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 119,
+    "name": "Economic Inquiry",
+    "repec_name": "Economic Inquiry, Western Economic Association International",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/ecinqu.html",
+    "repec_aggregate_score": 117.84,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.5",
+      "value": 1.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "18 days",
+        "value": 18,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "426 days",
+        "value": 426,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "42 days",
+        "value": 42,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14657295/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 120,
+    "name": "American Journal of Agricultural Economics",
+    "repec_name": "American Journal of Agricultural Economics, John Wiley & Sons",
+    "publisher": "Wiley",
+    "publisher_code": "wly",
+    "repec_url": "https://ideas.repec.org/s/wly/ajagec.html",
+    "repec_aggregate_score": 118.39,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.9",
+      "value": 4.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14678276/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 121,
+    "name": "Critical Finance Review",
+    "repec_name": "Critical Finance Review, now publishers",
+    "publisher": "Now Publishers",
+    "publisher_code": "now",
+    "repec_url": "https://ideas.repec.org/s/now/jnlcfr.html",
+    "repec_aggregate_score": 120.57,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.1",
+      "value": 1.1,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/critical-finance-review",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); no editorial timeline available."
+  },
+  {
+    "rank": 122,
+    "name": "American Journal of Political Science",
+    "repec_name": "American Journal of Political Science, John Wiley & Sons",
+    "publisher": "Wiley",
+    "publisher_code": "wly",
+    "repec_url": "https://ideas.repec.org/s/wly/amposc.html",
+    "repec_aggregate_score": 120.99,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.7",
+      "value": 4.7,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "9 days",
+        "value": 9,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "326 days",
+        "value": 326,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "83 days",
+        "value": 83,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/15405907/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 123,
+    "name": "Proceedings",
+    "repec_name": "Proceedings, Federal Reserve Bank of Dallas",
+    "publisher": "fip",
+    "publisher_code": "fip",
+    "repec_url": "https://ideas.repec.org/s/fip/feddpr.html",
+    "repec_aggregate_score": 121.57,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "Federal Reserve proceedings series; no journal metrics."
+  },
+  {
+    "rank": 124,
+    "name": "Journal of Business Ethics",
+    "repec_name": "Journal of Business Ethics, Springer",
+    "publisher": "Springer",
+    "publisher_code": "kap",
+    "repec_url": "https://ideas.repec.org/s/kap/jbuset.html",
+    "repec_aggregate_score": 121.69,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "6.3",
+      "value": 6.3,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "19 days",
+        "value": 19,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/10551",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 125,
+    "name": "European Journal of Political Economy",
+    "repec_name": "European Journal of Political Economy, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/poleco.html",
+    "repec_aggregate_score": 123.82,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.0",
+      "value": 3.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "4 days",
+        "value": 4,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "63 days",
+        "value": 63,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "210 days",
+        "value": 210,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "13 days",
+        "value": 13,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/european-journal-of-political-economy/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 126,
+    "name": "Economica",
+    "repec_name": "Economica, London School of Economics and Political Science",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/econom.html",
+    "repec_aggregate_score": 125.36,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.1",
+      "value": 2.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14680335/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 127,
+    "name": "Industrial and Corporate Change",
+    "repec_name": "Industrial and Corporate Change, Oxford University Press and the Associazione ICC",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/indcch.html",
+    "repec_aggregate_score": 125.41,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.8",
+      "value": 2.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/icc/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 128,
+    "name": "Economics and Politics",
+    "repec_name": "Economics and Politics, Wiley Blackwell",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/ecopol.html",
+    "repec_aggregate_score": 127.18,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.2",
+      "value": 2.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "2 days",
+        "value": 2,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "153 days",
+        "value": 153,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "16 days",
+        "value": 16,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14680343/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 129,
+    "name": "Regional Science and Urban Economics",
+    "repec_name": "Regional Science and Urban Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/regeco.html",
+    "repec_aggregate_score": 127.2,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.6",
+      "value": 2.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "3 days",
+        "value": 3,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "66 days",
+        "value": 66,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "484 days",
+        "value": 484,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "9 days",
+        "value": 9,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/regional-science-and-urban-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 130,
+    "name": "Foundations and Trends(R) in Microeconomics",
+    "repec_name": "Foundations and Trends(R) in Microeconomics, now publishers",
+    "publisher": "Now Publishers",
+    "publisher_code": "now",
+    "repec_url": "https://ideas.repec.org/s/now/fntmic.html",
+    "repec_aggregate_score": 129.37,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "Foundations and Trends in Microeconomics: no metrics page."
+  },
+  {
+    "rank": 131,
+    "name": "Proceedings - Economic Policy Symposium - Jackson Hole",
+    "repec_name": "Proceedings - Economic Policy Symposium - Jackson Hole, Federal Reserve Bank of Kansas City",
+    "publisher": "fip",
+    "publisher_code": "fip",
+    "repec_url": "https://ideas.repec.org/s/fip/fedkpr.html",
+    "repec_aggregate_score": 129.66,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "Jackson Hole proceedings; no journal metrics."
+  },
+  {
+    "rank": 132,
+    "name": "Journal of World Business",
+    "repec_name": "Journal of World Business, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/worbus.html",
+    "repec_aggregate_score": 131.16,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "6.6",
+      "value": 6.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "2 days",
+        "value": 2,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "94 days",
+        "value": 94,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "419 days",
+        "value": 419,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "11 days",
+        "value": 11,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-world-business/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 133,
+    "name": "Economic Theory",
+    "repec_name": "Economic Theory, Springer;Society for the Advancement of Economic Theory (SAET)",
+    "publisher": "Springer",
+    "publisher_code": "spr",
+    "repec_url": "https://ideas.repec.org/s/spr/joecth.html",
+    "repec_aggregate_score": 133.19,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.2",
+      "value": 1.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "2 days",
+        "value": 2,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/199",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 134,
+    "name": "Economic Development and Cultural Change",
+    "repec_name": "Economic Development and Cultural Change, University of Chicago Press",
+    "publisher": "University of Chicago Press",
+    "publisher_code": "ucp",
+    "repec_url": "https://ideas.repec.org/s/ucp/ecdecc.html",
+    "repec_aggregate_score": 134.98,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.8",
+      "value": 1.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journals.uchicago.edu/journals/edcc/about",
+    "date_collected": "2026-07-05",
+    "notes": "Chicago about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 135,
+    "name": "Journal of Human Capital",
+    "repec_name": "Journal of Human Capital, University of Chicago Press",
+    "publisher": "University of Chicago Press",
+    "publisher_code": "ucp",
+    "repec_url": "https://ideas.repec.org/s/ucp/jhucap.html",
+    "repec_aggregate_score": 136.73,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.2",
+      "value": 1.2,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/journal-of-human-capital",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); no editorial timeline available."
+  },
+  {
+    "rank": 136,
+    "name": "International Journal of Forecasting",
+    "repec_name": "International Journal of Forecasting, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/intfor.html",
+    "repec_aggregate_score": 137.63,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.7",
+      "value": 5.7,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "9 days",
+        "value": 9,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "93 days",
+        "value": 93,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "318 days",
+        "value": 318,
+        "unit": "days"
+      },
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/international-journal-of-forecasting/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 137,
+    "name": "Contemporary Accounting Research",
+    "repec_name": "Contemporary Accounting Research, John Wiley & Sons",
+    "publisher": "Wiley",
+    "publisher_code": "wly",
+    "repec_url": "https://ideas.repec.org/s/wly/coacre.html",
+    "repec_aggregate_score": 137.66,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.9",
+      "value": 4.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/19113846/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 138,
+    "name": "Accounting, Organizations and Society",
+    "repec_name": "Accounting, Organizations and Society, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/aosoci.html",
+    "repec_aggregate_score": 137.95,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.5",
+      "value": 4.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "3 days",
+        "value": 3,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "72 days",
+        "value": 72,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "920 days",
+        "value": 920,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "14 days",
+        "value": 14,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/accounting-organizations-and-society/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 139,
+    "name": "The Review of Asset Pricing Studies",
+    "repec_name": "The Review of Asset Pricing Studies, Society for Financial Studies",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/rasset.html",
+    "repec_aggregate_score": 138.95,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.3",
+      "value": 1.3,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/raps/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 140,
+    "name": "Journal of Comparative Economics",
+    "repec_name": "Journal of Comparative Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jcecon.html",
+    "repec_aggregate_score": 139.83,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.1",
+      "value": 4.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": {
+        "raw": "93 days",
+        "value": 93,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "351 days",
+        "value": 351,
+        "unit": "days"
+      },
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-comparative-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 141,
+    "name": "Public Choice",
+    "repec_name": "Public Choice, Springer",
+    "publisher": "Springer",
+    "publisher_code": "kap",
+    "repec_url": "https://ideas.repec.org/s/kap/pubcho.html",
+    "repec_aggregate_score": 140.14,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.4",
+      "value": 2.4,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "4 days",
+        "value": 4,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/11127",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 142,
+    "name": "Journal of Global Economic Analysis, Center for Global Trade Analysis, Department of Agricultural Economics",
+    "repec_name": "Journal of Global Economic Analysis, Center for Global Trade Analysis, Department of Agricultural Economics, Purdue University",
+    "publisher": "gta",
+    "publisher_code": "gta",
+    "repec_url": "https://ideas.repec.org/s/gta/jnlgea.html",
+    "repec_aggregate_score": 140.84,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "Journal of Global Economic Analysis (open access): no metrics page."
+  },
+  {
+    "rank": 143,
+    "name": "Journal of Interactive Marketing",
+    "repec_name": "Journal of Interactive Marketing, Elsevier",
+    "publisher": "SAGE Publishing",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/joinma.html",
+    "repec_aggregate_score": 141.75,
+    "homepage_url": "https://journals.sagepub.com/home/jim",
+    "impact_factor": {
+      "raw": "6.4",
+      "value": 6.4,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/journal-of-interactive-marketing",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); no editorial timeline available. Moved from Elsevier to SAGE (2022)."
+  },
+  {
+    "rank": 144,
+    "name": "Organizational Behavior and Human Decision Processes",
+    "repec_name": "Organizational Behavior and Human Decision Processes, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jobhdp.html",
+    "repec_aggregate_score": 142.63,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.0",
+      "value": 5.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "3 days",
+        "value": 3,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "58 days",
+        "value": 58,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "643 days",
+        "value": 643,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "21 days",
+        "value": 21,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/organizational-behavior-and-human-decision-processes/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 145,
+    "name": "The Journal of Economic Inequality",
+    "repec_name": "The Journal of Economic Inequality, Springer;Society for the Study of Economic Inequality",
+    "publisher": "Springer",
+    "publisher_code": "spr",
+    "repec_url": "https://ideas.repec.org/s/spr/joecin.html",
+    "repec_aggregate_score": 142.64,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.6",
+      "value": 1.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "24 days",
+        "value": 24,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/10888",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 146,
+    "name": "Renewable and Sustainable Energy Reviews",
+    "repec_name": "Renewable and Sustainable Energy Reviews, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/rensus.html",
+    "repec_aggregate_score": 144.09,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "18.0",
+      "value": 18.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "2 days",
+        "value": 2,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "97 days",
+        "value": 97,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "172 days",
+        "value": 172,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "9 days",
+        "value": 9,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 147,
+    "name": "Journal of Statistical Software",
+    "repec_name": "Journal of Statistical Software, Foundation for Open Access Statistics",
+    "publisher": "jss",
+    "publisher_code": "jss",
+    "repec_url": "https://ideas.repec.org/s/jss/jstsof.html",
+    "repec_aggregate_score": 144.46,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "14.3",
+      "value": 14.3,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/journal-of-statistical-software",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); no editorial timeline available."
+  },
+  {
+    "rank": 148,
+    "name": "Regional Studies",
+    "repec_name": "Regional Studies, Taylor & Francis Journals",
+    "publisher": "Taylor & Francis",
+    "publisher_code": "taf",
+    "repec_url": "https://ideas.repec.org/s/taf/regstd.html",
+    "repec_aggregate_score": 144.61,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.2",
+      "value": 4.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "14 days",
+        "value": 14,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "98 days",
+        "value": 98,
+        "unit": "days"
+      },
+      "submission_to_acceptance": null,
+      "acceptance_to_online": {
+        "raw": "48 days",
+        "value": 48,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.tandfonline.com/journals/cres20/about-this-journal",
+    "date_collected": "2026-07-05",
+    "notes": "T&F reports no submission-to-acceptance; decision_after_review = first post-review decision."
+  },
+  {
+    "rank": 149,
+    "name": "International Tax and Public Finance",
+    "repec_name": "International Tax and Public Finance, Springer;International Institute of Public Finance",
+    "publisher": "Springer",
+    "publisher_code": "kap",
+    "repec_url": "https://ideas.repec.org/s/kap/itaxpf.html",
+    "repec_aggregate_score": 146.33,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.5",
+      "value": 1.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "8 days",
+        "value": 8,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/10797",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 150,
+    "name": "European Financial Management",
+    "repec_name": "European Financial Management, European Financial Management Association",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/eufman.html",
+    "repec_aggregate_score": 148.68,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.2",
+      "value": 4.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "40 days",
+        "value": 40,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "177 days",
+        "value": 177,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "22 days",
+        "value": 22,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/1468036X/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 151,
+    "name": "Journal of Productivity Analysis",
+    "repec_name": "Journal of Productivity Analysis, Springer",
+    "publisher": "Springer",
+    "publisher_code": "kap",
+    "repec_url": "https://ideas.repec.org/s/kap/jproda.html",
+    "repec_aggregate_score": 149.68,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.3",
+      "value": 2.3,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "4 days",
+        "value": 4,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/11123",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 152,
+    "name": "Environmental & Resource Economics",
+    "repec_name": "Environmental & Resource Economics, Springer;European Association of Environmental and Resource Economists",
+    "publisher": "Springer",
+    "publisher_code": "kap",
+    "repec_url": "https://ideas.repec.org/s/kap/enreec.html",
+    "repec_aggregate_score": 150.56,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.5",
+      "value": 3.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "5 days",
+        "value": 5,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/10640",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 153,
+    "name": "National Tax Journal",
+    "repec_name": "National Tax Journal, University of Chicago Press",
+    "publisher": "University of Chicago Press",
+    "publisher_code": "ucp",
+    "repec_url": "https://ideas.repec.org/s/ucp/nattax.html",
+    "repec_aggregate_score": 151.33,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.3",
+      "value": 1.3,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journals.uchicago.edu/journals/ntj/about",
+    "date_collected": "2026-07-05",
+    "notes": "Chicago about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 154,
+    "name": "Quantitative Marketing and Economics (QME)",
+    "repec_name": "Quantitative Marketing and Economics (QME), Springer",
+    "publisher": "Springer",
+    "publisher_code": "kap",
+    "repec_url": "https://ideas.repec.org/s/kap/qmktec.html",
+    "repec_aggregate_score": 151.68,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.5",
+      "value": 2.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "12 days",
+        "value": 12,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/11129",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 155,
+    "name": "Empirical Economics",
+    "repec_name": "Empirical Economics, Springer",
+    "publisher": "Springer",
+    "publisher_code": "spr",
+    "repec_url": "https://ideas.repec.org/s/spr/empeco.html",
+    "repec_aggregate_score": 151.74,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.9",
+      "value": 1.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "61 days",
+        "value": 61,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/181",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 156,
+    "name": "Nature",
+    "repec_name": "Nature, Nature",
+    "publisher": "nat",
+    "publisher_code": "nat",
+    "repec_url": "https://ideas.repec.org/s/nat/nature.html",
+    "repec_aggregate_score": 152.27,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "56.1",
+      "value": 56.1,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/nature",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); no editorial timeline available."
+  },
+  {
+    "rank": 157,
+    "name": "American Political Science Review",
+    "repec_name": "American Political Science Review, Cambridge University Press",
+    "publisher": "Cambridge University Press",
+    "publisher_code": "cup",
+    "repec_url": "https://ideas.repec.org/s/cup/apsrev.html",
+    "repec_aggregate_score": 152.38,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.9",
+      "value": 5.9,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/american-political-science-review",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); no editorial timeline available."
+  },
+  {
+    "rank": 158,
+    "name": "IZA Journal of Labor Economics",
+    "repec_name": "IZA Journal of Labor Economics, Sciendo & Forschungsinstitut zur Zukunft der Arbeit GmbH (IZA)",
+    "publisher": "vrs",
+    "publisher_code": "vrs",
+    "repec_url": "https://ideas.repec.org/s/vrs/izajle.html",
+    "repec_aggregate_score": 153.23,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "IZA Journal of Labor Economics (open access): no metrics page."
+  },
+  {
+    "rank": 159,
+    "name": "Journal of Business Research",
+    "repec_name": "Journal of Business Research, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jbrese.html",
+    "repec_aggregate_score": 153.8,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "11.1",
+      "value": 11.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "12 days",
+        "value": 12,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "81 days",
+        "value": 81,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "417 days",
+        "value": 417,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "9 days",
+        "value": 9,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-business-research/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 160,
+    "name": "Demography",
+    "repec_name": "Demography, Springer;Population Association of America (PAA)",
+    "publisher": "Springer",
+    "publisher_code": "spr",
+    "repec_url": "https://ideas.repec.org/s/spr/demogr.html",
+    "repec_aggregate_score": 154.58,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.5",
+      "value": 3.5,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/demography",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); no editorial timeline available. Moved to Duke University Press (2021)."
+  },
+  {
+    "rank": 161,
+    "name": "Resource and Energy Economics",
+    "repec_name": "Resource and Energy Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/resene.html",
+    "repec_aggregate_score": 155.17,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.1",
+      "value": 3.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "8 days",
+        "value": 8,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "101 days",
+        "value": 101,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "338 days",
+        "value": 338,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "8 days",
+        "value": 8,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 162,
+    "name": "International Finance",
+    "repec_name": "International Finance, Wiley Blackwell",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/intfin.html",
+    "repec_aggregate_score": 155.76,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.2",
+      "value": 1.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "6 days",
+        "value": 6,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "437 days",
+        "value": 437,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "13 days",
+        "value": 13,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14682362/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 163,
+    "name": "Journal of Economic Psychology",
+    "repec_name": "Journal of Economic Psychology, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/joepsy.html",
+    "repec_aggregate_score": 156.38,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.2",
+      "value": 2.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "27 days",
+        "value": 27,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "139 days",
+        "value": 139,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "450 days",
+        "value": 450,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "5 days",
+        "value": 5,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-economic-psychology/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 164,
+    "name": "Journal of Mathematical Economics",
+    "repec_name": "Journal of Mathematical Economics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/mateco.html",
+    "repec_aggregate_score": 156.87,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "0.9",
+      "value": 0.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "8 days",
+        "value": 8,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "74 days",
+        "value": 74,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "265 days",
+        "value": 265,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "10 days",
+        "value": 10,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-mathematical-economics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 165,
+    "name": "OECD Journal: Economic Studies",
+    "repec_name": "OECD Journal: Economic Studies, OECD Publishing",
+    "publisher": "oec",
+    "publisher_code": "oec",
+    "repec_url": "https://ideas.repec.org/s/oec/ecokac.html",
+    "repec_aggregate_score": 157.87,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "OECD Journal: Economic Studies: no metrics page."
+  },
+  {
+    "rank": 166,
+    "name": "Journal of Financial Services Research",
+    "repec_name": "Journal of Financial Services Research, Springer;Western Finance Association",
+    "publisher": "Springer",
+    "publisher_code": "kap",
+    "repec_url": "https://ideas.repec.org/s/kap/jfsres.html",
+    "repec_aggregate_score": 159.14,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.2",
+      "value": 4.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "8 days",
+        "value": 8,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/10693",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 167,
+    "name": "The B.E. Journal of Macroeconomics",
+    "repec_name": "The B.E. Journal of Macroeconomics, De Gruyter",
+    "publisher": "bpj",
+    "publisher_code": "bpj",
+    "repec_url": "https://ideas.repec.org/s/bpj/bejmac.html",
+    "repec_aggregate_score": 159.45,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "0.3",
+      "value": 0.3,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.degruyterbrill.com/journal/key/bejm/html",
+    "date_collected": "2026-07-05",
+    "notes": "De Gruyter page reports impact factor only."
+  },
+  {
+    "rank": 168,
+    "name": "Annals of Economics and Finance",
+    "repec_name": "Annals of Economics and Finance, Society for AEF",
+    "publisher": "cuf",
+    "publisher_code": "cuf",
+    "repec_url": "https://ideas.repec.org/s/cuf/journl.html",
+    "repec_aggregate_score": 160.26,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "0.7",
+      "value": 0.7,
+      "year": 2025
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journalmetrics.org/journal/annals-of-economics-and-finance",
+    "date_collected": "2026-07-05",
+    "notes": "Impact factor from journalmetrics.org (latest JCR); no editorial timeline available."
+  },
+  {
+    "rank": 169,
+    "name": "International Review of Financial Analysis",
+    "repec_name": "International Review of Financial Analysis, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/finana.html",
+    "repec_aggregate_score": 163.71,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "10.2",
+      "value": 10.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "20 days",
+        "value": 20,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "51 days",
+        "value": 51,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "138 days",
+        "value": 138,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "3 days",
+        "value": 3,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/international-review-of-financial-analysis/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 170,
+    "name": "ILR Review, Cornell University",
+    "repec_name": "ILR Review, Cornell University, ILR School",
+    "publisher": "sae",
+    "publisher_code": "sae",
+    "repec_url": "https://ideas.repec.org/s/sae/ilrrev.html",
+    "repec_aggregate_score": 164.92,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.3",
+      "value": 2.3,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "96 days",
+        "value": 96,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "418 days",
+        "value": 418,
+        "unit": "days"
+      },
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://journals.sagepub.com/overview-metric/ILR",
+    "date_collected": "2026-07-05",
+    "notes": "SAGE reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 171,
+    "name": "Journal of International Financial Markets, Institutions and Money",
+    "repec_name": "Journal of International Financial Markets, Institutions and Money, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/intfin.html",
+    "repec_aggregate_score": 165.09,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "6.0",
+      "value": 6.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "6 days",
+        "value": 6,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "64 days",
+        "value": 64,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "262 days",
+        "value": 262,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "13 days",
+        "value": 13,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-international-financial-markets-institutions-and-money/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 172,
+    "name": "Economic Modelling",
+    "repec_name": "Economic Modelling, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/ecmode.html",
+    "repec_aggregate_score": 165.42,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.5",
+      "value": 5.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "4 days",
+        "value": 4,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "59 days",
+        "value": 59,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "280 days",
+        "value": 280,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "6 days",
+        "value": 6,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/economic-modelling/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 173,
+    "name": "Economics of Education Review",
+    "repec_name": "Economics of Education Review, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/ecoedu.html",
+    "repec_aggregate_score": 165.8,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.0",
+      "value": 2.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "4 days",
+        "value": 4,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "65 days",
+        "value": 65,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "307 days",
+        "value": 307,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "18 days",
+        "value": 18,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/economics-of-education-review/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 174,
+    "name": "Journal of the Japanese and International Economies",
+    "repec_name": "Journal of the Japanese and International Economies, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jjieco.html",
+    "repec_aggregate_score": 166.85,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.6",
+      "value": 2.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "13 days",
+        "value": 13,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "100 days",
+        "value": 100,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "238 days",
+        "value": 238,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "6 days",
+        "value": 6,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-the-japanese-and-international-economies/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 175,
+    "name": "Review of International Economics",
+    "repec_name": "Review of International Economics, Wiley Blackwell",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/reviec.html",
+    "repec_aggregate_score": 166.99,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.8",
+      "value": 1.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "68 days",
+        "value": 68,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "270 days",
+        "value": 270,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "16 days",
+        "value": 16,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14679396/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 176,
+    "name": "China Economic Review",
+    "repec_name": "China Economic Review, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/chieco.html",
+    "repec_aggregate_score": 169.51,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "5.9",
+      "value": 5.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "11 days",
+        "value": 11,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "73 days",
+        "value": 73,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "271 days",
+        "value": 271,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "3 days",
+        "value": 3,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/china-economic-review/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 177,
+    "name": "Current Issues in Economics and Finance",
+    "repec_name": "Current Issues in Economics and Finance, Federal Reserve Bank of New York",
+    "publisher": "fip",
+    "publisher_code": "fip",
+    "repec_url": "https://ideas.repec.org/s/fip/fednci.html",
+    "repec_aggregate_score": 169.8,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "Federal Reserve Current Issues in Economics and Finance; no journal metrics."
+  },
+  {
+    "rank": 178,
+    "name": "Finance and Stochastics",
+    "repec_name": "Finance and Stochastics, Springer",
+    "publisher": "Springer",
+    "publisher_code": "spr",
+    "repec_url": "https://ideas.repec.org/s/spr/finsto.html",
+    "repec_aggregate_score": 172.22,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.6",
+      "value": 1.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/780",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 179,
+    "name": "Information Systems Research",
+    "repec_name": "Information Systems Research, INFORMS",
+    "publisher": "INFORMS",
+    "publisher_code": "inm",
+    "repec_url": "https://ideas.repec.org/s/inm/orisre.html",
+    "repec_aggregate_score": 172.24,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "7.8",
+      "value": 7.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://pubsonline.informs.org/journal/isre",
+    "date_collected": "2026-07-05",
+    "notes": "INFORMS journal page reports impact factor only."
+  },
+  {
+    "rank": 180,
+    "name": "The B.E. Journal of Economic Analysis & Policy",
+    "repec_name": "The B.E. Journal of Economic Analysis & Policy, De Gruyter",
+    "publisher": "bpj",
+    "publisher_code": "bpj",
+    "repec_url": "https://ideas.repec.org/s/bpj/bejeap.html",
+    "repec_aggregate_score": 174.73,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "0.7",
+      "value": 0.7,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.degruyterbrill.com/journal/key/bejeap/html",
+    "date_collected": "2026-07-05",
+    "notes": "De Gruyter page reports impact factor only."
+  },
+  {
+    "rank": 181,
+    "name": "Journal of Retailing",
+    "repec_name": "Journal of Retailing, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jouret.html",
+    "repec_aggregate_score": 174.93,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "8.9",
+      "value": 8.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "6 days",
+        "value": 6,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "105 days",
+        "value": 105,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "631 days",
+        "value": 631,
+        "unit": "days"
+      },
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-retailing/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 182,
+    "name": "Operations Research",
+    "repec_name": "Operations Research, INFORMS",
+    "publisher": "INFORMS",
+    "publisher_code": "inm",
+    "repec_url": "https://ideas.repec.org/s/inm/oropre.html",
+    "repec_aggregate_score": 177.92,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.0",
+      "value": 3.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://pubsonline.informs.org/journal/opre",
+    "date_collected": "2026-07-05",
+    "notes": "INFORMS journal page reports impact factor only."
+  },
+  {
+    "rank": 183,
+    "name": "Portuguese Economic Journal",
+    "repec_name": "Portuguese Economic Journal, Springer;Instituto Superior de Economia e Gestao",
+    "publisher": "Springer",
+    "publisher_code": "spr",
+    "repec_url": "https://ideas.repec.org/s/spr/portec.html",
+    "repec_aggregate_score": 179.63,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.1",
+      "value": 1.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "69 days",
+        "value": 69,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/10258",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 184,
+    "name": "Journal of Development Studies",
+    "repec_name": "Journal of Development Studies, Taylor & Francis Journals",
+    "publisher": "Taylor & Francis",
+    "publisher_code": "taf",
+    "repec_url": "https://ideas.repec.org/s/taf/jdevst.html",
+    "repec_aggregate_score": 179.9,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.8",
+      "value": 1.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "9 days",
+        "value": 9,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "104 days",
+        "value": 104,
+        "unit": "days"
+      },
+      "submission_to_acceptance": null,
+      "acceptance_to_online": {
+        "raw": "30 days",
+        "value": 30,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.tandfonline.com/journals/fjds20/about-this-journal",
+    "date_collected": "2026-07-05",
+    "notes": "T&F reports no submission-to-acceptance; decision_after_review = first post-review decision."
+  },
+  {
+    "rank": 185,
+    "name": "Agricultural Economics",
+    "repec_name": "Agricultural Economics, International Association of Agricultural Economists",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/agecon.html",
+    "repec_aggregate_score": 182.67,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "4.7",
+      "value": 4.7,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/15740862/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 186,
+    "name": "Review of Income and Wealth",
+    "repec_name": "Review of Income and Wealth, International Association for Research in Income and Wealth",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/revinw.html",
+    "repec_aggregate_score": 182.73,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.7",
+      "value": 1.7,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "14 days",
+        "value": 14,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "152 days",
+        "value": 152,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "18 days",
+        "value": 18,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14754991/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 187,
+    "name": "Applied Energy",
+    "repec_name": "Applied Energy, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/appene.html",
+    "repec_aggregate_score": 182.8,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "12.2",
+      "value": 12.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "1 days",
+        "value": 1,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "54 days",
+        "value": 54,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "127 days",
+        "value": 127,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "11 days",
+        "value": 11,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/applied-energy/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 188,
+    "name": "Macroeconomic Dynamics",
+    "repec_name": "Macroeconomic Dynamics, Cambridge University Press",
+    "publisher": "Cambridge University Press",
+    "publisher_code": "cup",
+    "repec_url": "https://ideas.repec.org/s/cup/macdyn.html",
+    "repec_aggregate_score": 184.26,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "0.8",
+      "value": 0.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.cambridge.org/core/journals/macroeconomic-dynamics",
+    "date_collected": "2026-07-05",
+    "notes": "Cambridge Core page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 189,
+    "name": "Conference Series ; [Proceedings]",
+    "repec_name": "Conference Series ; [Proceedings], Federal Reserve Bank of Boston",
+    "publisher": "fip",
+    "publisher_code": "fip",
+    "repec_url": "https://ideas.repec.org/s/fip/fedbcp.html",
+    "repec_aggregate_score": 184.76,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "Federal Reserve conference series proceedings; no journal metrics."
+  },
+  {
+    "rank": 190,
+    "name": "American Law and Economics Review",
+    "repec_name": "American Law and Economics Review, American Law and Economics Association",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/amlawe.html",
+    "repec_aggregate_score": 185.86,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "0.5",
+      "value": 0.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/aler/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 191,
+    "name": "The World Economy",
+    "repec_name": "The World Economy, Wiley Blackwell",
+    "publisher": "Wiley-Blackwell",
+    "publisher_code": "bla",
+    "repec_url": "https://ideas.repec.org/s/bla/worlde.html",
+    "repec_aggregate_score": 187.41,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "3.0",
+      "value": 3.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "88 days",
+        "value": 88,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": {
+        "raw": "289 days",
+        "value": 289,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "29 days",
+        "value": 29,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://onlinelibrary.wiley.com/journal/14679701/journal-metrics",
+    "date_collected": "2026-07-05",
+    "notes": "Wiley reports no submission-to-decision-after-review."
+  },
+  {
+    "rank": 192,
+    "name": "Journal of the Academy of Marketing Science",
+    "repec_name": "Journal of the Academy of Marketing Science, Springer",
+    "publisher": "Springer",
+    "publisher_code": "spr",
+    "repec_url": "https://ideas.repec.org/s/spr/joamsc.html",
+    "repec_aggregate_score": 188.93,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "8.8",
+      "value": 8.8,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "10 days",
+        "value": 10,
+        "unit": "days"
+      },
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://link.springer.com/journal/11747",
+    "date_collected": "2026-07-05",
+    "notes": "Springer reports impact factor + submission-to-first-decision only."
+  },
+  {
+    "rank": 193,
+    "name": "Journal of Macroeconomics",
+    "repec_name": "Journal of Macroeconomics, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jmacro.html",
+    "repec_aggregate_score": 189.3,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.9",
+      "value": 1.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "2 days",
+        "value": 2,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "59 days",
+        "value": 59,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "247 days",
+        "value": 247,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "13 days",
+        "value": 13,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-macroeconomics/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 194,
+    "name": "Journal of Accounting and Public Policy",
+    "repec_name": "Journal of Accounting and Public Policy, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/jappol.html",
+    "repec_aggregate_score": 189.33,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.2",
+      "value": 2.2,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "8 days",
+        "value": 8,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "82 days",
+        "value": 82,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "473 days",
+        "value": 473,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "15 days",
+        "value": 15,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/journal-of-accounting-and-public-policy/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 195,
+    "name": "Economic Quarterly",
+    "repec_name": "Economic Quarterly, Federal Reserve Bank of Richmond",
+    "publisher": "fip",
+    "publisher_code": "fip",
+    "repec_url": "https://ideas.repec.org/s/fip/fedreq.html",
+    "repec_aggregate_score": 189.33,
+    "homepage_url": null,
+    "impact_factor": null,
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "no_data",
+    "source_url": null,
+    "date_collected": "2026-07-05",
+    "notes": "Federal Reserve Economic Quarterly; no journal metrics."
+  },
+  {
+    "rank": 196,
+    "name": "Journal of Applied Economics",
+    "repec_name": "Journal of Applied Economics, Universidad del CEMA",
+    "publisher": "cem",
+    "publisher_code": "cem",
+    "repec_url": "https://ideas.repec.org/s/cem/jaecon.html",
+    "repec_aggregate_score": 190.4,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.0",
+      "value": 2.0,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "11 days",
+        "value": 11,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "77 days",
+        "value": 77,
+        "unit": "days"
+      },
+      "submission_to_acceptance": null,
+      "acceptance_to_online": {
+        "raw": "22 days",
+        "value": 22,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.tandfonline.com/journals/recs20/about-this-journal",
+    "date_collected": "2026-07-05",
+    "notes": "T&F reports no submission-to-acceptance."
+  },
+  {
+    "rank": 197,
+    "name": "Tourism Management",
+    "repec_name": "Tourism Management, Elsevier",
+    "publisher": "Elsevier",
+    "publisher_code": "eee",
+    "repec_url": "https://ideas.repec.org/s/eee/touman.html",
+    "repec_aggregate_score": 191.39,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "14.5",
+      "value": 14.5,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "14 days",
+        "value": 14,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "52 days",
+        "value": 52,
+        "unit": "days"
+      },
+      "submission_to_acceptance": {
+        "raw": "227 days",
+        "value": 227,
+        "unit": "days"
+      },
+      "acceptance_to_online": {
+        "raw": "8 days",
+        "value": 8,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.sciencedirect.com/journal/tourism-management/about/insights",
+    "date_collected": "2026-07-05",
+    "notes": null
+  },
+  {
+    "rank": 198,
+    "name": "Cambridge Journal of Economics",
+    "repec_name": "Cambridge Journal of Economics, Cambridge Political Economy Society",
+    "publisher": "Oxford University Press",
+    "publisher_code": "oup",
+    "repec_url": "https://ideas.repec.org/s/oup/cambje.html",
+    "repec_aggregate_score": 191.58,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.9",
+      "value": 1.9,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://academic.oup.com/cje/pages/about",
+    "date_collected": "2026-07-05",
+    "notes": "Oxford about page reports impact factor only (no editorial timeline)."
+  },
+  {
+    "rank": 199,
+    "name": "Economics of Innovation and New Technology",
+    "repec_name": "Economics of Innovation and New Technology, Taylor & Francis Journals",
+    "publisher": "Taylor & Francis",
+    "publisher_code": "taf",
+    "repec_url": "https://ideas.repec.org/s/taf/ecinnt.html",
+    "repec_aggregate_score": 194.3,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "2.6",
+      "value": 2.6,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": {
+        "raw": "5 days",
+        "value": 5,
+        "unit": "days"
+      },
+      "decision_after_review": {
+        "raw": "39 days",
+        "value": 39,
+        "unit": "days"
+      },
+      "submission_to_acceptance": null,
+      "acceptance_to_online": {
+        "raw": "16 days",
+        "value": 16,
+        "unit": "days"
+      }
+    },
+    "status": "harvested",
+    "source_url": "https://www.tandfonline.com/journals/gein20/about-this-journal",
+    "date_collected": "2026-07-05",
+    "notes": "T&F reports no submission-to-acceptance; decision_after_review = first post-review decision."
+  },
+  {
+    "rank": 200,
+    "name": "The Journal of Legal Studies",
+    "repec_name": "The Journal of Legal Studies, University of Chicago Press",
+    "publisher": "University of Chicago Press",
+    "publisher_code": "ucp",
+    "repec_url": "https://ideas.repec.org/s/ucp/jlstud.html",
+    "repec_aggregate_score": 194.73,
+    "homepage_url": null,
+    "impact_factor": {
+      "raw": "1.1",
+      "value": 1.1,
+      "year": 2024
+    },
+    "metrics": {
+      "submission_to_first_decision": null,
+      "decision_after_review": null,
+      "submission_to_acceptance": null,
+      "acceptance_to_online": null
+    },
+    "status": "harvested",
+    "source_url": "https://www.journals.uchicago.edu/journals/jls/about",
+    "date_collected": "2026-07-05",
+    "notes": "Chicago about page reports impact factor only (no editorial timeline)."
+  }
+]
