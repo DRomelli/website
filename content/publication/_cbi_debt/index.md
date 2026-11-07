@@ -1,11 +1,11 @@
 ---
-abstract: 'This paper studies the impact of central bank independence on sovereign borrowing, using an index that captures institutional constraints on central bank lending to the government across 155 countries from 1972 to 2023. The findings show that tighter lending to the executive significantly reduces sovereign interest rates and raises the debt-to-gross domestic product ratio in developing countries. These effects reflect the executive’s improved ability to borrow at lower costs under greater central bank independence. The results are robust to multiple tests, but there are no significant effects in advanced economies. From a policy perspective, the results highlight the key role of independent central banks as catalysts for reducing governments’ borrowing costs and enhancing the government’s borrowing capacity.'
+abstract: 'We study how reforms that tighten statutory limits on central-bank lending to government affect sovereign borrowing in 155 countries over 1972-2023. Using instrumental-variable local projections, we estimate their effects on public debt and real effective implicit interest rates. We find that in developing economies tighter constraints raise debt-to-GDP while reducing real borrowing costs. A median-sized reform temporarily increases debt-to-GDP by about 12 percentage points at its two-year peak, and lowers the real effective implicit interest rate by roughly 6 percentage points after five years, an effect that persists over the ten-year horizon. Foreign-held external public debt also rises persistently. Advanced economies show a smaller debt response of the opposite sign and no decline in borrowing costs. The real-rate decline persists under alternative debt denominators and relative to the United States. State-dependent estimates show that lower borrowing costs are strongest in high-inflation developing economies, consistent with statutory lending constraints improving sovereign borrowing conditions where credibility gains are greatest.'
 authors:
   - Angelos Athanasopoulos
   - Nicolò Fraccaroli
   - Andreas Kern
   - Davide Romelli
-date: '2025-08-01'
+date: '2026-10-01'
 highlight: false
 image:
   caption: ""
@@ -13,7 +13,7 @@ image:
   preview_only: false
 math: false
 projects: []
-publication: "*World Bank Policy Research Working Paper*"
+publication: "*Trinity Economics Papers*"
 publication_short: ""
 publication_types: ["3"]
 selected: true

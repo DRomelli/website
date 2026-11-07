@@ -1,11 +1,11 @@
 ---
-abstract: 'This paper provides novel evidence of the long-run effects of reforms in central bank independence on inflation. Using instrumental-variable local projections, we show that improvements in central bank independence have a much larger impact on inflation in the long run compared to the short run. Contrary to most of the previous literature,  we also find that these long-run effects are larger in developing countries. Our results are robust to alternative local projection designs, including doubly robust and difference-in-differences specifications. Finally, we show that reforms in central design also reduce inflation persistence, reinforcing the effectiveness of monetary policy.'
+abstract: 'This paper provides novel evidence of the long-run effects of reforms in central bank independence on inflation. Using instrumental-variable local projections, we show that improvements in central bank independence have a much larger impact on inflation in the long run compared to the short run. Contrary to most of the previous literature, we also find that these long-run effects are larger in developing countries. Our results are robust to alternative local projection designs, including doubly robust and difference-in-differences specifications. Finally, we provide evidence that reforms that strengthen central bank independence also reduce inflation persistence, reinforcing the effectiveness of monetary policy.'
 
 authors:
 - Angelos Athanasopoulos
 - Donato Masciandaro
 - Davide Romelli
-date: '2025-01-30'
+date: '2026-09-01'
 
 highlight: false
 
@@ -16,14 +16,14 @@ image:
 
 math: false
 projects: []
-publication: "*BAFFI CAREFIN Centre - Working paper*"
+publication: "*Trinity Economics Papers*"
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: true
-title: 'Long Run Inflation: Persistence and Central Bank Independence'
+title: 'The Long-Run Disinflationary Effects of Central Bank Independence'
 url_code: 
 links:
   - name: Trinity Economics Papers (TEP 2026)
