@@ -16,13 +16,13 @@ design:
 ---
 
 **[Central Bank Independence and Sovereign Borrowing](publication/_cbi_debt)**  
-with Angelos Athanasopoulos, Nicoló Fraccaroli and Andreas Kern, World Bank Policy Research Working Paper No. 11179, 2025.
+with Angelos Athanasopoulos, Nicoló Fraccaroli and Andreas Kern, Trinity Economic Papers (TEP) Working Paper No. 2226, 2026.
 
 **[Do central bank reforms lead to more monetary discipline?](publication/_cbi_money_growth)**  
 with Alexander Jung and Etienne Farvaque, ECB Working Paper No. 3049, 2025.
 
-**[Long run inflation: persistence and central bank independence](publication/_cbi_inflation)**  
-with Angelos Athanasopoulos and Donato Masciandaro, BAFFI Centre Research Paper No. 237, 2025.
+**[The long-run disinflationary effects of central bank independence](publication/_cbi_inflation)**  
+with Angelos Athanasopoulos and Donato Masciandaro, Trinity Economic Papers (TEP) Working Paper No. 2026, 2026.
 
 **[New Wine in Old Bottles: Unintended Financial Dominance and Central Banking Myopia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053363)**  
 with Donato Masciandaro and Riccardo Russo, BAFFI Centre Research Paper No. 236, 2024.

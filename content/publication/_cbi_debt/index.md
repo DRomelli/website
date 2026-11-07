@@ -22,8 +22,6 @@ url_code: ''
 links:
   - name: Trinity Economics Papers (TEP 2226)
     url: https://www.tcd.ie/Economics/TEP/2026/TEP2226.pdf
-  - name: World Bank Policy Research Working Paper
-    url: https://documents1.worldbank.org/curated/en/099216207252528618/pdf/IDU-8396d2be-9319-4c32-a2a8-506e72f62e86.pdf
 url_dataset: ''
 url_pdf: ''
 url_poster: ''
