@@ -26,6 +26,8 @@ selected: true
 title: 'Long Run Inflation: Persistence and Central Bank Independence'
 url_code: 
 links:
+  - name: Trinity Economics Papers (TEP 2026)
+    url: https://www.tcd.ie/Economics/TEP/2026/TEP2026.pdf
   - name: BAFFI CAREFIN Centre - Working paper
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5110065
   - name: SUERF Policy Brief
